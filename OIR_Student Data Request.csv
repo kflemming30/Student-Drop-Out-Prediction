@@ -1,0 +1,2585 @@
+PIDM,Cohort,SEX,Degree,Major 1,1st Year GPA,Dorm,1st Year Retention,College,Total Earned Hours,SAT,Major 2,Advisor
+1,202109F,M,BS,Mechanical Engineering,2.49,Campion Hall,1,SEC,36,,,1.0
+2,202109F,M,BS,Biology,3.18,Commuter,1,CAS,47,,,2.0
+3,202109F,M,BS,Chemistry,2.86,Regis Hall,1,CAS,46,,,3.0
+4,202109F,M,BS,DSB Undeclared,3.84,Gonzaga Hall,1,DSB,45,1300.0,,4.0
+5,202109F,M,BS,Management,2.69,Commuter,1,DSB,42,,,5.0
+6,202109F,M,BS,Marketing,3.45,Campion Hall,1,DSB,42,,,6.0
+7,202109F,F,BS,Nursing,2.39,Campion Hall,1,EGAN,35,,,7.0
+8,202109F,M,BS,Information Systems & Ops Mgmt,3.83,Loyola Hall,1,DSB,56,1200.0,,8.0
+9,202109F,F,BS,DSB Undeclared,3.19,Jogues Hall,1,DSB,45,,,9.0
+10,202109F,M,BA,Undeclared,2.9,Campion Hall,1,CAS,48,,,10.0
+11,202109F,M,BS,Computer Science,2.01,Campion Hall,1,SEC,35,1380.0,,11.0
+12,202109F,M,BS,Computer Science,2.42,Campion Hall,1,SEC,38,1350.0,,11.0
+13,202109F,F,BA,Undeclared,3.9,Jogues Hall,1,CAS,39,1370.0,,12.0
+14,202109F,M,BS,DSB Undeclared,2.91,Jogues Hall,1,DSB,42,,,13.0
+15,202109F,M,BS,Mechanical Engineering,3.61,Campion Hall,1,SEC,55,1380.0,,14.0
+16,202109F,M,BS,Computer Science,3.28,Campion Hall,1,SEC,53,,,1.0
+17,202109F,M,BA,Communication,3.18,Regis Hall,1,CAS,45,,,15.0
+18,202109F,M,BS,DSB Undeclared,3.69,Regis Hall,1,DSB,45,1260.0,,16.0
+19,202109F,F,BS,Nursing,3.39,Campion Hall,1,EGAN,60,,,17.0
+20,202109F,M,BA,Undeclared,2.31,Gonzaga Hall,1,CAS,39,,,18.0
+21,202109F,F,BA,Undeclared,3.15,Regis Hall,1,CAS,42,,,19.0
+22,202109F,F,BS,Nursing,3.01,Loyola Hall,1,EGAN,29,,,20.0
+23,202109F,F,BS,Nursing,3.0,Loyola Hall,1,EGAN,26,,,20.0
+24,202109F,M,BS,Management,0.25,Gonzaga Hall,0,DSB,3,,,21.0
+25,202109F,M,BS,DSB Undeclared,3.16,Regis Hall,1,DSB,45,,,22.0
+26,202109F,F,BS,Psychology,3.77,Regis Hall,1,CAS,47,,,23.0
+27,202109F,F,BA,Undeclared,3.56,Gonzaga Hall,1,CAS,45,,,12.0
+28,202109F,F,BA,Undeclared,3.42,Regis Hall,1,CAS,46,,,24.0
+29,202109F,F,BA,Undeclared,2.93,Loyola Hall,1,CAS,42,,,10.0
+30,202109F,F,BS,Nursing,2.28,Regis Hall,1,EGAN,41,,,25.0
+31,202109F,F,BS,Social Work,2.89,Jogues Hall,1,EGAN,47,,,26.0
+32,202109F,F,BS,International Business,3.29,Loyola Hall,1,DSB,45,,,27.0
+33,202109F,M,BS,DSB Undeclared,2.98,Gonzaga Hall,1,DSB,45,,,28.0
+34,202109F,M,BA,English,3.15,Gonzaga Hall,0,CAS,27,,,29.0
+35,202109F,F,BS,Nursing,3.71,Campion Hall,0,EGAN,17,1260.0,,30.0
+36,202109F,F,BS,Nursing,3.94,Gonzaga Hall,1,EGAN,53,1350.0,,30.0
+37,202109F,F,BS,Biology,3.82,Campion Hall,1,CAS,49,,,31.0
+38,202109F,M,BS,Marketing,4.0,Jogues Hall,0,DSB,39,,,32.0
+39,202109F,M,BS,Biology,2.82,Campion Hall,1,CAS,52,,,33.0
+40,202109F,F,BA,Communication,3.82,Regis Hall,1,CAS,48,,,34.0
+41,202109F,M,BA,Undeclared,3.14,Regis Hall,1,CAS,48,,,11.0
+42,202109F,F,BS,Nursing,3.98,Loyola Hall,1,EGAN,49,1510.0,,35.0
+43,202109F,F,BS,DSB Undeclared,3.98,Loyola Hall,1,DSB,49,,,36.0
+44,202109F,F,BS,Nursing,3.86,Gonzaga Hall,1,EGAN,48,,,37.0
+45,202109F,F,BS,DSB Undeclared,3.4,Regis Hall,1,DSB,54,,,38.0
+46,202109F,F,BA,American Studies,3.98,Commuter,1,CAS,45,,,39.0
+47,202109F,F,BS,Nursing,3.8,Regis Hall,1,EGAN,49,,,4.0
+48,202109F,M,BS,Management,2.8,Loyola Hall,0,DSB,30,,,40.0
+49,202109F,M,BS,Marketing,3.67,Jogues Hall,1,DSB,48,1220.0,,41.0
+50,202109F,F,BA,Undeclared,2.67,Regis Hall,0,CAS,12,,,42.0
+51,202109F,F,BA,Undeclared,3.87,Regis Hall,1,CAS,45,,,43.0
+52,202109F,F,BA,Undeclared,3.18,Loyola Hall,1,CAS,45,,,36.0
+53,202109F,M,BS,Business Analytics,3.2,Gonzaga Hall,1,DSB,45,1130.0,,44.0
+54,202109F,M,BS,DSB Undeclared,3.14,Loyola Hall,1,DSB,42,,,45.0
+55,202109F,M,BS,DSB Undeclared,3.11,Regis Hall,1,DSB,45,1250.0,,22.0
+56,202109F,M,BS,Psychology,3.33,Jogues Hall,1,CAS,42,1100.0,,7.0
+57,202109F,F,BA,English,3.71,Loyola Hall,1,CAS,45,1290.0,,42.0
+58,202109F,F,BS,Psychology,2.78,Jogues Hall,1,CAS,46,1110.0,,46.0
+59,202109F,F,BA,English,3.98,Gonzaga Hall,1,CAS,62,1380.0,,47.0
+60,202109F,F,BS,DSB Undeclared,3.71,Regis Hall,1,DSB,45,,,6.0
+61,202109F,M,BS,Finance,3.27,Gonzaga Hall,1,DSB,45,1160.0,,48.0
+62,202109F,F,BA,Communication,2.95,Gonzaga Hall,1,CAS,45,,,49.0
+63,202109F,F,BS,Nursing,4.0,Regis Hall,1,EGAN,61,1220.0,,50.0
+64,202109F,F,BS,Nursing,3.86,Campion Hall,1,EGAN,49,,,51.0
+65,202109F,M,BA,International Studies,3.52,Gonzaga Hall,1,CAS,42,,,52.0
+66,202109F,F,BS,Marketing,3.76,Loyola Hall,1,DSB,49,,,4.0
+67,202109F,M,BS,Accounting,2.64,Jogues Hall,1,DSB,42,,,53.0
+68,202109F,F,BA,History,2.62,Regis Hall,1,CAS,45,,,15.0
+69,202109F,M,BS,Finance,3.71,Regis Hall,1,DSB,51,,,13.0
+70,202109F,F,BS,Marketing,3.33,Loyola Hall,1,DSB,48,,,36.0
+71,202109F,F,BS,Finance,3.75,Regis Hall,1,DSB,55,1350.0,,54.0
+72,202109F,M,BS,Nursing,4.0,Jogues Hall,1,EGAN,66,1460.0,,55.0
+73,202109F,M,BS,DSB Undeclared,3.81,Regis Hall,1,DSB,46,,,9.0
+74,202109F,F,BA,Communication,3.84,Gonzaga Hall,1,CAS,62,1190.0,,56.0
+75,202109F,F,BA,Undeclared,3.85,Jogues Hall,1,CAS,61,,,57.0
+76,202109F,M,BS,Information Systems & Ops Mgmt,3.85,Loyola Hall,0,DSB,33,1240.0,,3.0
+77,202109F,F,BA,Undeclared,2.89,Gonzaga Hall,1,CAS,45,,,49.0
+78,202109F,F,BS,Nursing,3.34,Gonzaga Hall,1,EGAN,48,,,51.0
+79,202109F,F,BS,Nursing,3.54,Regis Hall,1,EGAN,48,,,35.0
+80,202109F,F,BS,Nursing,3.26,Loyola Hall,1,EGAN,48,,,35.0
+81,202109F,F,BS,Nursing,3.78,Gonzaga Hall,1,EGAN,48,,,30.0
+82,202109F,F,BA,Undeclared,3.4,Campion Hall,1,CAS,48,1200.0,,12.0
+83,202109F,F,BS,DSB Undeclared,2.62,Loyola Hall,1,DSB,39,,,58.0
+84,202109F,F,BS,DSB Undeclared,3.4,Gonzaga Hall,0,DSB,30,,,28.0
+85,202109F,F,BS,Accounting,3.65,Regis Hall,1,DSB,46,1340.0,,59.0
+86,202109F,M,BS,Biomedical Engineering,3.77,Regis Hall,1,SEC,74,1350.0,,60.0
+87,202109F,F,BS,DSB Undeclared,3.62,Regis Hall,1,DSB,45,1210.0,,40.0
+88,202109F,M,BS,Finance,3.58,Jogues Hall,1,DSB,48,,,54.0
+89,202109F,F,BS,Marketing,3.27,Regis Hall,1,DSB,45,,,41.0
+90,202109F,M,BA,History,3.14,Regis Hall,1,CAS,37,,,61.0
+91,202109F,F,BS,Nursing,3.55,Regis Hall,1,EGAN,55,,,35.0
+92,202109F,F,BS,Marketing,3.36,Gonzaga Hall,1,DSB,45,,,62.0
+93,202109F,M,BS,Finance,3.36,Jogues Hall,1,DSB,46,,,63.0
+94,202109F,F,BS,Nursing,1.07,Jogues Hall,0,EGAN,19,,,64.0
+95,202109F,F,BS,Nursing,3.49,Gonzaga Hall,1,EGAN,48,1320.0,,35.0
+96,202109F,F,BS,Psychology,3.37,Campion Hall,1,CAS,50,,,65.0
+97,202109F,M,BA,Sports Media,1.84,Gonzaga Hall,0,CAS,9,1270.0,,18.0
+98,202109F,M,BS,DSB Undeclared,3.78,Jogues Hall,1,DSB,45,1260.0,,66.0
+99,202109F,F,BS,Nursing,2.96,Jogues Hall,1,EGAN,41,,,12.0
+100,202109F,F,BS,Nursing,3.18,Regis Hall,1,EGAN,55,,,67.0
+101,202109F,F,BS,Psychology,3.64,Regis Hall,1,CAS,45,,,65.0
+102,202109F,F,BS,Business Analytics,3.81,Gonzaga Hall,1,DSB,67,,,68.0
+103,202109F,M,BS,Finance,3.64,Jogues Hall,1,DSB,45,,,69.0
+104,202109F,F,BA,Undeclared,4.0,Loyola Hall,1,CAS,45,1320.0,,65.0
+105,202109F,F,BA,Communication,4.0,Campion Hall,1,CAS,60,1380.0,,10.0
+106,202109F,M,BA,Undeclared,3.53,Loyola Hall,1,CAS,45,,,39.0
+107,202109F,F,BA,Undeclared,4.0,Campion Hall,1,CAS,52,,,59.0
+108,202109F,M,BS,International Business,3.05,Jogues Hall,1,DSB,39,,,27.0
+109,202109F,M,BS,Finance,3.31,Regis Hall,1,DSB,45,,,48.0
+110,202109F,F,BS,Marketing,3.53,Regis Hall,1,DSB,45,,,49.0
+111,202109F,M,BS,Finance,3.36,Jogues Hall,1,DSB,60,,,70.0
+112,202109F,F,BS,Nursing,3.58,Regis Hall,1,EGAN,55,1200.0,,55.0
+113,202109F,F,BS,Finance,2.56,Jogues Hall,0,DSB,30,,,70.0
+114,202109F,F,BS,Nursing,3.23,Jogues Hall,1,EGAN,49,,,50.0
+115,202109F,F,BS,Nursing,3.32,Gonzaga Hall,1,EGAN,49,,,17.0
+116,202109F,F,BS,Marketing,3.44,Regis Hall,1,DSB,45,,,36.0
+117,202109F,M,BA,Undeclared,2.91,Regis Hall,1,CAS,42,,,71.0
+118,202109F,M,BS,DSB Undeclared,3.67,Gonzaga Hall,1,DSB,49,1280.0,,72.0
+119,202109F,M,BS,Finance,3.27,Gonzaga Hall,1,DSB,45,,,73.0
+120,202109F,M,BS,DSB Undeclared,3.12,Loyola Hall,0,DSB,24,,,72.0
+121,202109F,M,BS,DSB Undeclared,3.09,Jogues Hall,1,DSB,45,,,21.0
+122,202109F,F,BA,Undeclared,3.7,Regis Hall,1,CAS,57,,,74.0
+123,202109F,F,BA,Communication,3.87,Campion Hall,1,CAS,45,,,49.0
+124,202109F,F,BS,Nursing,3.8,Loyola Hall,1,EGAN,52,,,75.0
+125,202109F,F,BA,Undeclared,3.53,Commuter,1,CAS,54,,,49.0
+126,202109F,F,BS,Nursing,2.98,Regis Hall,1,EGAN,51,,,51.0
+127,202109F,M,BS,DSB Undeclared,3.67,Gonzaga Hall,1,DSB,46,,,69.0
+128,202109F,F,BA,Communication,4.0,Jogues Hall,1,CAS,45,1390.0,,10.0
+129,202109F,M,BA,Program on the Environment,2.82,Loyola Hall,1,CAS,45,,,27.0
+130,202109F,M,BS,DSB Undeclared,2.98,Jogues Hall,1,DSB,42,,,76.0
+131,202109F,F,BS,Marketing,3.0,Regis Hall,1,DSB,39,,,4.0
+132,202109F,F,BA,Undeclared,3.53,Gonzaga Hall,1,CAS,45,,,77.0
+133,202109F,F,BS,Nursing,2.94,Jogues Hall,1,EGAN,46,,,30.0
+134,202109F,M,BS,DSB Undeclared,3.49,Regis Hall,1,DSB,45,1240.0,,21.0
+135,202109F,F,BA,Undeclared,3.02,Gonzaga Hall,1,CAS,45,,,78.0
+136,202109F,F,BS,Nursing,3.01,Campion Hall,1,EGAN,49,,,30.0
+137,202109F,F,BS,Public Health,3.62,Loyola Hall,1,EGAN,42,,,56.0
+138,202109F,F,BA,Visual & Performing Arts,2.66,Regis Hall,1,CAS,41,1100.0,,79.0
+139,202109F,F,BS,Nursing,3.35,Regis Hall,1,EGAN,48,,,80.0
+140,202109F,F,BS,Nursing,2.74,Gonzaga Hall,1,EGAN,39,,,46.0
+141,202109F,F,BS,Biology,3.08,Jogues Hall,1,CAS,57,,,81.0
+142,202109F,M,BS,DSB Undeclared,3.67,Loyola Hall,1,DSB,46,,,53.0
+143,202109F,F,BS,DSB Undeclared,3.86,Gonzaga Hall,1,DSB,46,1230.0,,28.0
+144,202109F,F,BS,Finance,4.0,Jogues Hall,1,DSB,68,1370.0,,82.0
+145,202109F,F,BA,Politics,3.5,Regis Hall,0,CAS,33,,,83.0
+146,202109F,F,BS,Nursing,3.42,Gonzaga Hall,1,EGAN,49,1280.0,,84.0
+147,202109F,M,BS,DSB Undeclared,3.82,Jogues Hall,1,DSB,48,,,53.0
+148,202109F,F,BS,Management,3.85,Gonzaga Hall,1,DSB,53,,,85.0
+149,202109F,M,BS,DSB Undeclared,3.49,Gonzaga Hall,1,DSB,45,1200.0,,28.0
+150,202109F,F,BS,Marketing,3.43,Gonzaga Hall,1,DSB,45,,,6.0
+151,202109F,F,BS,Psychology,4.0,Gonzaga Hall,1,CAS,54,1300.0,,86.0
+152,202109F,F,BS,DSB Undeclared,3.38,Gonzaga Hall,1,DSB,48,,,6.0
+153,202109F,F,BS,Marketing,3.13,Regis Hall,1,DSB,45,,,4.0
+154,202109F,F,BS,Nursing,2.3,Regis Hall,0,EGAN,30,,,50.0
+155,202109F,M,BS,DSB Undeclared,3.73,Jogues Hall,1,DSB,45,,,3.0
+156,202109F,M,BA,Undeclared,3.05,Loyola Hall,1,CAS,42,,,87.0
+157,202109F,F,BS,DSB Undeclared,3.22,Gonzaga Hall,1,DSB,45,,,88.0
+158,202109F,M,BS,Nursing,2.92,Campion Hall,1,EGAN,50,,,51.0
+159,202109F,F,BS,Marketing,3.19,Jogues Hall,1,DSB,42,,,15.0
+160,202109F,M,BS,DSB Undeclared,2.96,Regis Hall,1,DSB,45,,,80.0
+161,202109F,M,BS,Marketing,3.05,Loyola Hall,1,DSB,42,,,4.0
+162,202109F,F,BS,Nursing,3.16,Jogues Hall,1,EGAN,49,,,17.0
+163,202109F,F,BA,Undeclared,3.98,Jogues Hall,1,CAS,52,,,10.0
+164,202109F,M,BS,Accounting,3.89,Gonzaga Hall,1,DSB,45,1340.0,,82.0
+165,202109F,F,BS,Finance,3.79,Jogues Hall,1,DSB,48,,,89.0
+166,202109F,F,BS,DSB Undeclared,3.96,Campion Hall,1,DSB,45,,,36.0
+167,202109F,F,BS,DSB Undeclared,3.92,Gonzaga Hall,1,DSB,56,,,72.0
+168,202109F,F,BS,Nursing,3.1,Gonzaga Hall,1,EGAN,48,,,35.0
+169,202109F,M,BS,SOE Undeclared,2.76,Loyola Hall,1,SEC,46,,,90.0
+170,202109F,F,BA,Communication,3.09,Jogues Hall,1,CAS,48,,,56.0
+171,202109F,F,BS,Marketing,3.38,Campion Hall,1,DSB,45,,,6.0
+172,202109F,F,BS,Finance,3.71,Loyola Hall,1,DSB,45,,,48.0
+173,202109F,M,BS,DSB Undeclared,3.83,Gonzaga Hall,1,DSB,43,,,91.0
+174,202109F,M,BS,DSB Undeclared,2.95,Regis Hall,1,DSB,42,,,9.0
+175,202109F,F,BS,Nursing,2.9,Regis Hall,0,EGAN,34,,,92.0
+176,202109F,F,BS,Nursing,3.05,Regis Hall,1,EGAN,54,,,93.0
+177,202109F,M,BS,DSB Undeclared,3.48,Regis Hall,1,DSB,45,,,94.0
+178,202109F,F,BS,Nursing,3.52,Gonzaga Hall,1,EGAN,49,,,30.0
+179,202109F,M,BS,Accounting,3.05,Loyola Hall,1,DSB,43,,,73.0
+180,202109F,M,BS,Finance,3.43,Loyola Hall,0,DSB,30,1340.0,,69.0
+181,202109F,F,BA,Visual & Performing Arts,3.7,Jogues Hall,0,CAS,27,,,37.0
+182,202109F,M,BS,Finance,3.78,Regis Hall,1,DSB,45,1200.0,,48.0
+183,202109F,M,BS,DSB Undeclared,2.35,Loyola Hall,1,DSB,45,,,3.0
+184,202109F,F,BA,Undeclared,3.16,Jogues Hall,1,CAS,45,1280.0,,95.0
+185,202109F,M,BS,Biology,3.62,Campion Hall,1,CAS,58,1310.0,,96.0
+186,202109F,F,BS,Nursing,3.84,Campion Hall,1,EGAN,49,,,97.0
+187,202109F,F,BA,Undeclared,3.33,Loyola Hall,1,CAS,45,,,98.0
+188,202109F,F,BS,Psychology,3.46,Jogues Hall,1,CAS,46,,,65.0
+189,202109F,M,BS,DSB Undeclared,3.87,Regis Hall,1,DSB,45,,,85.0
+190,202109F,F,BS,Biology,3.29,Campion Hall,1,CAS,43,,,18.0
+191,202109F,F,BS,DSB Undeclared,3.79,Regis Hall,1,DSB,48,,,99.0
+192,202109F,F,BS,Marketing,3.6,Jogues Hall,1,DSB,42,,,6.0
+193,202109F,M,BA,Undeclared,3.49,Jogues Hall,1,CAS,45,,,61.0
+194,202109F,F,BS,Finance,3.71,Campion Hall,1,DSB,48,,,13.0
+195,202109F,F,BA,Undeclared,3.56,Loyola Hall,1,CAS,60,,,15.0
+196,202109F,F,BA,Undeclared,3.98,Jogues Hall,1,CAS,49,,,59.0
+197,202109F,M,BA,English,4.0,Campion Hall,1,CAS,48,,,42.0
+198,202109F,F,BS,DSB Undeclared,3.44,Gonzaga Hall,1,DSB,48,1230.0,,100.0
+199,202109F,M,BS,Finance,3.46,Gonzaga Hall,1,DSB,46,,,69.0
+200,202109F,F,BS,Psychology,3.44,Regis Hall,1,CAS,48,1240.0,,87.0
+201,202109F,M,BS,Marketing,3.2,Regis Hall,1,DSB,45,,,58.0
+202,202109F,F,BS,SOE Undeclared,3.73,Campion Hall,1,SEC,45,,,38.0
+203,202109F,M,BS,Biology,3.97,Campion Hall,1,CAS,54,1220.0,,31.0
+204,202109F,F,BS,Nursing,3.15,Campion Hall,1,EGAN,54,,,30.0
+205,202109F,F,BS,Marketing,3.6,Campion Hall,1,DSB,45,,,36.0
+206,202109F,M,BS,DSB Undeclared,3.6,Regis Hall,1,DSB,45,,,36.0
+207,202109F,M,BS,DSB Undeclared,2.69,Jogues Hall,1,DSB,39,,,101.0
+208,202109F,F,BS,DSB Undeclared,2.67,Gonzaga Hall,1,DSB,45,,,76.0
+209,202109F,F,BS,Nursing,3.49,Regis Hall,1,EGAN,51,,,30.0
+210,202109F,M,BS,Business Analytics,3.88,Loyola Hall,1,DSB,51,,,102.0
+211,202109F,F,BS,DSB Undeclared,3.32,Regis Hall,0,DSB,31,,,40.0
+212,202109F,F,BS,Nursing,3.34,Loyola Hall,1,EGAN,49,1300.0,,55.0
+213,202109F,M,BS,Biology,3.63,Campion Hall,0,CAS,34,,,103.0
+214,202109F,M,BS,DSB Undeclared,3.27,Gonzaga Hall,1,DSB,48,1210.0,,104.0
+215,202109F,M,BS,Marketing,3.8,Jogues Hall,1,DSB,45,1270.0,,4.0
+216,202109F,M,BS,DSB Undeclared,3.49,Regis Hall,1,DSB,45,,,53.0
+217,202109F,M,BA,Undeclared,2.49,Jogues Hall,1,CAS,39,,,18.0
+218,202109F,F,BA,Communication,3.12,Regis Hall,1,CAS,42,,,49.0
+219,202109F,F,BS,Nursing,3.57,Regis Hall,1,EGAN,70,,,75.0
+220,202109F,F,BS,Psychology,3.88,Campion Hall,1,CAS,48,,,100.0
+221,202109F,M,BS,Marketing,2.98,Regis Hall,1,DSB,45,,,105.0
+222,202109F,M,BS,DSB Undeclared,3.63,Regis Hall,1,DSB,48,,,48.0
+223,202109F,F,BS,Marketing,3.62,Gonzaga Hall,1,DSB,45,,,106.0
+224,202109F,M,BS,Mechanical Engineering,2.49,Campion Hall,1,SEC,52,1160.0,,14.0
+225,202109F,M,BS,Chemistry,3.18,Campion Hall,1,CAS,49,,,107.0
+226,202109F,F,BA,Politics,3.83,Regis Hall,1,CAS,49,,,39.0
+227,202109F,F,BA,Program on the Environment,3.11,Jogues Hall,1,CAS,53,,,108.0
+228,202109F,M,BS,DSB Undeclared,4.0,Jogues Hall,1,DSB,65,1430.0,,104.0
+229,202109F,M,BS,DSB Undeclared,3.78,Regis Hall,1,DSB,45,,,109.0
+230,202109F,F,BA,History,3.65,Campion Hall,1,CAS,48,,,95.0
+231,202109F,F,BS,Psychology,3.75,Jogues Hall,1,CAS,53,1380.0,,65.0
+232,202109F,M,BA,Politics,3.63,Gonzaga Hall,1,CAS,46,,,110.0
+233,202109F,F,BS,Nursing,2.88,Jogues Hall,1,EGAN,46,,,17.0
+234,202109F,F,BS,Nursing,3.91,Gonzaga Hall,1,EGAN,60,1320.0,,55.0
+235,202109F,F,BS,Nursing,3.82,Gonzaga Hall,1,EGAN,54,,,35.0
+236,202109F,F,BS,Marketing,3.13,Gonzaga Hall,1,DSB,45,,,4.0
+237,202109F,M,BS,Economics,3.63,Regis Hall,0,DSB,30,,,111.0
+238,202109F,M,BS,Biology,3.51,Campion Hall,1,CAS,51,1220.0,,112.0
+239,202109F,F,BA,Communication,3.91,Gonzaga Hall,1,CAS,42,,,10.0
+240,202109F,F,BS,Nursing,3.52,Campion Hall,1,EGAN,39,,,30.0
+241,202109F,F,BS,DSB Undeclared,3.92,Jogues Hall,1,DSB,55,,,113.0
+242,202109F,M,BS,Finance,3.4,Jogues Hall,1,DSB,45,,,54.0
+243,202109F,F,BS,Marketing,3.5,Campion Hall,0,DSB,33,,,12.0
+244,202109F,F,BS,DSB Undeclared,4.0,Regis Hall,1,DSB,51,1370.0,,82.0
+245,202109F,M,BS,DSB Undeclared,4.0,Jogues Hall,1,DSB,55,,,114.0
+246,202109F,F,BS,Marketing,3.63,Campion Hall,1,DSB,51,,,36.0
+247,202109F,F,BA,Undeclared,3.69,Gonzaga Hall,1,CAS,54,1350.0,,12.0
+248,202109F,M,BA,Undeclared,3.67,Jogues Hall,1,CAS,48,1440.0,,115.0
+249,202109F,M,BS,Finance,2.98,Regis Hall,1,DSB,48,,,48.0
+250,202109F,F,BS,Psychology,3.72,Jogues Hall,1,CAS,42,,,46.0
+251,202109F,F,BS,Nursing,3.87,Regis Hall,1,EGAN,49,1280.0,,51.0
+252,202109F,F,BS,Biology,4.0,Jogues Hall,1,CAS,52,1340.0,,81.0
+253,202109F,M,BS,DSB Undeclared,2.93,Gonzaga Hall,1,DSB,48,,,61.0
+254,202109F,F,BS,Nursing,3.75,Regis Hall,1,EGAN,52,,,17.0
+255,202109F,F,BS,Nursing,3.69,Campion Hall,1,EGAN,56,1350.0,,55.0
+256,202109F,F,BS,Information Systems & Ops Mgmt,3.24,Gonzaga Hall,1,DSB,45,,,59.0
+257,202109F,M,BS,Finance,3.84,Jogues Hall,1,DSB,63,1480.0,,116.0
+258,202109F,M,BS,Chemistry,1.0,Campion Hall,0,CAS,12,1240.0,,117.0
+259,202109F,F,BS,Marketing,3.16,Gonzaga Hall,1,DSB,54,,,6.0
+260,202109F,F,BA,Undeclared,3.73,Gonzaga Hall,1,CAS,45,,,118.0
+261,202109F,F,BS,Psychology,2.91,Jogues Hall,1,CAS,45,,,65.0
+262,202109F,M,BS,Nursing,3.36,Campion Hall,1,EGAN,48,,,97.0
+263,202109F,F,BS,Nursing,3.76,Campion Hall,0,EGAN,33,,,119.0
+264,202109F,M,BS,Business Analytics,3.51,Gonzaga Hall,1,DSB,45,,,70.0
+265,202109F,F,BS,Nursing,3.71,Jogues Hall,1,EGAN,62,1470.0,,55.0
+266,202109F,F,BA,Undeclared,3.79,Gonzaga Hall,1,CAS,47,,,109.0
+267,202109F,M,BS,SOE Undeclared,3.65,Regis Hall,1,SEC,55,1270.0,,120.0
+268,202109F,M,BS,DSB Undeclared,2.85,Loyola Hall,1,DSB,39,,,121.0
+269,202109F,F,BS,Nursing,3.9,Campion Hall,1,EGAN,43,,,35.0
+270,202109F,F,BS,Nursing,2.98,Campion Hall,1,EGAN,49,,,17.0
+271,202109F,M,BS,Finance,3.24,Regis Hall,1,DSB,48,,,63.0
+272,202109F,F,BS,Nursing,3.89,Jogues Hall,1,EGAN,50,,,17.0
+273,202109F,M,BS,Psychology,3.36,Jogues Hall,1,CAS,42,,,86.0
+274,202109F,M,BS,DSB Undeclared,3.4,Jogues Hall,1,DSB,48,,,113.0
+275,202109F,F,BS,Marketing,3.4,Loyola Hall,1,DSB,51,,,6.0
+276,202109F,M,BS,Finance,2.86,Regis Hall,1,DSB,42,,,122.0
+277,202109F,M,BS,DSB Undeclared,3.3,Regis Hall,1,DSB,46,,,123.0
+278,202109F,M,BS,DSB Undeclared,2.62,Commuter,1,DSB,45,,,21.0
+279,202109F,F,BS,Nursing,3.52,Campion Hall,1,EGAN,55,,,124.0
+280,202109F,F,BS,Nursing,3.4,Campion Hall,1,EGAN,54,,,35.0
+281,202109F,M,BS,DSB Undeclared,2.33,Jogues Hall,1,DSB,39,,,109.0
+282,202109F,F,BS,Marketing,4.0,Loyola Hall,1,DSB,49,,,41.0
+283,202109F,F,BA,Undeclared,3.93,Loyola Hall,1,CAS,51,,,56.0
+284,202109F,F,BS,Nursing,3.32,Regis Hall,1,EGAN,49,,,93.0
+285,202109F,F,BS,Nursing,3.48,Campion Hall,1,EGAN,55,,,84.0
+286,202109F,M,BS,DSB Undeclared,3.13,Gonzaga Hall,1,DSB,45,,,125.0
+287,202109F,F,BS,Nursing,3.82,Campion Hall,1,EGAN,57,,,55.0
+288,202109F,F,BS,Nursing,3.33,Loyola Hall,1,EGAN,52,,,55.0
+289,202109F,F,BS,Biology,3.57,Campion Hall,1,CAS,50,,,71.0
+290,202109F,F,BA,Undeclared,3.07,Regis Hall,1,CAS,45,,,33.0
+291,202109F,M,BA,Undeclared,3.74,Jogues Hall,1,CAS,49,,,56.0
+292,202109F,F,BS,Management,3.27,Jogues Hall,1,DSB,45,,,53.0
+293,202109F,F,BA,Undeclared,3.69,Regis Hall,1,CAS,45,,,56.0
+294,202109F,F,BS,Marketing,3.67,Regis Hall,1,DSB,48,,,6.0
+295,202109F,F,BA,Undeclared,3.91,Jogues Hall,1,CAS,45,,,21.0
+296,202109F,M,BS,DSB Undeclared,3.0,Regis Hall,1,DSB,45,,,40.0
+297,202109F,F,BA,Undeclared,3.73,Regis Hall,1,CAS,45,,,126.0
+298,202109F,M,BS,DSB Undeclared,3.36,Regis Hall,1,DSB,46,1290.0,,109.0
+299,202109F,M,BS,Finance,3.62,Jogues Hall,1,DSB,52,,,48.0
+300,202109F,F,BA,Undeclared,3.29,Gonzaga Hall,1,CAS,45,,,10.0
+301,202109F,F,BS,Finance,3.98,Jogues Hall,1,DSB,60,,,91.0
+302,202109F,M,BS,DSB Undeclared,3.92,Jogues Hall,1,DSB,48,1280.0,,101.0
+303,202109F,M,BS,Biology,3.63,Campion Hall,1,CAS,50,1300.0,,61.0
+304,202109F,M,BA,History,3.57,Loyola Hall,1,CAS,42,,,127.0
+305,202109F,F,BS,Mathematics,3.88,Jogues Hall,1,CAS,81,1380.0,,63.0
+306,202109F,F,BS,Nursing,3.59,Gonzaga Hall,1,EGAN,49,,,30.0
+307,202109F,F,BA,Visual & Performing Arts,3.42,Jogues Hall,1,CAS,43,1080.0,,128.0
+308,202109F,M,BA,History,2.64,Gonzaga Hall,1,CAS,42,,,39.0
+309,202109F,F,BS,Accounting,3.51,Jogues Hall,1,DSB,48,,,6.0
+310,202109F,F,BS,DSB Undeclared,3.74,Jogues Hall,1,DSB,57,,,129.0
+311,202109F,F,BS,Management,3.96,Jogues Hall,1,DSB,52,,,104.0
+312,202109F,F,BA,Undeclared,3.29,Jogues Hall,1,CAS,45,,,106.0
+313,202109F,M,BS,Marketing,3.53,Regis Hall,1,DSB,45,,,130.0
+314,202109F,F,BS,Biology,3.11,Campion Hall,1,CAS,42,,,131.0
+315,202109F,F,BS,Mathematics,1.03,Campion Hall,0,CAS,19,,,132.0
+316,202109F,F,BS,Psychology,3.71,Gonzaga Hall,1,CAS,45,,,133.0
+317,202109F,F,BS,Nursing,3.55,Campion Hall,1,EGAN,49,,,93.0
+318,202109F,F,BS,DSB Undeclared,3.47,Jogues Hall,1,DSB,43,1220.0,,113.0
+319,202109F,F,BS,Marketing,2.67,Regis Hall,1,DSB,45,,,36.0
+320,202109F,F,BA,Undeclared,2.86,Regis Hall,1,CAS,42,,,100.0
+321,202109F,F,BA,Communication,3.67,Campion Hall,0,CAS,27,,,134.0
+322,202109F,M,BS,Management,3.71,Loyola Hall,1,DSB,48,,,5.0
+323,202109F,F,BS,Nursing,3.21,Jogues Hall,1,EGAN,55,1290.0,,50.0
+324,202109F,M,BS,DSB Undeclared,2.92,Gonzaga Hall,1,DSB,46,,,123.0
+325,202109F,F,BS,Nursing,3.6,Campion Hall,1,EGAN,49,1280.0,,50.0
+326,202109F,F,BS,Nursing,3.11,Gonzaga Hall,1,EGAN,48,,,35.0
+327,202109F,F,BA,Undeclared,3.38,Gonzaga Hall,1,CAS,45,1220.0,,108.0
+328,202109F,F,BA,Undeclared,3.71,Campion Hall,1,CAS,45,,,28.0
+329,202109F,F,BS,Biomedical Engineering,3.21,Campion Hall,1,SEC,50,1240.0,,60.0
+330,202109F,M,BS,Biomedical Engineering,3.92,Campion Hall,1,SEC,54,,,135.0
+331,202109F,F,BA,Undeclared,3.71,Regis Hall,1,CAS,48,,,133.0
+332,202109F,F,BS,Accounting,3.4,Jogues Hall,0,DSB,30,,,136.0
+333,202109F,F,BS,Finance,3.56,Loyola Hall,1,DSB,45,,,89.0
+334,202109F,F,BS,Psychology,3.65,Jogues Hall,1,CAS,48,,,71.0
+335,202109F,F,BS,Marketing,4.0,Gonzaga Hall,1,DSB,48,1400.0,,105.0
+336,202109F,F,BA,Undeclared,3.52,Gonzaga Hall,1,CAS,42,,,6.0
+337,202109F,F,BS,Biology,3.92,Jogues Hall,1,CAS,62,1440.0,,33.0
+338,202109F,F,BSW,Social Work,2.53,Commuter,1,EGAN,48,,,137.0
+339,202109F,M,BS,Marketing,2.16,Jogues Hall,0,DSB,31,,,138.0
+340,202109F,M,BS,Computer Science,2.93,Gonzaga Hall,1,SEC,50,,,1.0
+341,202109F,F,BA,Undeclared,3.21,Gonzaga Hall,0,CAS,32,,,81.0
+342,202109F,F,BS,DSB Undeclared,3.72,Regis Hall,1,DSB,49,,,130.0
+343,202109F,F,BS,Accounting,3.1,Jogues Hall,1,DSB,45,,,82.0
+344,202109F,F,BS,DSB Undeclared,2.9,Gonzaga Hall,1,DSB,39,,,54.0
+345,202109F,F,BS,Biology,3.32,Campion Hall,1,CAS,47,,,65.0
+346,202109F,F,BS,Nursing,3.93,Campion Hall,1,EGAN,64,,,84.0
+347,202109F,F,BS,Biomedical Engineering,3.78,Campion Hall,1,SEC,59,1290.0,,60.0
+348,202109F,F,BA,Undeclared,3.38,Gonzaga Hall,1,CAS,45,,,36.0
+349,202109F,M,BS,Finance,3.87,Gonzaga Hall,1,DSB,51,,,62.0
+350,202109F,M,BS,Electrical and Computer Engineering,3.77,Campion Hall,1,SEC,48,1380.0,,139.0
+351,202109F,F,BS,Nursing,2.88,Gonzaga Hall,1,EGAN,52,,,51.0
+352,202109F,M,BS,Finance,3.18,Jogues Hall,1,DSB,48,1220.0,,48.0
+353,202109F,F,BS,Psychology,3.13,Regis Hall,0,CAS,15,,,140.0
+354,202109F,M,BS,DSB Undeclared,2.43,Regis Hall,1,DSB,39,,,18.0
+355,202109F,M,BS,DSB Undeclared,3.1,Regis Hall,0,DSB,30,,,22.0
+356,202109F,F,BS,Nursing,3.74,Campion Hall,1,EGAN,48,,,141.0
+357,202109F,M,BS,Economics,3.22,Loyola Hall,0,DSB,9,,,88.0
+358,202109F,M,BS,Economics,3.09,Jogues Hall,1,DSB,45,,,88.0
+359,202109F,F,BS,Marketing,2.85,Regis Hall,0,DSB,27,1230.0,,36.0
+360,202109F,M,BS,Management,3.91,Jogues Hall,1,DSB,58,,,5.0
+361,202109F,M,BS,SOE Undeclared,3.23,Campion Hall,1,SEC,52,,,120.0
+362,202109F,M,BS,Biology,3.03,Campion Hall,1,CAS,52,,,142.0
+363,202109F,F,BS,Nursing,3.56,Campion Hall,1,EGAN,51,,,84.0
+364,202109F,M,BS,Finance,3.65,Campion Hall,1,DSB,48,,,48.0
+365,202109F,M,BS,Management,3.69,Jogues Hall,1,DSB,45,,,21.0
+366,202109F,M,BA,Undeclared,3.07,Regis Hall,1,CAS,45,,,100.0
+367,202109F,F,BA,Undeclared,3.64,Jogues Hall,1,CAS,48,,,115.0
+368,202109F,F,BS,Nursing,3.8,Campion Hall,1,EGAN,51,,,55.0
+369,202109F,F,BS,Nursing,3.8,Regis Hall,0,EGAN,33,,,51.0
+370,202109F,F,BA,Undeclared,3.65,Loyola Hall,1,CAS,45,1380.0,,22.0
+371,202109F,F,BS,Accounting,2.51,Jogues Hall,1,DSB,45,,,59.0
+372,202109F,F,BA,Undeclared,3.64,Jogues Hall,1,CAS,45,,,10.0
+373,202109F,F,BA,Communication,3.09,Gonzaga Hall,1,CAS,43,,,10.0
+374,202109F,F,BS,Accounting,2.98,Regis Hall,1,DSB,45,,,59.0
+375,202109F,F,BS,Public Health,3.59,Regis Hall,0,EGAN,32,,,143.0
+376,202109F,M,BS,DSB Undeclared,3.81,Jogues Hall,1,DSB,60,,,116.0
+377,202109F,M,BS,Psychology,3.51,Jogues Hall,1,CAS,45,,,12.0
+378,202109F,F,BA,Undeclared,3.63,Gonzaga Hall,1,CAS,49,,,106.0
+379,202109F,F,BA,Communication,3.83,Loyola Hall,1,CAS,52,,,49.0
+380,202109F,F,BS,Psychology,,Jogues Hall,0,CAS,0,,,144.0
+381,202109F,M,BS,DSB Undeclared,2.96,Loyola Hall,1,DSB,45,,,105.0
+382,202109F,F,BA,Program on the Environment,3.69,Gonzaga Hall,1,CAS,45,,,145.0
+383,202109F,F,BA,Undeclared,3.0,Regis Hall,1,CAS,45,,,46.0
+384,202109F,F,BS,DSB Undeclared,3.28,Commuter,1,DSB,62,,,8.0
+385,202109F,F,BA,Politics,3.98,Jogues Hall,1,CAS,58,,,115.0
+386,202109F,F,BS,Finance,3.49,Regis Hall,1,DSB,45,,,41.0
+387,202109F,M,BS,Finance,3.76,Regis Hall,1,DSB,45,,,122.0
+388,202109F,F,BA,History,4.0,Jogues Hall,1,CAS,61,,,146.0
+389,202109F,M,BS,Finance,3.13,Jogues Hall,0,DSB,30,,,62.0
+390,202109F,F,BA,Communication,3.83,Gonzaga Hall,0,CAS,33,1290.0,,10.0
+391,202109F,F,BS,Biology,3.89,Jogues Hall,1,CAS,64,1360.0,,31.0
+392,202109F,F,BS,Nursing,3.14,Jogues Hall,0,EGAN,29,,,30.0
+393,202109F,M,BA,Politics,3.8,Jogues Hall,1,CAS,48,1220.0,,147.0
+394,202109F,M,BS,Finance,4.0,Jogues Hall,1,DSB,59,1430.0,,48.0
+395,202109F,F,BS,Marketing,3.73,Regis Hall,1,DSB,45,,,130.0
+396,202109F,F,BA,Undeclared,3.87,Commuter,1,CAS,47,,,89.0
+397,202109F,F,BS,Accounting,3.85,Gonzaga Hall,1,DSB,48,1220.0,,59.0
+398,202109F,F,BA,Undeclared,3.95,Regis Hall,1,CAS,50,,,148.0
+399,202109F,F,BS,DSB Undeclared,3.97,Regis Hall,1,DSB,59,,,4.0
+400,202109F,F,BA,Undeclared,3.93,Jogues Hall,1,CAS,60,1350.0,,65.0
+401,202109F,M,BS,Biology,3.42,Campion Hall,1,CAS,43,,,81.0
+402,202109F,F,BS,Marketing,3.91,Jogues Hall,1,DSB,55,1370.0,,102.0
+403,202109F,F,BA,Sociology and Anthropology,3.96,Jogues Hall,1,CAS,51,1340.0,,149.0
+404,202109F,F,BS,Accounting,3.92,Jogues Hall,1,DSB,69,1510.0,,82.0
+405,202109F,M,BS,Business Analytics,2.89,Campion Hall,1,DSB,53,,,90.0
+406,202109F,M,BS,DSB Undeclared,2.97,Jogues Hall,1,DSB,39,,,69.0
+407,202109F,F,BS,Nursing,3.34,Campion Hall,1,EGAN,55,,,30.0
+408,202109F,F,BS,Management,3.86,Jogues Hall,1,DSB,51,,,138.0
+409,202109F,F,BS,DSB Undeclared,3.94,Loyola Hall,1,DSB,51,,,114.0
+410,202109F,M,BS,DSB Undeclared,3.6,Jogues Hall,1,DSB,45,1330.0,,3.0
+411,202109F,F,BS,Nursing,3.25,Campion Hall,1,EGAN,52,,,51.0
+412,202109F,M,BS,Marketing,3.13,Gonzaga Hall,0,DSB,30,,,4.0
+413,202109F,M,BS,Finance,3.95,Campion Hall,1,DSB,58,,,48.0
+414,202109F,F,BS,Biology,2.4,Campion Hall,1,CAS,42,,,150.0
+415,202109F,M,BS,SOE Undeclared,3.67,Regis Hall,1,SEC,48,1240.0,,8.0
+416,202109F,M,BS,Accounting,3.67,Gonzaga Hall,1,DSB,48,,,82.0
+417,202109F,M,BS,DSB Undeclared,3.87,Regis Hall,1,DSB,46,1280.0,,48.0
+418,202109F,F,BS,Nursing,3.19,Campion Hall,1,EGAN,52,,,55.0
+419,202109F,F,BS,Marketing,3.05,Regis Hall,1,DSB,45,,,4.0
+420,202109F,M,BS,DSB Undeclared,3.53,Regis Hall,1,DSB,45,,,72.0
+421,202109F,F,BS,Biology,2.58,Regis Hall,1,CAS,33,,,33.0
+422,202109F,F,BA,Undeclared,3.49,Regis Hall,1,CAS,39,,,36.0
+423,202109F,F,BA,Undeclared,3.85,Gonzaga Hall,1,CAS,56,,,34.0
+424,202109F,F,BS,Psychology,3.69,Regis Hall,1,CAS,61,1210.0,,65.0
+425,202109F,F,BS,Marketing,3.49,Loyola Hall,1,DSB,46,1210.0,,105.0
+426,202109F,F,BS,Nursing,3.95,Jogues Hall,1,EGAN,66,,,151.0
+427,202109F,F,BS,Business Analytics,3.52,Campion Hall,1,DSB,46,,,68.0
+428,202109F,F,BS,Nursing,3.58,Gonzaga Hall,1,EGAN,51,,,55.0
+429,202109F,F,BS,Biology,3.76,Jogues Hall,1,CAS,62,,,81.0
+430,202109F,M,BS,Finance,3.3,Gonzaga Hall,1,DSB,46,,,69.0
+431,202109F,F,BS,Nursing,3.76,Campion Hall,1,EGAN,51,,,151.0
+432,202109F,F,BS,Psychology,3.5,Gonzaga Hall,1,CAS,52,,,152.0
+433,202109F,F,BS,Finance,3.44,Regis Hall,1,DSB,57,,,102.0
+434,202109F,M,BS,DSB Undeclared,3.4,Loyola Hall,1,DSB,45,,,45.0
+435,202109F,F,BS,Nursing,3.45,Campion Hall,1,EGAN,48,1360.0,,67.0
+436,202109F,M,BS,DSB Undeclared,3.38,Loyola Hall,1,DSB,45,,,116.0
+437,202109F,M,BS,DSB Undeclared,3.96,Gonzaga Hall,1,DSB,45,1440.0,,80.0
+438,202109F,F,BS,DSB Undeclared,4.0,Jogues Hall,1,DSB,49,,,8.0
+439,202109F,M,BS,Business Analytics,3.42,Jogues Hall,1,DSB,51,1100.0,,80.0
+440,202109F,M,BA,Undeclared,2.55,Jogues Hall,1,CAS,34,,,153.0
+441,202109F,M,BS,Finance,2.8,Regis Hall,1,DSB,45,,,48.0
+442,202109F,M,BS,Accounting,3.83,Loyola Hall,1,DSB,52,,,82.0
+443,202109F,F,BA,Undeclared,3.09,Regis Hall,1,CAS,43,,,154.0
+444,202109F,F,BS,Nursing,3.26,Gonzaga Hall,1,EGAN,48,,,30.0
+445,202109F,M,BS,DSB Undeclared,3.17,Jogues Hall,1,DSB,42,,,155.0
+446,202109F,F,BA,Undeclared,3.69,Regis Hall,1,CAS,46,,,71.0
+447,202109F,F,BS,Nursing,3.46,Loyola Hall,1,EGAN,49,,,97.0
+448,202109F,M,BS,DSB Undeclared,3.12,Regis Hall,1,DSB,42,1190.0,,70.0
+449,202109F,F,BS,DSB Undeclared,3.33,Gonzaga Hall,1,DSB,45,,,36.0
+450,202109F,M,BA,Undeclared,1.7,Campion Hall,0,CAS,30,,,22.0
+451,202109F,F,BA,Communication,3.27,Jogues Hall,1,CAS,45,,,106.0
+452,202109F,F,BS,Nursing,3.67,Regis Hall,1,EGAN,62,,,124.0
+453,202109F,F,BA,Undeclared,3.85,Gonzaga Hall,1,CAS,45,,,23.0
+454,202109F,F,BS,DSB Undeclared,3.09,Gonzaga Hall,1,DSB,45,,,4.0
+455,202109F,F,BS,Finance,3.29,Commuter,1,DSB,45,,,54.0
+456,202109F,M,BS,Psychology,3.28,Loyola Hall,1,CAS,36,,,71.0
+457,202109F,M,BS,Economics,3.16,Loyola Hall,1,DSB,45,,,156.0
+458,202109F,F,BS,Nursing,3.79,Regis Hall,1,EGAN,56,1250.0,,50.0
+459,202109F,F,BA,Undeclared,3.04,Regis Hall,0,CAS,27,,,157.0
+460,202109F,F,BS,Nursing,2.64,Jogues Hall,1,EGAN,51,,,75.0
+461,202109F,F,BS,Psychology,3.78,Regis Hall,1,CAS,51,,,65.0
+462,202109F,F,BA,Visual & Performing Arts,3.53,Gonzaga Hall,1,CAS,45,,,158.0
+463,202109F,M,BS,Economics,3.98,Jogues Hall,1,DSB,65,,,88.0
+464,202109F,F,BS,Psychology,3.32,Loyola Hall,1,CAS,50,,,152.0
+465,202109F,F,BS,Psychology,3.83,Regis Hall,1,CAS,49,,,130.0
+466,202109F,M,BS,DSB Undeclared,3.62,Jogues Hall,1,DSB,66,1460.0,,8.0
+467,202109F,M,BS,DSB Undeclared,3.67,Gonzaga Hall,1,DSB,46,1250.0,,59.0
+468,202109F,F,BA,Communication,3.4,Loyola Hall,1,CAS,45,,,34.0
+469,202109F,F,BA,Communication,2.73,Jogues Hall,1,CAS,45,1150.0,,106.0
+470,202109F,F,BS,DSB Undeclared,3.88,Jogues Hall,1,DSB,58,,,59.0
+471,202109F,M,BS,Finance,3.58,Jogues Hall,1,DSB,45,,,48.0
+472,202109F,F,BS,DSB Undeclared,3.51,Loyola Hall,1,DSB,45,1250.0,,116.0
+473,202109F,F,BS,DSB Undeclared,2.86,Regis Hall,1,DSB,42,,,85.0
+474,202109F,F,BS,Biomedical Engineering,3.6,Campion Hall,1,SEC,57,,,159.0
+475,202109F,M,BS,Finance,3.84,Jogues Hall,1,DSB,49,,,63.0
+476,202109F,F,BS,DSB Undeclared,3.96,Loyola Hall,1,DSB,49,,,116.0
+477,202109F,M,BS,Accounting,3.62,Loyola Hall,1,DSB,45,,,113.0
+478,202109F,M,BS,Finance,3.22,Gonzaga Hall,1,DSB,45,,,70.0
+479,202109F,F,BS,Computer Science,3.52,Campion Hall,1,SEC,54,,,160.0
+480,202109F,F,BA,Undeclared,2.72,Jogues Hall,1,CAS,36,,,161.0
+481,202109F,F,BS,Nursing,3.33,Loyola Hall,1,EGAN,49,,,50.0
+482,202109F,F,BA,Sports Media,3.13,Regis Hall,1,CAS,45,,,49.0
+483,202109F,F,BA,Visual & Performing Arts,3.24,Loyola Hall,1,CAS,45,,,162.0
+484,202109F,M,BS,Management,3.43,Campion Hall,1,DSB,46,,,85.0
+485,202109F,M,BS,Finance,3.94,Jogues Hall,1,DSB,52,1330.0,,48.0
+486,202109F,F,BS,Nursing,3.89,Gonzaga Hall,1,EGAN,55,,,97.0
+487,202109F,M,BS,Finance,3.73,Commuter,1,DSB,46,1140.0,,48.0
+488,202109F,F,BS,Psychology,3.51,Gonzaga Hall,1,CAS,45,,,163.0
+489,202109F,F,BS,Marketing,3.24,Campion Hall,1,DSB,45,,,21.0
+490,202109F,F,BA,Visual & Performing Arts,3.89,Jogues Hall,1,CAS,55,1340.0,,128.0
+491,202109F,M,BS,Nursing,4.0,Campion Hall,1,EGAN,54,1390.0,,93.0
+492,202109F,F,BA,Politics,3.89,Gonzaga Hall,1,CAS,54,,,115.0
+493,202109F,F,BS,Management,3.98,Jogues Hall,1,DSB,48,1350.0,,89.0
+494,202109F,M,BS,Psychology,2.64,Regis Hall,1,CAS,45,1300.0,,133.0
+495,202109F,M,BS,DSB Undeclared,2.36,Jogues Hall,1,DSB,42,,,18.0
+496,202109F,F,BA,Undeclared,3.36,Loyola Hall,1,CAS,46,1150.0,,164.0
+497,202109F,M,BS,DSB Undeclared,3.67,Regis Hall,1,DSB,46,1350.0,,53.0
+498,202109F,F,BS,Marketing,3.7,Regis Hall,0,DSB,30,,,6.0
+499,202109F,F,BS,Marketing,3.7,Loyola Hall,1,DSB,52,,,6.0
+500,202109F,F,BS,Nursing,3.51,Campion Hall,1,EGAN,50,1390.0,,17.0
+501,202109F,F,BS,Nursing,2.85,Campion Hall,1,EGAN,49,,,26.0
+502,202109F,M,BS,Accounting,3.62,Jogues Hall,1,DSB,49,1320.0,,59.0
+503,202109F,F,BS,DSB Undeclared,3.47,Loyola Hall,1,DSB,45,,,41.0
+504,202109F,F,BS,Nursing,3.59,Gonzaga Hall,1,EGAN,49,1360.0,,67.0
+505,202109F,M,BS,DSB Undeclared,3.84,Regis Hall,1,DSB,51,1400.0,,116.0
+506,202109F,F,BS,Nursing,3.93,Gonzaga Hall,1,EGAN,49,,,50.0
+507,202109F,F,BS,Psychology,3.81,Campion Hall,1,CAS,46,,,65.0
+508,202109F,F,BS,Business Analytics,3.47,Loyola Hall,1,DSB,45,,,68.0
+509,202109F,M,BS,DSB Undeclared,3.49,Regis Hall,1,DSB,45,,,53.0
+510,202109F,F,BS,Nursing,3.63,Regis Hall,1,EGAN,49,,,35.0
+511,202109F,M,BS,Accounting,3.74,Regis Hall,1,DSB,55,1430.0,,82.0
+512,202109F,M,BA,History,3.64,Gonzaga Hall,1,CAS,43,,,47.0
+513,202109F,M,BS,Computer Science,3.35,Campion Hall,1,SEC,48,,,11.0
+514,202109F,M,BS,Mechanical Engineering,3.43,Gonzaga Hall,1,SEC,46,1250.0,,139.0
+515,202109F,F,BA,Undeclared,3.63,Jogues Hall,1,CAS,56,,,133.0
+516,202109F,M,BA,Undeclared,3.83,Jogues Hall,1,CAS,48,,,82.0
+517,202109F,M,BS,Economics,3.84,Jogues Hall,1,DSB,49,1440.0,,28.0
+518,202109F,M,BA,Program on the Environment,3.39,Campion Hall,0,CAS,34,,,165.0
+519,202109F,M,BS,DSB Undeclared,3.4,Jogues Hall,1,DSB,45,,,166.0
+520,202109F,M,BS,Finance,3.78,Regis Hall,1,DSB,45,,,62.0
+521,202109F,M,BS,Biology,3.15,Jogues Hall,1,CAS,41,,,130.0
+522,202109F,M,BS,DSB Undeclared,3.93,Loyola Hall,1,DSB,55,,,63.0
+523,202109F,F,BS,Nursing,3.64,Regis Hall,1,EGAN,61,,,55.0
+524,202109F,F,BS,Nursing,3.33,Regis Hall,1,EGAN,49,,,55.0
+525,202109F,F,BA,Undeclared,2.91,Regis Hall,1,CAS,46,,,152.0
+526,202109F,F,BS,Nursing,3.24,Campion Hall,1,EGAN,48,,,12.0
+527,202109F,M,BS,Finance,3.6,Regis Hall,1,DSB,45,,,13.0
+528,202109F,M,BS,DSB Undeclared,3.44,Gonzaga Hall,1,DSB,46,,,53.0
+529,202109F,F,BS,Nursing,3.98,Campion Hall,1,EGAN,55,,,35.0
+530,202109F,F,BS,Biology,,Campion Hall,0,CAS,0,,,
+531,202109F,F,BA,Visual & Performing Arts,3.73,Regis Hall,1,CAS,45,,,0.0
+532,202109F,F,BA,Undeclared,3.8,Regis Hall,1,CAS,45,,,0.0
+533,202109F,F,BA,Undeclared,3.23,Loyola Hall,1,CAS,46,,,71.0
+534,202109F,M,BS,DSB Undeclared,2.78,Gonzaga Hall,1,DSB,39,,,80.0
+535,202109F,M,BA,Program on the Environment,3.12,Regis Hall,1,CAS,42,,,77.0
+536,202109F,F,BS,Mathematics,3.71,Campion Hall,1,CAS,60,,,78.0
+537,202109F,F,BS,Biology,2.62,Campion Hall,1,CAS,46,,,12.0
+538,202109F,F,BS,Psychology,3.66,Jogues Hall,1,CAS,53,1220.0,,133.0
+539,202109F,F,BS,Accounting,3.46,Jogues Hall,1,DSB,46,1440.0,,82.0
+540,202109F,M,BA,History,3.71,Jogues Hall,1,CAS,45,,,127.0
+541,202109F,F,BA,Undeclared,3.96,Regis Hall,1,CAS,60,,,25.0
+542,202109F,F,BA,Politics,3.98,Jogues Hall,1,CAS,64,1330.0,,152.0
+543,202109F,F,BS,Marketing,2.77,Campion Hall,1,DSB,48,,,4.0
+544,202109F,M,BS,Nursing,3.77,Campion Hall,1,EGAN,52,,,84.0
+545,202109F,F,BS,DSB Undeclared,3.67,Gonzaga Hall,1,DSB,45,,,4.0
+546,202109F,F,BA,Undeclared,3.49,Commuter,1,CAS,45,,,34.0
+547,202109F,F,BS,Nursing,3.47,Campion Hall,1,EGAN,48,,,55.0
+548,202109F,M,BS,DSB Undeclared,3.31,Gonzaga Hall,1,DSB,45,1330.0,,25.0
+549,202109F,F,BS,DSB Undeclared,3.22,Gonzaga Hall,1,DSB,45,,,36.0
+550,202109F,M,BS,DSB Undeclared,2.95,Jogues Hall,1,DSB,42,,,36.0
+551,202109F,M,BS,Finance,3.73,Jogues Hall,1,DSB,45,1310.0,,13.0
+552,202109F,F,BS,Nursing,3.76,Campion Hall,1,EGAN,48,,,35.0
+553,202109F,M,BS,DSB Undeclared,4.0,Jogues Hall,1,DSB,48,,,70.0
+554,202109F,F,BS,Nursing,3.11,Gonzaga Hall,1,EGAN,48,,,30.0
+555,202109F,F,BS,Nursing,3.99,Campion Hall,1,EGAN,53,,,93.0
+556,202109F,M,BS,Computer Science,2.83,Campion Hall,1,SEC,47,,,0.0
+557,202109F,F,BS,Nursing,3.64,Regis Hall,1,EGAN,48,1270.0,,50.0
+558,202109F,M,BS,Mechanical Engineering,2.42,Loyola Hall,1,SEC,52,,,0.0
+559,202109F,M,BS,Finance,4.0,Regis Hall,1,DSB,64,,,13.0
+560,202109F,M,BA,Undeclared,2.58,Regis Hall,1,CAS,45,1340.0,,34.0
+561,202109F,M,BS,Finance,3.49,Jogues Hall,1,DSB,45,,,102.0
+562,202109F,F,BS,Nursing,3.96,Regis Hall,1,EGAN,56,,,97.0
+563,202109F,F,BA,Undeclared,3.47,Gonzaga Hall,1,CAS,51,,,39.0
+564,202109F,F,BS,Nursing,3.61,Regis Hall,1,EGAN,51,,,75.0
+565,202109F,F,BS,Biology,3.18,Campion Hall,1,CAS,46,,,152.0
+566,202109F,M,BA,Undeclared,3.08,Gonzaga Hall,1,CAS,40,,,62.0
+567,202109F,F,BS,Psychology,3.72,Loyola Hall,0,CAS,29,,,71.0
+568,202109F,F,BS,Psychology,1.26,Campion Hall,0,CAS,18,,,71.0
+569,202109F,F,BA,Communication,3.62,Jogues Hall,1,CAS,45,,,121.0
+570,202109F,M,BS,DSB Undeclared,2.62,Regis Hall,1,DSB,42,,,56.0
+571,202109F,F,BA,Visual & Performing Arts,3.3,Regis Hall,0,CAS,27,,,0.0
+572,202109F,F,BS,Marketing,3.4,Regis Hall,0,DSB,24,,,36.0
+573,202109F,F,BS,DSB Undeclared,3.97,Loyola Hall,0,DSB,30,,,111.0
+574,202109F,F,BS,Psychology,4.0,Jogues Hall,1,CAS,62,1350.0,,133.0
+575,202109F,F,BA,Undeclared,3.78,Commuter,1,CAS,45,,,105.0
+576,202109F,F,BS,Nursing,2.15,Jogues Hall,1,EGAN,36,,,133.0
+577,202109F,M,BS,DSB Undeclared,3.42,Gonzaga Hall,1,DSB,45,,,53.0
+578,202109F,F,BS,Nursing,3.45,Regis Hall,1,EGAN,49,,,50.0
+579,202109F,M,BA,Communication,1.38,Jogues Hall,0,CAS,15,,,10.0
+580,202109F,M,BS,Accounting,3.47,Regis Hall,1,DSB,45,1320.0,,89.0
+581,202109F,M,BS,DSB Undeclared,3.79,Regis Hall,1,DSB,48,,,16.0
+582,202109F,F,BA,Program on the Environment,0.25,Regis Hall,0,CAS,1,1270.0,,165.0
+583,202109F,F,BA,Communication,3.71,Jogues Hall,1,CAS,45,,,10.0
+584,202109F,F,BS,Public Health,3.16,Jogues Hall,1,EGAN,43,,,131.0
+585,202109F,F,BA,Undeclared,3.77,Campion Hall,1,CAS,48,,,0.0
+586,202109F,M,BS,Finance,2.89,Loyola Hall,1,DSB,45,,,53.0
+587,202109F,F,BA,Undeclared,3.88,Jogues Hall,1,CAS,48,,,68.0
+588,202109F,M,BA,Undeclared,2.51,Gonzaga Hall,1,CAS,45,,,22.0
+589,202109F,M,BA,American Studies,3.67,Regis Hall,1,CAS,54,,,0.0
+590,202109F,F,BS,Nursing,3.55,Gonzaga Hall,1,EGAN,56,,,17.0
+591,202109F,M,BA,Sports Media,2.36,Jogues Hall,1,CAS,45,,,18.0
+592,202109F,F,BS,DSB Undeclared,3.77,Jogues Hall,1,DSB,53,,,123.0
+593,202109F,F,BS,DSB Undeclared,3.67,Campion Hall,1,DSB,46,1180.0,,0.0
+594,202109F,F,BS,Nursing,3.48,Gonzaga Hall,1,EGAN,52,,,75.0
+595,202109F,M,BA,Undeclared,2.51,Gonzaga Hall,1,CAS,42,1230.0,,0.0
+596,202109F,F,BA,Sports Media,2.14,Loyola Hall,1,CAS,33,,,56.0
+597,202109F,F,BS,DSB Undeclared,4.0,Jogues Hall,1,DSB,59,1380.0,,125.0
+598,202109F,F,BS,Nursing,3.45,Campion Hall,1,EGAN,49,,,35.0
+599,202109F,M,BS,Chemistry,3.98,Campion Hall,1,CAS,54,1270.0,,57.0
+600,202109F,F,BS,Psychology,3.78,Jogues Hall,1,CAS,45,,,6.0
+601,202109F,F,BS,Management,3.54,Regis Hall,1,DSB,49,,,21.0
+602,202109F,F,BS,Chemistry,3.61,Campion Hall,1,CAS,51,,,0.0
+603,202109F,F,BA,Undeclared,3.41,Campion Hall,1,CAS,44,,,133.0
+604,202109F,M,BS,Biology,3.08,Campion Hall,1,CAS,47,1280.0,,66.0
+605,202109F,F,BS,International Business,3.62,Gonzaga Hall,1,DSB,48,1310.0,,48.0
+606,202109F,M,BS,Biology,3.98,Jogues Hall,1,CAS,58,,,96.0
+607,202109F,F,BA,Undeclared,3.88,Gonzaga Hall,1,CAS,47,1320.0,,33.0
+608,202109F,M,BS,DSB Undeclared,2.11,Loyola Hall,1,DSB,42,,,4.0
+609,202109F,F,BS,Nursing,3.5,Jogues Hall,1,EGAN,50,1230.0,,17.0
+610,202109F,F,BS,Psychology,2.67,Gonzaga Hall,0,CAS,9,,,0.0
+611,202109F,M,BS,DSB Undeclared,3.82,Regis Hall,1,DSB,45,1350.0,,48.0
+612,202109F,F,BS,Marketing,3.56,Commuter,1,DSB,55,,,4.0
+613,202109F,F,BS,DSB Undeclared,3.41,Regis Hall,1,DSB,46,,,98.0
+614,202109F,F,BS,Marketing,3.93,Regis Hall,1,DSB,45,,,6.0
+615,202109F,F,BS,DSB Undeclared,3.87,Regis Hall,1,DSB,45,,,62.0
+616,202109F,F,BS,Nursing,2.97,Jogues Hall,1,EGAN,49,,,51.0
+617,202109F,F,BS,Nursing,3.82,Campion Hall,1,EGAN,60,,,50.0
+618,202109F,F,BS,Psychology,3.91,Gonzaga Hall,1,CAS,45,,,152.0
+619,202109F,F,BS,Nursing,3.52,Campion Hall,1,EGAN,49,,,35.0
+620,202109F,M,BS,Finance,3.53,Regis Hall,1,DSB,45,,,48.0
+621,202109F,F,BS,Nursing,3.32,Gonzaga Hall,0,EGAN,36,,,30.0
+622,202109F,F,BS,Psychology,3.23,Regis Hall,1,CAS,62,,,46.0
+623,202109F,F,BS,Nursing,3.38,Jogues Hall,1,EGAN,53,,,30.0
+624,202109F,M,BS,Finance,3.42,Regis Hall,1,DSB,45,,,48.0
+625,202109F,M,BS,Finance,3.96,Campion Hall,1,DSB,46,1260.0,,54.0
+626,202109F,F,BS,DSB Undeclared,3.88,Loyola Hall,1,DSB,49,,,91.0
+627,202109F,M,BS,Mathematics,3.89,Jogues Hall,1,CAS,49,1460.0,,118.0
+628,202109F,M,BS,DSB Undeclared,3.47,Gonzaga Hall,1,DSB,54,,,91.0
+629,202109F,M,BS,Finance,3.71,Regis Hall,1,DSB,45,,,48.0
+630,202109F,F,BA,English,3.93,Jogues Hall,1,CAS,51,1310.0,,136.0
+631,202109F,F,BS,Nursing,3.53,Regis Hall,1,EGAN,49,,,50.0
+632,202109F,M,BS,Finance,3.5,Regis Hall,1,DSB,42,,,48.0
+633,202109F,F,BS,Nursing,3.44,Gonzaga Hall,1,EGAN,54,,,35.0
+634,202109F,F,BS,Marketing,3.71,Jogues Hall,1,DSB,48,,,36.0
+635,202109F,F,BA,International Studies,3.51,Campion Hall,1,CAS,45,,,52.0
+636,202109F,F,BS,Nursing,3.39,Campion Hall,1,EGAN,47,,,65.0
+637,202109F,M,BA,Politics,2.51,Gonzaga Hall,1,CAS,39,,,106.0
+638,202109F,F,BS,Nursing,3.0,Loyola Hall,1,EGAN,44,,,36.0
+639,202109F,F,BS,DSB Undeclared,3.8,Jogues Hall,1,DSB,46,,,16.0
+640,202109F,F,BS,DSB Undeclared,4.0,Campion Hall,1,DSB,46,,,59.0
+641,202109F,M,BS,DSB Undeclared,3.76,Gonzaga Hall,1,DSB,45,1340.0,,69.0
+642,202109F,F,BS,DSB Undeclared,3.63,Gonzaga Hall,0,DSB,30,,,22.0
+643,202109F,F,BS,DSB Undeclared,2.67,Gonzaga Hall,1,DSB,36,,,163.0
+644,202109F,F,BS,Psychology,3.85,Jogues Hall,1,CAS,49,1400.0,,133.0
+645,202109F,F,BS,DSB Undeclared,3.36,Jogues Hall,1,DSB,45,,,36.0
+646,202109F,F,BA,Communication,3.73,Regis Hall,1,CAS,49,,,10.0
+647,202109F,M,BS,DSB Undeclared,3.0,Loyola Hall,0,DSB,12,,,38.0
+648,202109F,F,BS,Psychology,3.65,Jogues Hall,1,CAS,49,,,46.0
+649,202109F,M,BS,Finance,3.8,Jogues Hall,1,DSB,54,1390.0,,48.0
+650,202109F,M,BS,DSB Undeclared,3.54,Jogues Hall,1,DSB,48,,,98.0
+651,202109F,M,BS,DSB Undeclared,3.14,Regis Hall,1,DSB,42,,,123.0
+652,202109F,M,BS,Finance,3.6,Jogues Hall,1,DSB,45,,,89.0
+653,202109F,F,BA,Digital Journalism,3.36,Gonzaga Hall,1,CAS,48,,,0.0
+654,202109F,F,BA,English,4.0,Gonzaga Hall,1,CAS,54,,,88.0
+655,202109F,M,BS,DSB Undeclared,3.83,Regis Hall,1,DSB,48,,,48.0
+656,202109F,M,BS,DSB Undeclared,3.13,Jogues Hall,1,DSB,45,,,76.0
+657,202109F,F,BA,Undeclared,3.84,Jogues Hall,1,CAS,45,,,138.0
+658,202109F,M,BS,Accounting,3.94,Jogues Hall,1,DSB,67,1320.0,,82.0
+659,202109F,M,BS,Marketing,3.42,Loyola Hall,1,DSB,45,,,36.0
+660,202109F,M,BA,Undeclared,3.4,Regis Hall,1,CAS,48,,,0.0
+661,202109F,F,BA,Communication,3.87,Gonzaga Hall,1,CAS,45,,,121.0
+662,202109F,M,BS,Mechanical Engineering,3.33,Jogues Hall,1,SEC,52,1260.0,,0.0
+663,202109F,F,BA,Politics,3.89,Jogues Hall,1,CAS,46,,,56.0
+664,202109F,F,BS,Psychology,3.87,Jogues Hall,1,CAS,48,1340.0,,65.0
+665,202109F,F,BS,DSB Undeclared,3.84,Gonzaga Hall,1,DSB,54,,,54.0
+666,202109F,M,BA,Program on the Environment,3.48,Jogues Hall,1,CAS,42,,,0.0
+667,202109F,M,BS,Nursing,3.0,Campion Hall,1,EGAN,49,,,50.0
+668,202109F,M,BS,DSB Undeclared,3.42,Loyola Hall,1,DSB,45,,,36.0
+669,202109F,F,BS,Psychology,3.89,Regis Hall,1,CAS,48,,,65.0
+670,202109F,F,BA,Undeclared,3.84,Regis Hall,1,CAS,46,1170.0,,143.0
+671,202109F,F,BS,Nursing,3.93,Campion Hall,1,EGAN,66,,,97.0
+672,202109F,F,BS,Nursing,3.88,Gonzaga Hall,1,EGAN,55,1390.0,,35.0
+673,202109F,M,BS,Economics,3.58,Loyola Hall,1,DSB,45,,,88.0
+674,202109F,F,BS,Nursing,3.39,Jogues Hall,1,EGAN,51,,,75.0
+675,202109F,F,BS,Marketing,2.13,Gonzaga Hall,1,DSB,45,,,98.0
+676,202109F,F,BS,Nursing,3.75,Loyola Hall,1,EGAN,72,1410.0,,51.0
+677,202109F,F,BS,Nursing,3.61,Gonzaga Hall,1,EGAN,49,,,67.0
+678,202109F,F,BS,Psychology,3.64,Regis Hall,1,CAS,47,,,26.0
+679,202109F,M,BS,Marketing,3.42,Gonzaga Hall,1,DSB,45,,,36.0
+680,202109F,M,BS,Economics,3.88,Regis Hall,1,DSB,51,,,88.0
+681,202109F,M,BS,Biology,3.39,Campion Hall,1,CAS,54,1280.0,,96.0
+682,202109F,F,BS,DSB Undeclared,3.71,Loyola Hall,1,DSB,45,,,6.0
+683,202109F,F,BS,Nursing,3.23,Gonzaga Hall,1,EGAN,46,,,64.0
+684,202109F,F,BS,Nursing,3.22,Jogues Hall,1,EGAN,51,,,30.0
+685,202109F,M,BS,Management,2.04,Jogues Hall,1,DSB,42,,,85.0
+686,202109F,F,BA,Undeclared,4.0,Jogues Hall,1,CAS,47,,,102.0
+687,202109F,F,BS,Chemistry,2.82,Campion Hall,1,CAS,57,,,0.0
+688,202109F,F,BS,Marketing,3.8,Campion Hall,1,DSB,58,1240.0,,6.0
+689,202109F,M,BS,Psychology,3.54,Jogues Hall,1,CAS,61,1330.0,,46.0
+690,202109F,F,BS,DSB Undeclared,3.58,Gonzaga Hall,1,DSB,45,1240.0,,62.0
+691,202109F,F,BS,SOE Undeclared,3.26,Campion Hall,0,SEC,13,,,0.0
+692,202109F,F,BS,Marketing,3.81,Regis Hall,1,DSB,57,,,4.0
+693,202109F,F,BA,Undeclared,3.82,Loyola Hall,1,CAS,45,,,121.0
+694,202109F,M,BS,DSB Undeclared,2.64,Jogues Hall,1,DSB,33,,,44.0
+695,202109F,F,BA,Undeclared,3.7,Jogues Hall,1,CAS,43,,,39.0
+696,202109F,F,BS,Biology,2.93,Regis Hall,1,CAS,45,,,71.0
+697,202109F,F,BS,Biology,3.57,Commuter,1,CAS,54,,,0.0
+698,202109F,F,BS,Nursing,3.58,Campion Hall,1,EGAN,50,,,30.0
+699,202109F,F,BS,Psychology,3.43,Gonzaga Hall,1,CAS,46,,,87.0
+700,202109F,F,BS,Marketing,4.0,Gonzaga Hall,1,DSB,46,,,116.0
+701,202109F,F,BA,Sociology and Anthropology,3.87,Jogues Hall,1,CAS,51,,,149.0
+702,202109F,M,BS,Biology,3.71,Campion Hall,1,CAS,46,,,61.0
+703,202109F,M,BS,Management,3.96,Jogues Hall,1,DSB,46,1380.0,,5.0
+704,202109F,F,BS,Nursing,3.11,Campion Hall,1,EGAN,45,,,30.0
+705,202109F,F,BS,Psychology,2.77,Campion Hall,1,CAS,45,,,77.0
+706,202109F,M,BS,SOE Undeclared,,Campion Hall,0,SEC,0,,,
+707,202109F,M,BS,Marketing,3.83,Jogues Hall,1,DSB,52,1520.0,,6.0
+708,202109F,M,BS,Finance,2.81,Loyola Hall,1,DSB,42,,,54.0
+709,202109F,M,BS,SOE Undeclared,2.37,Jogues Hall,1,SEC,49,,,120.0
+710,202109F,F,BS,Mathematics,3.45,Campion Hall,1,CAS,52,,,0.0
+711,202109F,F,BA,Undeclared,4.0,Gonzaga Hall,0,CAS,30,,,164.0
+712,202109F,M,BS,Accounting,2.98,Jogues Hall,1,DSB,46,,,82.0
+713,202109F,M,BS,DSB Undeclared,3.39,Jogues Hall,1,DSB,46,,,53.0
+714,202109F,F,BS,Finance,3.54,Regis Hall,1,DSB,50,,,13.0
+715,202109F,F,BS,Psychology,3.94,Jogues Hall,1,CAS,51,1390.0,,133.0
+716,202109F,M,BS,DSB Undeclared,2.58,Gonzaga Hall,1,DSB,45,,,13.0
+717,202109F,F,BA,English,3.33,Campion Hall,1,CAS,45,,,0.0
+718,202109F,F,BS,DSB Undeclared,3.91,Regis Hall,1,DSB,50,1370.0,,82.0
+719,202109F,F,BA,Undeclared,3.82,Regis Hall,1,CAS,45,,,163.0
+720,202109F,M,BA,Politics,3.6,Jogues Hall,0,CAS,15,,,39.0
+721,202109F,F,BA,Undeclared,3.98,Jogues Hall,1,CAS,59,,,86.0
+722,202109F,F,BS,DSB Undeclared,2.93,Loyola Hall,0,DSB,15,,,76.0
+723,202109F,M,BS,Mechanical Engineering,2.85,Commuter,1,SEC,46,,,0.0
+724,202109F,F,BS,Management,3.71,Jogues Hall,1,DSB,57,,,62.0
+725,202109F,F,BS,Nursing,3.7,Gonzaga Hall,1,EGAN,48,,,30.0
+726,202109F,F,BA,International Studies,3.91,Jogues Hall,1,CAS,45,,,52.0
+727,202109F,M,BS,Accounting,3.6,Campion Hall,1,DSB,42,,,59.0
+728,202109F,M,BS,Economics,3.72,Regis Hall,1,DSB,46,1280.0,,54.0
+729,202109F,F,BS,Public Health,3.88,Campion Hall,1,EGAN,48,,,131.0
+730,202109F,F,BS,Psychology,2.75,Jogues Hall,1,CAS,48,,,6.0
+731,202109F,F,BS,Nursing,3.83,Jogues Hall,1,EGAN,61,1300.0,,17.0
+732,202109F,F,BS,Marketing,3.13,Regis Hall,1,DSB,45,,,6.0
+733,202109F,M,BS,Biology,3.24,Campion Hall,1,CAS,55,1340.0,,81.0
+734,202109F,M,BS,DSB Undeclared,2.27,Campion Hall,1,DSB,40,,,112.0
+735,202109F,M,BS,Nursing,3.87,Campion Hall,1,EGAN,46,1360.0,,69.0
+736,202109F,F,BS,Nursing,3.61,Campion Hall,1,EGAN,51,,,124.0
+737,202109F,F,BS,Mechanical Engineering,3.86,Campion Hall,1,SEC,47,1330.0,,45.0
+738,202109F,M,BS,DSB Undeclared,3.11,Gonzaga Hall,1,DSB,45,,,89.0
+739,202109F,F,BA,Undeclared,4.0,Loyola Hall,0,CAS,37,,,0.0
+740,202109F,F,BA,Politics,3.78,Jogues Hall,1,CAS,45,,,105.0
+741,202109F,M,BS,Finance,4.0,Gonzaga Hall,1,DSB,54,1430.0,,73.0
+742,202109F,F,BS,Computer Science,3.39,Gonzaga Hall,1,SEC,51,,,11.0
+743,202109F,F,BS,Finance,3.29,Campion Hall,1,DSB,48,,,73.0
+744,202109F,F,BA,Undeclared,3.82,Loyola Hall,1,CAS,48,,,15.0
+745,202109F,F,BS,Nursing,3.54,Campion Hall,1,EGAN,49,,,30.0
+746,202109F,M,BS,Nursing,3.57,Campion Hall,1,EGAN,46,1030.0,,13.0
+747,202109F,F,BA,Undeclared,3.67,Jogues Hall,1,CAS,42,,,12.0
+748,202109F,M,BS,International Business,2.96,Jogues Hall,0,DSB,27,,,52.0
+749,202109F,M,BA,Undeclared,3.2,Campion Hall,1,CAS,45,,,0.0
+750,202109F,M,BA,Undeclared,3.62,Regis Hall,1,CAS,45,,,21.0
+751,202109F,F,BS,Nursing,3.22,Gonzaga Hall,1,EGAN,51,,,151.0
+752,202109F,F,BS,Nursing,3.39,Campion Hall,0,EGAN,13,,,0.0
+753,202109F,M,BS,Management,3.44,Jogues Hall,1,DSB,45,,,58.0
+754,202109F,F,BA,Program on the Environment,0.25,Gonzaga Hall,1,CAS,3,,,0.0
+755,202109F,F,BA,Undeclared,2.98,Gonzaga Hall,1,CAS,42,,,41.0
+756,202109F,F,BS,Nursing,3.52,Gonzaga Hall,1,EGAN,51,,,97.0
+757,202109F,M,BS,Finance,2.52,Gonzaga Hall,1,DSB,42,,,89.0
+758,202109F,M,BS,Finance,3.42,Regis Hall,1,DSB,45,,,69.0
+759,202109F,F,BS,Nursing,2.74,Regis Hall,1,EGAN,43,,,51.0
+760,202109F,F,BA,Undeclared,3.86,Jogues Hall,1,CAS,53,1480.0,,152.0
+761,202109F,M,BS,Biomedical Engineering,3.61,Campion Hall,1,SEC,51,,,0.0
+762,202109F,M,BS,Biology,3.49,Campion Hall,1,CAS,51,,,81.0
+763,202109F,M,BS,Mechanical Engineering,2.46,Campion Hall,1,SEC,52,,,14.0
+764,202109F,F,BS,Psychology,3.91,Jogues Hall,1,CAS,50,,,133.0
+765,202109F,F,BS,Nursing,3.99,Campion Hall,1,EGAN,52,1330.0,,17.0
+766,202109F,M,BS,DSB Undeclared,3.69,Gonzaga Hall,1,DSB,54,1280.0,,36.0
+767,202109F,F,BA,English,4.0,Campion Hall,1,CAS,63,,,164.0
+768,202109F,F,BA,Undeclared,3.69,Gonzaga Hall,1,CAS,48,,,0.0
+769,202109F,M,BA,Undeclared,2.17,Loyola Hall,1,CAS,33,1210.0,,0.0
+770,202109F,M,BS,DSB Undeclared,3.98,Regis Hall,1,DSB,52,,,0.0
+771,202109F,F,BS,Marketing,2.5,Jogues Hall,1,DSB,39,,,71.0
+772,202109F,M,BS,DSB Undeclared,3.8,Regis Hall,1,DSB,56,,,82.0
+773,202109F,F,BS,Biology,3.57,Campion Hall,1,CAS,53,1430.0,,96.0
+774,202109F,F,BS,Marketing,3.92,Regis Hall,1,DSB,55,,,36.0
+775,202109F,F,BA,Undeclared,3.47,Campion Hall,1,CAS,45,,,121.0
+776,202109F,M,BS,Finance,3.82,Jogues Hall,1,DSB,51,1270.0,,48.0
+777,202109F,F,BS,Nursing,3.06,Campion Hall,0,EGAN,36,,,84.0
+778,202109F,F,BS,Management,2.85,Regis Hall,1,DSB,45,,,21.0
+779,202109F,F,BA,Communication,3.8,Loyola Hall,1,CAS,45,,,18.0
+780,202109F,F,BS,Biology,3.05,Regis Hall,1,CAS,51,1240.0,,96.0
+781,202109F,F,BA,Sociology and Anthropology,2.79,Gonzaga Hall,1,CAS,39,,,0.0
+782,202109F,F,BS,Nursing,2.67,Regis Hall,0,EGAN,15,1310.0,,35.0
+783,202109F,M,BA,Undeclared,3.07,Loyola Hall,1,CAS,42,1330.0,,0.0
+784,202109F,F,BA,Undeclared,3.4,Campion Hall,1,CAS,45,,,95.0
+785,202109F,F,BS,Nursing,3.32,Campion Hall,1,EGAN,51,,,50.0
+786,202109F,M,BS,Computer Science,2.81,Campion Hall,1,SEC,44,,,0.0
+787,202109F,M,BS,DSB Undeclared,2.53,Loyola Hall,1,DSB,45,,,123.0
+788,202109F,F,BS,Nursing,2.78,Gonzaga Hall,1,EGAN,42,,,97.0
+789,202109F,M,BS,DSB Undeclared,3.09,Loyola Hall,1,DSB,49,,,28.0
+790,202109F,F,BS,Marketing,3.5,Gonzaga Hall,1,DSB,42,,,6.0
+791,202109F,M,BS,DSB Undeclared,2.93,Gonzaga Hall,1,DSB,42,,,129.0
+792,202109F,F,BS,Chemistry,3.71,Campion Hall,1,CAS,54,,,0.0
+793,202109F,F,BS,Nursing,3.39,Jogues Hall,1,EGAN,60,,,51.0
+794,202109F,F,BS,DSB Undeclared,2.74,Regis Hall,1,DSB,42,,,69.0
+795,202109F,F,BS,Finance,3.8,Jogues Hall,1,DSB,52,1220.0,,70.0
+796,202109F,F,BA,Undeclared,3.68,Jogues Hall,1,CAS,46,,,65.0
+797,202109F,M,BS,Accounting,1.33,Loyola Hall,0,DSB,12,,,59.0
+798,202109F,F,BS,Nursing,2.93,Regis Hall,1,EGAN,49,,,67.0
+799,202109F,F,BS,Biology,2.8,Campion Hall,1,CAS,43,,,149.0
+800,202109F,M,BS,Economics,3.94,Gonzaga Hall,1,DSB,52,1500.0,,22.0
+801,202109F,M,BS,Electrical and Computer Engineering,2.77,Regis Hall,1,SEC,55,,,0.0
+802,202109F,F,BA,Undeclared,3.8,Gonzaga Hall,0,CAS,15,,,27.0
+803,202109F,F,BS,Management,2.79,Gonzaga Hall,1,DSB,42,,,5.0
+804,202109F,F,BS,DSB Undeclared,3.59,Regis Hall,1,DSB,49,,,22.0
+805,202109F,F,BS,Nursing,3.93,Gonzaga Hall,1,EGAN,53,,,75.0
+806,202109F,F,BS,Psychology,3.7,Gonzaga Hall,1,CAS,50,,,152.0
+807,202109F,M,BS,Nursing,3.51,Campion Hall,1,EGAN,51,,,84.0
+808,202109F,F,BS,Information Systems & Ops Mgmt,3.29,Gonzaga Hall,1,DSB,45,,,8.0
+809,202109F,F,BS,DSB Undeclared,3.94,Loyola Hall,1,DSB,48,1330.0,,99.0
+810,202109F,F,BS,Nursing,3.98,Regis Hall,0,EGAN,27,,,50.0
+811,202109F,F,BA,Program on the Environment,3.22,Loyola Hall,0,CAS,27,,,119.0
+812,202109F,M,BS,Psychology,3.68,Jogues Hall,1,CAS,59,1390.0,,133.0
+813,202109F,F,BS,Management,3.96,Jogues Hall,1,DSB,53,1390.0,,74.0
+814,202109F,F,BA,Undeclared,3.19,Regis Hall,1,CAS,37,,,71.0
+815,202109F,F,BS,Nursing,3.16,Campion Hall,1,EGAN,48,,,17.0
+816,202109F,M,BS,DSB Undeclared,3.93,Campion Hall,1,DSB,48,,,69.0
+817,202109F,F,BA,English,3.36,Gonzaga Hall,1,CAS,47,,,153.0
+818,202109F,F,BA,Digital Journalism,3.8,Gonzaga Hall,1,CAS,45,1310.0,,0.0
+819,202109F,F,BS,Accounting,4.0,Jogues Hall,1,DSB,66,1530.0,,0.0
+820,202109F,F,BS,Biology,3.25,Jogues Hall,1,CAS,49,,,0.0
+821,202109F,M,BS,DSB Undeclared,3.6,Gonzaga Hall,1,DSB,45,1220.0,,69.0
+822,202109F,M,BS,DSB Undeclared,3.45,Loyola Hall,1,DSB,46,1280.0,,89.0
+823,202109F,M,BS,Computer Science,2.99,Campion Hall,1,SEC,43,,,0.0
+824,202109F,F,BA,Politics,4.0,Jogues Hall,1,CAS,57,,,83.0
+825,202109F,M,BS,Finance,3.89,Regis Hall,1,DSB,45,,,73.0
+826,202109F,M,BS,DSB Undeclared,3.59,Regis Hall,1,DSB,49,,,113.0
+827,202109F,F,BS,Marketing,3.51,Regis Hall,1,DSB,45,,,4.0
+828,202109F,M,BS,Finance,3.72,Regis Hall,1,DSB,46,,,70.0
+829,202109F,M,BS,Marketing,3.45,Regis Hall,1,DSB,42,,,138.0
+830,202109F,M,BS,DSB Undeclared,3.44,Jogues Hall,1,DSB,45,,,3.0
+831,202109F,F,BA,Undeclared,3.76,Loyola Hall,1,CAS,51,,,36.0
+832,202109F,M,BS,DSB Undeclared,3.37,Gonzaga Hall,0,DSB,30,,,102.0
+833,202109F,M,BS,International Business,3.9,Commuter,1,DSB,49,,,27.0
+834,202109F,F,BA,Undeclared,3.67,Jogues Hall,1,CAS,45,,,12.0
+835,202109F,M,BS,DSB Undeclared,3.31,Gonzaga Hall,1,DSB,45,1150.0,,16.0
+836,202109F,M,BS,DSB Undeclared,3.04,Gonzaga Hall,1,DSB,46,,,69.0
+837,202109F,F,BS,DSB Undeclared,3.44,Gonzaga Hall,1,DSB,39,,,62.0
+838,202109F,M,BS,Computer Science,3.93,Campion Hall,1,SEC,52,1240.0,,0.0
+839,202109F,F,BA,Program on the Environment,3.07,Jogues Hall,1,CAS,46,1390.0,,0.0
+840,202109F,F,BS,DSB Undeclared,3.07,Gonzaga Hall,1,DSB,45,,,3.0
+841,202109F,F,BS,Psychology,2.73,Campion Hall,1,CAS,49,,,87.0
+842,202109F,F,BS,DSB Undeclared,3.36,Campion Hall,1,DSB,45,,,74.0
+843,202109F,M,BS,Marketing,3.62,Regis Hall,1,DSB,45,,,4.0
+844,202109F,M,BS,SOE Undeclared,2.82,Regis Hall,1,SEC,46,1260.0,,159.0
+845,202109F,F,BS,Nursing,3.14,Gonzaga Hall,1,EGAN,49,,,97.0
+846,202109F,M,BS,Computer Science,3.97,Campion Hall,0,SEC,46,1530.0,,160.0
+847,202109F,M,BS,Finance,3.27,Loyola Hall,1,DSB,45,,,48.0
+848,202109F,F,BS,Psychology,2.96,Campion Hall,1,CAS,47,,,46.0
+849,202109F,F,BS,DSB Undeclared,3.17,Loyola Hall,1,DSB,46,,,123.0
+850,202109F,F,BS,Public Health,3.54,Campion Hall,1,EGAN,51,,,131.0
+851,202109F,F,BS,DSB Undeclared,3.67,Regis Hall,1,DSB,45,,,63.0
+852,202109F,F,BA,Communication,3.96,Regis Hall,1,CAS,51,,,49.0
+853,202109F,F,BS,Nursing,3.3,Gonzaga Hall,1,EGAN,51,,,55.0
+854,202109F,M,BA,Undeclared,3.25,Regis Hall,1,CAS,43,,,18.0
+855,202109F,M,BA,Undeclared,3.49,Regis Hall,1,CAS,45,,,10.0
+856,202109F,F,BS,Psychology,1.86,Jogues Hall,1,CAS,42,,,133.0
+857,202109F,F,BS,Biology,3.5,Commuter,1,CAS,50,,,49.0
+858,202109F,F,BS,Psychology,3.74,Jogues Hall,1,CAS,58,,,46.0
+859,202109F,F,BS,Nursing,2.09,Jogues Hall,0,EGAN,31,,,30.0
+860,202109F,F,BS,Nursing,3.22,Gonzaga Hall,1,EGAN,51,,,55.0
+861,202109F,M,BS,Management,3.21,Regis Hall,1,DSB,56,1220.0,,85.0
+862,202109F,M,BS,DSB Undeclared,2.93,Campion Hall,1,DSB,45,,,68.0
+863,202109F,M,BS,DSB Undeclared,3.02,Regis Hall,1,DSB,48,,,63.0
+864,202109F,F,BA,Undeclared,3.69,Gonzaga Hall,1,CAS,48,,,12.0
+865,202109F,F,BS,DSB Undeclared,3.94,Jogues Hall,1,DSB,58,,,2.0
+866,202109F,M,BS,DSB Undeclared,2.64,Regis Hall,1,DSB,42,,,59.0
+867,202109F,M,BS,DSB Undeclared,3.73,Jogues Hall,1,DSB,50,1440.0,,88.0
+868,202109F,F,BA,Politics,2.82,Gonzaga Hall,1,CAS,42,,,147.0
+869,202109F,F,BS,Nursing,2.52,Campion Hall,1,EGAN,44,,,0.0
+870,202109F,F,BS,Psychology,3.64,Gonzaga Hall,1,CAS,45,,,71.0
+871,202109F,M,BS,International Business,3.43,Jogues Hall,1,DSB,49,1330.0,,68.0
+872,202109F,M,BS,DSB Undeclared,3.4,Jogues Hall,1,DSB,45,,,82.0
+873,202109F,F,BS,Chemistry,3.3,Campion Hall,1,CAS,69,,,57.0
+874,202109F,M,BA,Politics,3.11,Jogues Hall,1,CAS,48,1220.0,,115.0
+875,202109F,M,BS,DSB Undeclared,3.7,Jogues Hall,0,DSB,42,1260.0,,85.0
+876,202109F,F,BS,Finance,3.46,Jogues Hall,1,DSB,52,,,63.0
+877,202109F,F,BS,Nursing,2.26,Jogues Hall,1,EGAN,42,,,71.0
+878,202109F,F,BS,Biology,3.93,Commuter,1,CAS,79,1480.0,,142.0
+879,202109F,F,BS,Biology,2.74,Regis Hall,1,CAS,45,,,0.0
+880,202109F,M,BS,Finance,3.42,Loyola Hall,1,DSB,45,,,13.0
+881,202109F,M,BS,DSB Undeclared,3.83,Campion Hall,1,DSB,46,,,0.0
+882,202109F,M,BS,Computer Science,2.85,Campion Hall,1,SEC,59,,,11.0
+883,202109F,F,BS,DSB Undeclared,3.58,Regis Hall,1,DSB,45,,,13.0
+884,202109F,M,BS,Chemistry,2.99,Commuter,1,CAS,45,,,1.0
+885,202109F,M,BS,DSB Undeclared,3.38,Jogues Hall,1,DSB,45,,,21.0
+886,202109F,M,BS,Finance,2.98,Regis Hall,1,DSB,45,,,102.0
+887,202109F,F,BS,Nursing,3.33,Campion Hall,1,EGAN,48,,,35.0
+888,202109F,M,BA,History,3.38,Loyola Hall,1,CAS,45,1220.0,,45.0
+889,202109F,M,BS,Information Systems & Ops Mgmt,2.63,Jogues Hall,0,DSB,30,,,8.0
+890,202109F,F,BS,Nursing,3.46,Campion Hall,1,EGAN,40,,,164.0
+891,202109F,F,BA,Undeclared,3.66,Loyola Hall,1,CAS,46,,,152.0
+892,202109F,M,BS,Computer Science,3.5,Loyola Hall,1,SEC,60,1510.0,,11.0
+893,202109F,M,BS,SOE Undeclared,2.56,Loyola Hall,1,SEC,52,,,120.0
+894,202109F,F,BS,DSB Undeclared,2.51,Loyola Hall,1,DSB,39,,,74.0
+895,202109F,M,BS,SOE Undeclared,3.0,Regis Hall,1,SEC,55,1370.0,,120.0
+896,202109F,M,BS,Management,3.84,Jogues Hall,1,DSB,46,1300.0,,113.0
+897,202109F,M,BS,Biomedical Engineering,3.31,Commuter,1,SEC,53,,,0.0
+898,202109F,F,BS,Finance,3.36,Gonzaga Hall,1,DSB,46,1190.0,,63.0
+899,202109F,F,BS,Marketing,3.27,Loyola Hall,1,DSB,51,,,87.0
+900,202109F,F,BS,Chemistry,3.98,Campion Hall,1,CAS,68,1420.0,,0.0
+901,202109F,M,BS,DSB Undeclared,3.4,Regis Hall,1,DSB,45,1320.0,,53.0
+902,202109F,M,BS,Electrical and Computer Engineering,2.6,Regis Hall,1,SEC,48,,,159.0
+903,202109F,F,BS,DSB Undeclared,3.02,Regis Hall,1,DSB,45,,,3.0
+904,202109F,M,BS,DSB Undeclared,2.69,Jogues Hall,1,DSB,45,,,40.0
+905,202109F,F,BS,DSB Undeclared,3.42,Loyola Hall,1,DSB,46,1250.0,,89.0
+906,202109F,F,BS,DSB Undeclared,3.58,Jogues Hall,1,DSB,48,,,166.0
+907,202109F,M,BS,DSB Undeclared,3.65,Gonzaga Hall,1,DSB,49,,,53.0
+908,202109F,M,BS,Accounting,3.29,Jogues Hall,1,DSB,48,,,82.0
+909,202109F,M,BA,Undeclared,3.92,Gonzaga Hall,0,CAS,15,,,0.0
+910,202109F,M,BS,Finance,3.56,Jogues Hall,1,DSB,51,,,48.0
+911,202109F,F,BS,Nursing,3.06,Jogues Hall,1,EGAN,57,,,67.0
+912,202109F,F,BS,Psychology,2.96,Regis Hall,0,CAS,27,,,46.0
+913,202109F,F,BS,Biology,3.25,Campion Hall,1,CAS,54,1330.0,,0.0
+914,202109F,M,BS,Accounting,3.56,Jogues Hall,1,DSB,51,,,59.0
+915,202109F,F,BS,DSB Undeclared,3.96,Loyola Hall,1,DSB,48,,,4.0
+916,202109F,F,BS,Marketing,3.22,Gonzaga Hall,1,DSB,45,,,105.0
+917,202109F,M,BS,DSB Undeclared,3.37,Regis Hall,1,DSB,50,1350.0,,85.0
+918,202109F,F,BS,Marketing,3.31,Regis Hall,1,DSB,45,,,64.0
+919,202109F,M,BA,Undeclared,3.21,Jogues Hall,1,CAS,42,,,156.0
+920,202109F,F,BS,Mechanical Engineering,2.25,Campion Hall,1,SEC,49,,,0.0
+921,202109F,F,BS,Mathematics,3.3,Regis Hall,1,CAS,46,,,132.0
+922,202109F,F,BS,DSB Undeclared,3.12,Jogues Hall,1,DSB,46,,,53.0
+923,202109F,F,BA,Politics,3.8,Gonzaga Hall,1,CAS,48,1260.0,,39.0
+924,202109F,M,BS,Management,3.85,Regis Hall,1,DSB,46,1330.0,,54.0
+925,202109F,M,BA,Undeclared,3.5,Regis Hall,1,CAS,53,1320.0,,68.0
+926,202109F,M,BS,Management,3.97,Jogues Hall,1,DSB,59,1400.0,,116.0
+927,202109F,F,BS,Nursing,3.53,Regis Hall,1,EGAN,54,,,50.0
+928,202109F,M,BS,SOE Undeclared,2.6,Regis Hall,1,SEC,48,,,159.0
+929,202109F,F,BS,Marketing,3.89,Gonzaga Hall,1,DSB,55,1410.0,,116.0
+930,202109F,F,BS,Marketing,3.96,Loyola Hall,1,DSB,58,,,41.0
+931,202109F,F,BS,Nursing,3.38,Loyola Hall,1,EGAN,49,,,17.0
+932,202109F,M,BS,DSB Undeclared,2.91,Loyola Hall,1,DSB,45,,,22.0
+933,202109F,F,BA,English,3.45,Jogues Hall,1,CAS,46,,,41.0
+934,202109F,M,BS,Computer Science,3.61,Commuter,1,SEC,60,,,0.0
+935,202109F,M,BS,Economics,3.51,Gonzaga Hall,1,DSB,45,,,22.0
+936,202109F,M,BS,Accounting,3.96,Regis Hall,1,DSB,45,,,59.0
+937,202109F,F,BS,Biology,3.78,Loyola Hall,1,CAS,60,,,103.0
+938,202109F,M,BS,Computer Science,0.92,Regis Hall,1,SEC,24,,,0.0
+939,202109F,M,BS,Management,3.73,Regis Hall,1,DSB,46,,,85.0
+940,202109F,M,BS,DSB Undeclared,3.02,Gonzaga Hall,1,DSB,45,,,113.0
+941,202109F,M,BS,Finance,3.54,Loyola Hall,0,DSB,31,1390.0,,0.0
+942,202109F,M,BS,Biology,3.5,Campion Hall,1,CAS,51,1340.0,,142.0
+943,202109F,M,BS,DSB Undeclared,3.0,Loyola Hall,0,DSB,12,,,21.0
+944,202109F,F,BS,DSB Undeclared,3.73,Regis Hall,1,DSB,45,1270.0,,102.0
+945,202109F,M,BS,DSB Undeclared,3.2,Gonzaga Hall,1,DSB,45,,,116.0
+946,202109F,M,BS,DSB Undeclared,2.0,Loyola Hall,1,DSB,39,,,123.0
+947,202109F,F,BS,Nursing,3.76,Campion Hall,1,EGAN,65,,,55.0
+948,202109F,F,BS,Marketing,3.38,Gonzaga Hall,1,DSB,42,,,4.0
+949,202109F,F,BS,Chemistry,3.71,Campion Hall,1,CAS,62,1370.0,,0.0
+950,202109F,F,BS,Psychology,3.62,Campion Hall,1,CAS,52,,,23.0
+951,202109F,F,BS,Nursing,1.59,Regis Hall,1,EGAN,27,,,0.0
+952,202109F,M,BS,DSB Undeclared,3.73,Jogues Hall,1,DSB,45,,,73.0
+953,202109F,F,BS,Biomedical Engineering,2.95,Campion Hall,0,SEC,33,1240.0,,135.0
+954,202109F,F,BS,Computer Science,3.83,Campion Hall,1,SEC,50,,,11.0
+955,202109F,F,BS,Nursing,3.89,Gonzaga Hall,1,EGAN,49,,,67.0
+956,202109F,F,BS,Management,3.94,Jogues Hall,1,DSB,66,,,21.0
+957,202109F,M,BA,History,3.44,Loyola Hall,1,CAS,57,,,127.0
+958,202109F,F,BS,DSB Undeclared,3.03,Commuter,0,DSB,13,,,40.0
+959,202109F,F,BA,Undeclared,2.94,Campion Hall,1,CAS,36,,,0.0
+960,202109F,M,BS,DSB Undeclared,3.4,Regis Hall,1,DSB,40,1300.0,,40.0
+961,202109F,F,BS,DSB Undeclared,2.31,Campion Hall,1,DSB,39,,,6.0
+962,202109F,F,BS,Marketing,0.73,Regis Hall,0,DSB,6,,,36.0
+963,202109F,M,BS,Biology,3.38,Regis Hall,1,CAS,42,,,133.0
+964,202109F,F,BS,Biology,3.29,Campion Hall,1,CAS,51,1240.0,,0.0
+965,202109F,F,BA,Sociology and Anthropology,3.78,Regis Hall,1,CAS,57,1350.0,,26.0
+966,202109F,F,BS,Nursing,3.74,Loyola Hall,1,EGAN,49,,,30.0
+967,202109F,M,BS,Marketing,3.56,Loyola Hall,1,DSB,45,,,4.0
+968,202109F,F,BS,Psychology,1.79,Jogues Hall,1,CAS,37,,,49.0
+969,202109F,M,BS,DSB Undeclared,2.31,Loyola Hall,1,DSB,39,,,74.0
+970,202109F,F,BS,Nursing,2.88,Regis Hall,1,EGAN,54,,,51.0
+971,202109F,F,BS,Finance,3.33,Campion Hall,1,DSB,51,,,69.0
+972,202109F,M,BS,Finance,3.29,Jogues Hall,1,DSB,45,,,48.0
+973,202109F,M,BS,Marketing,2.41,Loyola Hall,1,DSB,42,1160.0,,4.0
+974,202109F,M,BA,Program on the Environment,2.4,Regis Hall,1,CAS,40,1320.0,,0.0
+975,202109F,M,BS,Management,0.93,Jogues Hall,0,DSB,12,,,74.0
+976,202109F,F,BS,Biology,3.02,Campion Hall,1,CAS,53,,,112.0
+977,202109F,F,BA,Undeclared,3.0,Gonzaga Hall,1,CAS,45,,,52.0
+978,202109F,F,BS,Nursing,3.61,Regis Hall,1,EGAN,54,,,35.0
+979,202109F,F,BS,Marketing,2.07,Loyola Hall,1,DSB,39,,,106.0
+980,202109F,M,BS,Accounting,3.67,Regis Hall,1,DSB,46,,,59.0
+981,202109F,M,BS,DSB Undeclared,1.55,Jogues Hall,1,DSB,30,,,18.0
+982,202109F,M,BS,DSB Undeclared,2.17,Jogues Hall,1,DSB,39,,,94.0
+983,202109F,M,BS,DSB Undeclared,3.52,Jogues Hall,1,DSB,46,,,28.0
+984,202109F,F,BS,Nursing,2.36,Gonzaga Hall,1,EGAN,46,,,51.0
+985,202109F,M,BA,Undeclared,3.98,Jogues Hall,1,CAS,46,,,18.0
+986,202109F,M,BA,Sports Media,2.6,Regis Hall,1,CAS,42,,,18.0
+987,202109F,F,BS,Management,3.48,Regis Hall,0,DSB,27,,,74.0
+988,202109F,M,BA,History,2.2,Jogues Hall,1,CAS,39,,,95.0
+989,202109F,M,BS,DSB Undeclared,2.91,Regis Hall,1,DSB,45,,,53.0
+990,202109F,F,BA,English,3.73,Commuter,0,CAS,15,,,136.0
+991,202109F,M,BS,Nursing,1.81,Campion Hall,1,EGAN,28,,,25.0
+992,202109F,M,BS,Finance,2.24,Regis Hall,1,DSB,42,,,62.0
+993,202109F,M,BA,Visual & Performing Arts,3.98,Jogues Hall,1,CAS,60,1550.0,,77.0
+994,202109F,M,BS,Mechanical Engineering,0.64,Commuter,0,SEC,14,,,0.0
+995,202109F,M,BS,Business Analytics,2.57,Regis Hall,0,DSB,30,,,40.0
+996,202109F,F,BS,Nursing,3.25,Gonzaga Hall,1,EGAN,51,,,35.0
+997,202109F,F,BS,DSB Undeclared,2.89,Gonzaga Hall,1,DSB,45,,,85.0
+998,202109F,M,BS,DSB Undeclared,2.96,Loyola Hall,0,DSB,27,,,74.0
+999,202109F,F,BA,Undeclared,2.58,Regis Hall,1,CAS,45,,,46.0
+1000,202109F,F,BS,DSB Undeclared,3.33,Regis Hall,1,DSB,45,,,36.0
+1001,202109F,M,BA,Undeclared,3.6,Gonzaga Hall,0,CAS,33,1300.0,,0.0
+1002,202109F,F,BS,DSB Undeclared,3.77,Loyola Hall,1,DSB,48,,,54.0
+1003,202109F,F,BS,Nursing,3.09,Gonzaga Hall,1,EGAN,48,,,30.0
+1004,202109F,F,BS,DSB Undeclared,2.91,Regis Hall,1,DSB,43,,,49.0
+1005,202109F,F,BS,Biology,2.86,Campion Hall,1,CAS,37,,,152.0
+1006,202109F,F,BA,Undeclared,3.02,Gonzaga Hall,1,CAS,42,,,18.0
+1007,202109F,M,BS,DSB Undeclared,3.24,Loyola Hall,1,DSB,42,,,82.0
+1008,202109F,F,BS,Nursing,3.18,Campion Hall,1,EGAN,48,,,51.0
+1009,202109F,F,BS,Psychology,3.56,Jogues Hall,1,CAS,51,1340.0,,0.0
+1010,202109F,M,BS,DSB Undeclared,3.27,Regis Hall,1,DSB,45,,Visual & Performing Arts,162.0
+1011,202109F,M,BS,SOE Undeclared,2.49,Jogues Hall,1,SEC,39,,,45.0
+1012,202109F,M,BS,International Business,3.53,Jogues Hall,1,DSB,45,1290.0,,109.0
+1013,202109F,F,BA,Undeclared,3.73,Jogues Hall,1,CAS,51,,,115.0
+1014,202109F,M,BS,DSB Undeclared,2.48,Regis Hall,1,DSB,42,,,4.0
+1015,202109F,F,BS,Psychology,4.0,Gonzaga Hall,1,CAS,45,,,46.0
+1016,202109F,M,BS,DSB Undeclared,2.33,Regis Hall,1,DSB,36,,,99.0
+1017,202109F,M,BS,Management,3.65,Regis Hall,1,DSB,54,,,74.0
+1018,202109F,F,BS,Psychology,3.39,Campion Hall,1,CAS,49,1280.0,,133.0
+1019,202109F,M,BS,DSB Undeclared,1.56,Campion Hall,0,DSB,24,,,44.0
+1020,202109F,F,BS,Psychology,2.69,Loyola Hall,1,CAS,39,,,86.0
+1021,202109F,F,BS,Nursing,2.87,Regis Hall,1,EGAN,49,,,55.0
+1022,202109F,M,BA,History,1.92,Regis Hall,1,CAS,36,,,95.0
+1023,202109F,M,BS,Accounting,3.62,Regis Hall,1,DSB,48,1220.0,,59.0
+1024,202109F,F,BS,Marketing,3.5,Jogues Hall,1,DSB,45,,,6.0
+1025,202109F,M,BS,DSB Undeclared,3.56,Regis Hall,1,DSB,45,,,4.0
+1026,202109F,F,BS,Marketing,3.53,Regis Hall,1,DSB,45,,,36.0
+1027,202109F,M,BS,DSB Undeclared,2.64,Regis Hall,1,DSB,42,,,156.0
+1028,202109F,F,BS,Biology,3.35,Jogues Hall,1,CAS,51,1440.0,,81.0
+1029,202109F,M,BS,Finance,3.53,Loyola Hall,0,DSB,21,1400.0,,48.0
+1030,202109F,M,BA,Undeclared,3.78,Loyola Hall,1,CAS,45,,,136.0
+1031,202109F,M,BA,Undeclared,3.64,Jogues Hall,1,CAS,40,1480.0,,145.0
+1032,202109F,F,BA,Undeclared,3.58,Regis Hall,1,CAS,45,,,1.0
+1033,202109F,F,BA,Undeclared,2.62,Regis Hall,1,CAS,45,,,12.0
+1034,202109F,F,BS,Psychology,2.41,Jogues Hall,0,CAS,9,1290.0,,0.0
+1035,202109F,F,BA,Undeclared,2.52,Regis Hall,1,CAS,27,,,126.0
+1036,202109F,M,BS,DSB Undeclared,3.42,Loyola Hall,1,DSB,45,,,104.0
+1037,202109F,F,BA,Undeclared,3.37,Jogues Hall,1,CAS,44,,,0.0
+1038,202109F,F,BS,Management,2.38,Commuter,1,DSB,45,,,21.0
+1039,202109F,F,BA,Sociology and Anthropology,2.69,Regis Hall,1,CAS,42,,,87.0
+1040,202109F,F,BS,Chemistry,3.18,Jogues Hall,1,CAS,65,1350.0,,57.0
+1041,202109F,M,BS,Finance,4.0,Jogues Hall,1,DSB,49,1450.0,,48.0
+1042,202109F,M,BS,Mechanical Engineering,2.81,Campion Hall,1,SEC,55,,,120.0
+1043,202109F,M,BS,DSB Undeclared,3.79,Jogues Hall,1,DSB,50,1330.0,,44.0
+1044,202109F,F,BS,Biology,4.0,Jogues Hall,1,CAS,66,1330.0,,96.0
+1045,202109F,F,BA,Undeclared,2.69,Commuter,1,CAS,47,,,116.0
+1046,202109F,F,BS,Psychology,2.93,Campion Hall,1,CAS,42,,,0.0
+1047,202109F,F,BS,Psychology,3.11,Campion Hall,1,CAS,47,,,65.0
+1048,202109F,M,BS,Computer Science,3.26,Campion Hall,1,SEC,58,1240.0,,0.0
+1049,202109F,M,BS,Biomedical Engineering,3.57,Loyola Hall,1,SEC,64,,,135.0
+1050,202109F,M,BS,SOE Undeclared,3.63,Campion Hall,1,SEC,61,,,90.0
+1051,202109F,F,BS,Chemistry,3.74,Gonzaga Hall,1,CAS,51,,,107.0
+1052,202109F,M,BS,Accounting,3.71,Regis Hall,1,DSB,45,1210.0,,82.0
+1053,202109F,M,BA,Undeclared,3.6,Jogues Hall,1,CAS,45,1320.0,,6.0
+1054,202109F,M,BS,Mathematics,3.22,Loyola Hall,1,CAS,49,,,132.0
+1055,202109F,M,BS,DSB Undeclared,3.42,Regis Hall,1,DSB,48,,,59.0
+1056,202109F,M,BS,Accounting,3.8,Jogues Hall,1,DSB,52,1410.0,,82.0
+1057,202109F,M,BS,Mechanical Engineering,1.69,Campion Hall,1,SEC,23,,,0.0
+1058,202109F,M,BS,Finance,3.73,Commuter,1,DSB,48,,,48.0
+1059,202109F,M,BS,Finance,2.78,Campion Hall,1,DSB,45,1250.0,,13.0
+1060,202109F,M,BS,Electrical and Computer Engineering,3.52,Campion Hall,1,SEC,48,,,0.0
+1061,202109F,M,BS,DSB Undeclared,2.88,Regis Hall,0,DSB,16,,,166.0
+1062,202109F,M,BS,Nursing,3.51,Jogues Hall,1,EGAN,52,1290.0,,50.0
+1063,202109F,M,BA,History,3.84,Regis Hall,0,CAS,30,,,32.0
+1064,202109F,F,BS,Biology,2.35,Commuter,1,CAS,43,,,0.0
+1065,202109F,F,BS,Accounting,3.98,Campion Hall,1,DSB,55,,,59.0
+1066,202109F,M,BS,Economics,3.02,Campion Hall,1,DSB,45,,,88.0
+1067,202109F,M,BS,Biomedical Engineering,3.84,Campion Hall,1,SEC,56,,,0.0
+1068,202109F,M,BS,Computer Science,4.0,Campion Hall,1,SEC,58,,,160.0
+1069,202109F,F,BS,Nursing,3.32,Campion Hall,1,EGAN,56,,,50.0
+1070,202109F,F,BS,Biology,3.23,Campion Hall,1,CAS,54,,,142.0
+1071,202109F,F,BA,Program on the Environment,3.6,Campion Hall,1,CAS,45,,,0.0
+1072,202109F,F,BS,Biology,3.6,Campion Hall,1,CAS,43,,,6.0
+1073,202109F,M,BS,DSB Undeclared,3.71,Regis Hall,1,DSB,45,1200.0,,68.0
+1074,202109F,F,BS,Psychology,3.55,Gonzaga Hall,1,CAS,42,,,65.0
+1075,202109F,F,BS,Mathematics,3.87,Campion Hall,1,CAS,49,,,0.0
+1076,202109F,M,BS,DSB Undeclared,2.07,Loyola Hall,1,DSB,42,,,74.0
+1077,202109F,M,BS,Mechanical Engineering,3.33,Jogues Hall,1,SEC,52,1350.0,,120.0
+1078,202109F,M,BS,SOE Undeclared,2.28,Campion Hall,1,SEC,35,,,1.0
+1079,202109F,M,BS,Finance,2.76,Regis Hall,1,DSB,42,,,73.0
+1080,202109F,F,BS,Biology,3.29,Campion Hall,1,CAS,58,,,131.0
+1081,202109F,M,BA,Communication,3.93,Regis Hall,1,CAS,45,,,10.0
+1082,202109F,M,BS,Computer Science,2.52,Campion Hall,0,SEC,27,1170.0,,11.0
+1083,202109F,M,BA,Undeclared,2.19,Gonzaga Hall,1,CAS,40,1220.0,,1.0
+1084,202109F,F,BA,Program on the Environment,,Campion Hall,0,CAS,0,,,
+1085,202109F,F,BA,Undeclared,3.31,Regis Hall,1,CAS,36,,,18.0
+1086,202109F,F,BA,Undeclared,0.78,Gonzaga Hall,0,CAS,9,,,64.0
+1087,202109F,F,BS,Public Health,3.52,Regis Hall,1,EGAN,46,,,0.0
+1088,202109F,M,BS,Economics,3.4,Campion Hall,1,DSB,45,,,88.0
+1089,202109F,F,BS,Marketing,3.24,Loyola Hall,1,DSB,45,1190.0,,4.0
+1090,202109F,M,BA,Undeclared,2.58,Jogues Hall,0,CAS,21,1060.0,,0.0
+1091,202109F,M,BS,Mechanical Engineering,3.71,Loyola Hall,1,SEC,52,1240.0,,14.0
+1092,202109F,F,BS,Biology,3.4,Campion Hall,1,CAS,55,,,103.0
+1093,202109F,M,BS,DSB Undeclared,3.2,Jogues Hall,1,DSB,45,,,70.0
+1094,202109F,M,BS,Marketing,3.47,Jogues Hall,1,DSB,45,1240.0,,4.0
+1095,202109F,M,BS,DSB Undeclared,3.93,Campion Hall,1,DSB,45,,,69.0
+1096,202109F,F,BS,Finance,1.98,Gonzaga Hall,1,DSB,33,,,70.0
+1097,202109F,M,BS,DSB Undeclared,0.83,Gonzaga Hall,0,DSB,15,,,163.0
+1098,202109F,M,BS,Finance,3.49,Regis Hall,1,DSB,45,,,48.0
+1099,202109F,M,BS,Marketing,3.45,Jogues Hall,1,DSB,42,,,4.0
+1100,202109F,F,BS,DSB Undeclared,3.05,Commuter,1,DSB,42,,,59.0
+1101,202109F,M,BS,Biology,3.2,Campion Hall,1,CAS,48,1370.0,,31.0
+1102,202109F,F,BA,Undeclared,3.14,Jogues Hall,1,CAS,47,,,71.0
+1103,202109F,M,BS,Accounting,3.89,Jogues Hall,1,DSB,45,1240.0,,101.0
+1104,202109F,M,BS,DSB Undeclared,2.36,Jogues Hall,1,DSB,48,,,0.0
+1105,202109F,M,BS,Psychology,3.77,Loyola Hall,1,CAS,46,,,71.0
+1106,202109F,M,BS,Electrical and Computer Engineering,3.54,Campion Hall,1,SEC,50,1520.0,,139.0
+1107,202109F,F,BS,Psychology,3.09,Jogues Hall,1,CAS,45,,,86.0
+1108,202109F,M,BS,DSB Undeclared,2.93,Regis Hall,1,DSB,42,,,70.0
+1109,202109F,M,BS,Psychology,3.55,Gonzaga Hall,1,CAS,47,,,38.0
+1110,202109F,F,BS,DSB Undeclared,3.75,Loyola Hall,1,DSB,48,,,6.0
+1111,202109F,F,BS,Psychology,2.96,Jogues Hall,1,CAS,45,,,71.0
+1112,202109F,F,BS,Psychology,3.55,Loyola Hall,1,CAS,46,,,87.0
+1113,202109F,F,BS,Marketing,3.6,Regis Hall,1,DSB,48,,,36.0
+1114,202109F,F,BS,DSB Undeclared,3.78,Commuter,1,DSB,48,,,80.0
+1115,202109F,M,BA,Economics,3.07,Gonzaga Hall,1,CAS,45,1340.0,,166.0
+1116,202109F,F,BS,Marketing,2.58,Regis Hall,1,DSB,48,,,105.0
+1117,202109F,M,BS,Accounting,3.81,Loyola Hall,0,DSB,32,1440.0,,59.0
+1118,202109F,F,BS,DSB Undeclared,2.5,Gonzaga Hall,1,DSB,42,,,4.0
+1119,202109F,M,BS,DSB Undeclared,2.62,Loyola Hall,1,DSB,42,1180.0,,40.0
+1120,202109F,F,BS,Psychology,3.92,Campion Hall,1,CAS,57,,,152.0
+1121,202109F,F,BS,Psychology,3.91,Regis Hall,1,CAS,45,1340.0,,71.0
+1122,202109F,M,BS,Marketing,3.18,Regis Hall,0,DSB,33,,,105.0
+1123,202109F,M,BS,DSB Undeclared,2.24,Jogues Hall,1,DSB,39,,,74.0
+1124,202109F,M,BS,DSB Undeclared,3.46,Regis Hall,1,DSB,52,,,13.0
+1125,202109F,M,BS,Psychology,3.34,Jogues Hall,0,CAS,12,,,0.0
+1126,202109F,F,BS,Information Systems & Ops Mgmt,3.89,Loyola Hall,1,DSB,46,1350.0,,28.0
+1127,202109F,M,BS,Finance,3.75,Regis Hall,1,DSB,45,1190.0,,73.0
+1128,202109F,F,BS,Chemistry,3.17,Campion Hall,0,CAS,21,1210.0,,57.0
+1129,202109F,M,BA,Visual & Performing Arts,3.72,Commuter,1,CAS,57,,,128.0
+1130,202109F,F,BS,Management,3.41,Campion Hall,1,DSB,46,,,85.0
+1131,202109F,M,BS,DSB Undeclared,3.43,Jogues Hall,1,DSB,54,,,156.0
+1132,202109F,F,BA,Undeclared,3.78,Regis Hall,0,CAS,37,,,152.0
+1133,202109F,M,BS,Nursing,3.74,Campion Hall,1,EGAN,58,1540.0,,50.0
+1134,202109F,F,BS,Psychology,3.83,Jogues Hall,1,CAS,46,,,65.0
+1135,202109F,F,BS,Information Systems & Ops Mgmt,3.72,Loyola Hall,1,DSB,46,,,28.0
+1136,202109F,F,BS,Accounting,3.43,Jogues Hall,1,DSB,46,,,59.0
+1137,202109F,F,BA,Politics,3.83,Campion Hall,1,CAS,55,1330.0,,110.0
+1138,202109F,F,BS,Biology,3.98,Campion Hall,1,CAS,63,,,0.0
+1139,202109F,F,BS,Economics,2.83,Jogues Hall,1,DSB,45,,,88.0
+1140,202109F,M,BS,DSB Undeclared,3.12,Gonzaga Hall,1,DSB,42,,,69.0
+1141,202109F,F,BA,English,3.49,Jogues Hall,1,CAS,47,,,0.0
+1142,202109F,M,BS,DSB Undeclared,2.78,Commuter,1,DSB,45,,,3.0
+1143,202109F,M,BS,Finance,3.0,Jogues Hall,1,DSB,42,1430.0,,48.0
+1144,202109F,F,BA,Undeclared,1.87,Loyola Hall,0,CAS,12,,,64.0
+1145,202109F,M,BS,DSB Undeclared,3.62,Campion Hall,1,DSB,42,,,36.0
+1146,202109F,M,BS,Finance,2.98,Jogues Hall,1,DSB,45,,,62.0
+1147,202109F,M,BA,Visual & Performing Arts,3.7,Regis Hall,1,CAS,47,1220.0,,128.0
+1148,202109F,M,BS,Management,3.4,Jogues Hall,1,DSB,42,1240.0,,5.0
+1149,202109F,M,BS,Computer Science,3.32,Commuter,1,SEC,59,,,1.0
+1150,202109F,F,BA,Communication,3.76,Gonzaga Hall,1,CAS,45,,,106.0
+1151,202109F,M,BA,History,3.27,Gonzaga Hall,1,CAS,48,,,0.0
+1152,202109F,M,BS,DSB Undeclared,3.51,Jogues Hall,1,DSB,47,,,89.0
+1153,202109F,M,BA,Visual & Performing Arts,3.14,Jogues Hall,1,CAS,52,1240.0,,0.0
+1154,202109F,M,BS,Biology,3.62,Campion Hall,1,CAS,52,1220.0,,142.0
+1155,202109F,M,BS,Economics,2.29,Campion Hall,1,DSB,39,,,22.0
+1156,202109F,F,BS,Biology,2.38,Campion Hall,0,CAS,18,1270.0,,31.0
+1157,202109F,F,BS,Biology,3.75,Campion Hall,1,CAS,40,,,85.0
+1158,202109F,M,BS,DSB Undeclared,3.82,Jogues Hall,1,DSB,51,1240.0,,104.0
+1159,202109F,F,BA,Undeclared,3.62,Gonzaga Hall,1,CAS,45,,,88.0
+1160,202109F,M,BA,Politics,3.45,Campion Hall,1,CAS,42,,,110.0
+1161,202109F,F,BS,Computer Science,3.62,Commuter,1,SEC,46,1300.0,,44.0
+1162,202109F,F,BS,Finance,3.49,Regis Hall,1,DSB,51,,,89.0
+1163,202109F,F,BS,Finance,3.92,Regis Hall,1,DSB,64,,,62.0
+1164,202109F,F,BA,Undeclared,3.49,Regis Hall,1,CAS,45,,,71.0
+1165,202109F,M,BS,Computer Science,3.51,Campion Hall,1,SEC,50,1280.0,,11.0
+1166,202109F,F,BS,Biology,3.06,Gonzaga Hall,1,CAS,54,,,103.0
+1167,202109F,M,BS,DSB Undeclared,2.98,Campion Hall,1,DSB,42,1200.0,,99.0
+1168,202109F,M,BS,Mechanical Engineering,2.35,Regis Hall,1,SEC,49,1230.0,,0.0
+1169,202109F,M,BS,Computer Science,3.88,Campion Hall,1,SEC,58,1440.0,,11.0
+1170,202109F,M,BS,Physics,3.71,Campion Hall,1,CAS,48,,,22.0
+1171,202109F,F,BS,Accounting,3.41,Commuter,1,DSB,51,,,82.0
+1172,202109F,M,BS,Accounting,3.44,Campion Hall,1,DSB,57,,,82.0
+1173,202109F,M,BS,DSB Undeclared,3.76,Regis Hall,1,DSB,45,,,62.0
+1174,202109F,F,BA,Undeclared,2.75,Commuter,1,CAS,42,,,60.0
+1175,202109F,M,BS,Chemistry,,Commuter,1,CAS,0,1400.0,,
+1176,202109F,F,BS,Chemistry,1.75,Gonzaga Hall,1,CAS,39,,,32.0
+1177,202109F,F,BA,History,3.2,Gonzaga Hall,1,CAS,45,1180.0,,0.0
+1178,202109F,M,BA,Undeclared,2.95,Jogues Hall,1,CAS,36,,,12.0
+1179,202109F,F,BS,SOE Undeclared,3.33,Jogues Hall,1,SEC,46,1340.0,,60.0
+1180,202109F,M,BS,Mechanical Engineering,2.16,Jogues Hall,1,SEC,30,1210.0,,99.0
+1181,202109F,M,BS,Mechanical Engineering,3.12,Jogues Hall,1,SEC,55,,,0.0
+1182,202109F,M,BS,Finance,3.36,Jogues Hall,1,DSB,59,1430.0,,48.0
+1183,202109F,M,BS,Physics,3.86,Jogues Hall,1,CAS,52,1390.0,,49.0
+1184,202109F,M,BS,Finance,2.86,Campion Hall,1,DSB,42,,,48.0
+1185,202109F,M,BS,DSB Undeclared,2.87,Gonzaga Hall,0,DSB,30,,,44.0
+1186,202109F,M,BS,DSB Undeclared,2.75,Jogues Hall,1,DSB,36,1110.0,,80.0
+1187,202109F,M,BS,Finance,3.91,Gonzaga Hall,1,DSB,52,1440.0,,89.0
+1188,202109F,M,BS,DSB Undeclared,3.98,Loyola Hall,1,DSB,46,,,63.0
+1189,202109F,F,BS,Psychology,3.91,Regis Hall,1,CAS,52,,,86.0
+1190,202109F,F,BS,Management,3.71,Regis Hall,1,DSB,45,,,21.0
+1191,202109F,F,BS,DSB Undeclared,3.4,Loyola Hall,1,DSB,45,,,6.0
+1192,202109F,F,BA,Communication,2.33,Commuter,1,CAS,48,,,106.0
+1193,202109F,M,BS,Economics,3.0,Loyola Hall,0,DSB,13,,,88.0
+1194,202109F,F,BA,Undeclared,2.95,Gonzaga Hall,1,CAS,42,,,0.0
+1195,202109F,M,BS,Economics,3.87,Jogues Hall,1,DSB,49,,,25.0
+1196,202109F,M,BS,DSB Undeclared,2.82,Jogues Hall,1,DSB,39,,,122.0
+1197,202109F,M,BA,Economics,3.17,Gonzaga Hall,1,CAS,48,,,22.0
+1198,202109F,F,BA,Undeclared,3.98,Loyola Hall,1,CAS,48,,,49.0
+1199,202109F,M,BS,Accounting,2.98,Jogues Hall,1,DSB,42,,,0.0
+1200,202109F,F,BS,Biology,2.84,Campion Hall,1,CAS,46,,,12.0
+1201,202109F,M,BA,Undeclared,3.82,Regis Hall,1,CAS,45,,,0.0
+1202,202109F,F,BA,Program on the Environment,3.96,Gonzaga Hall,1,CAS,51,,,0.0
+1203,202109F,F,BA,Undeclared,3.11,Loyola Hall,1,CAS,45,,,46.0
+1204,202109F,M,BS,Finance,3.71,Regis Hall,1,DSB,45,,,48.0
+1205,202109F,F,BS,Finance,3.49,Regis Hall,1,DSB,45,,,98.0
+1206,202109F,M,BS,SOE Undeclared,3.45,Regis Hall,1,SEC,46,,,135.0
+1207,202109F,M,BS,DSB Undeclared,3.26,Regis Hall,1,DSB,42,,,9.0
+1208,202109F,M,BS,Computer Science,3.64,Campion Hall,1,SEC,49,,,11.0
+1209,202109F,M,BS,Biology,3.41,Campion Hall,0,CAS,17,,,112.0
+1210,202109F,M,BS,Biology,3.51,Campion Hall,1,CAS,51,1340.0,,68.0
+1211,202109F,M,BS,Finance,3.67,Jogues Hall,1,DSB,48,,,63.0
+1212,202109F,M,BS,Biology,3.87,Campion Hall,1,CAS,47,1370.0,,38.0
+1213,202109F,M,BA,Program on the Environment,2.38,Regis Hall,0,CAS,24,,,108.0
+1214,202109F,M,BS,DSB Undeclared,3.6,Regis Hall,0,DSB,30,,,44.0
+1215,202109F,F,BS,Biology,3.24,Campion Hall,1,CAS,45,,,0.0
+1216,202109F,F,BS,Biology,3.03,Regis Hall,1,CAS,52,1120.0,,31.0
+1217,202109F,M,BA,Visual & Performing Arts,2.4,Regis Hall,1,CAS,42,,,128.0
+1218,202109F,F,BS,Computer Science,3.38,Commuter,1,SEC,44,,,1.0
+1219,202109F,M,BA,Undeclared,3.93,Gonzaga Hall,1,CAS,45,,,0.0
+1220,202109F,F,BS,Finance,3.33,Jogues Hall,1,DSB,42,,,73.0
+1221,202109F,M,BA,Undeclared,3.78,Regis Hall,1,CAS,46,,,153.0
+1222,202109F,M,BS,Finance,3.19,Jogues Hall,1,DSB,54,,,48.0
+1223,202109F,M,BS,Mechanical Engineering,2.87,Campion Hall,1,SEC,52,,,14.0
+1224,202109F,F,BS,Psychology,2.9,Gonzaga Hall,0,CAS,17,,,152.0
+1225,202109F,M,BS,Management,3.71,Regis Hall,1,DSB,45,,,85.0
+1226,202109F,M,BS,DSB Undeclared,3.76,Gonzaga Hall,1,DSB,46,,,102.0
+1227,202109F,M,BS,Finance,2.38,Regis Hall,1,DSB,36,1410.0,,13.0
+1228,202109F,M,BS,Finance,3.95,Loyola Hall,1,DSB,55,1410.0,,48.0
+1229,202109F,F,BS,Psychology,3.67,Gonzaga Hall,1,CAS,53,,,12.0
+1230,202109F,M,BA,Visual & Performing Arts,2.48,Commuter,1,CAS,42,,,0.0
+1231,202109F,M,BS,Marketing,3.4,Commuter,0,DSB,30,,,41.0
+1232,202109F,M,BA,Undeclared,2.74,Gonzaga Hall,1,CAS,46,1210.0,,95.0
+1233,202109F,M,BS,Business Analytics,3.51,Jogues Hall,1,DSB,45,,,76.0
+1234,202109F,M,BS,DSB Undeclared,3.24,Loyola Hall,1,DSB,45,,,99.0
+1235,202109F,M,BS,Mechanical Engineering,2.73,Campion Hall,1,SEC,49,,,1.0
+1236,202109F,M,BS,Psychology,3.62,Jogues Hall,1,CAS,56,1360.0,,152.0
+1237,202109F,F,BA,Undeclared,3.49,Regis Hall,1,CAS,45,,,105.0
+1238,202109F,M,BA,Undeclared,2.98,Jogues Hall,1,CAS,50,,,0.0
+1239,202109F,F,BA,Politics,3.76,Campion Hall,1,CAS,51,,,110.0
+1240,202109F,F,BA,Visual & Performing Arts,1.67,Jogues Hall,1,CAS,6,,,0.0
+1241,202109F,M,BS,Finance,3.23,Regis Hall,1,DSB,51,1320.0,,70.0
+1242,202109F,F,BA,Visual & Performing Arts,3.42,Campion Hall,1,CAS,45,,,158.0
+1243,202109F,M,BS,Finance,3.42,Jogues Hall,1,DSB,45,,,102.0
+1244,202109F,M,BS,DSB Undeclared,2.85,Regis Hall,1,DSB,48,,,54.0
+1245,202109F,F,BA,International Studies,3.69,Gonzaga Hall,1,CAS,45,,,52.0
+1246,202109F,M,BS,Computer Science,3.97,Commuter,1,SEC,50,,,0.0
+1247,202109F,M,BS,Finance,3.81,Jogues Hall,1,DSB,58,,,70.0
+1248,202109F,M,BA,Undeclared,2.41,Jogues Hall,1,CAS,42,,,128.0
+1249,202109F,M,BA,Communication,3.41,Jogues Hall,1,CAS,39,,,22.0
+1250,202109F,M,BS,Finance,2.95,Campion Hall,1,DSB,40,,,48.0
+1251,202109F,F,BA,Undeclared,3.57,Loyola Hall,1,CAS,42,,,49.0
+1252,202109F,M,BA,Communication,2.31,Jogues Hall,1,CAS,48,,,18.0
+1253,202109F,M,BS,Economics,3.5,Gonzaga Hall,1,DSB,51,1360.0,,156.0
+1254,202109F,F,BS,Psychology,3.17,Jogues Hall,1,CAS,43,,,71.0
+1255,202109F,M,BA,Undeclared,2.81,Jogues Hall,1,CAS,48,,,7.0
+1256,202109F,M,BS,Management,3.38,Loyola Hall,1,DSB,45,,,155.0
+1257,202209F,M,BA,Undeclared,3.46,Regis Hall,1,CAS,49,1370.0,,0.0
+1258,202209F,M,BS,Information Systems & Ops Mgmt,3.33,Commuter,1,DSB,57,,,40.0
+1259,202209F,F,BS,Nursing,3.94,Campion Hall,1,EGAN,49,,,20.0
+1260,202209F,M,BS,Finance,3.36,Commuter,1,DSB,45,,,62.0
+1261,202209F,M,BS,Mechanical Engineering,3.33,Commuter,1,SEC,49,,,14.0
+1262,202209F,M,BA,Politics,2.76,Gonzaga Hall,1,CAS,45,,,147.0
+1263,202209F,M,BS,Mathematics,0.18,Gonzaga Hall,0,CAS,3,,,0.0
+1264,202209F,M,BS,DSB Undeclared,3.65,Campion Hall,1,DSB,51,,,54.0
+1265,202209F,M,BS,Accounting,3.4,Gonzaga Hall,1,DSB,45,,Finance,16.0
+1266,202209F,M,BS,Mechanical Engineering,3.56,Commuter,1,SEC,52,,,90.0
+1267,202209F,F,BS,Nursing,3.84,Gonzaga Hall,1,EGAN,52,1340.0,,84.0
+1268,202209F,F,BS,Nursing,3.3,Gonzaga Hall,1,EGAN,54,,,0.0
+1269,202209F,M,BS,DSB Undeclared,3.07,Regis Hall,1,DSB,42,,,61.0
+1270,202209F,M,BS,Management,2.78,Regis Hall,1,DSB,45,,,0.0
+1271,202209F,F,BS,Psychology,3.62,Regis Hall,1,CAS,45,,,65.0
+1272,202209F,F,BA,Communication,3.87,Regis Hall,0,CAS,36,,,34.0
+1273,202209F,F,BS,Psychology,3.46,Loyola Hall,1,CAS,50,,,152.0
+1274,202209F,F,BA,Program on the Environment,3.0,Commuter,1,CAS,48,1290.0,,22.0
+1275,202209F,F,BS,Psychology,3.91,Loyola Hall,1,CAS,47,,,87.0
+1276,202209F,F,BA,Undeclared,3.86,Gonzaga Hall,1,CAS,51,,,38.0
+1277,202209F,M,BS,Business Analytics,3.78,Regis Hall,1,DSB,45,,,3.0
+1278,202209F,F,BA,Undeclared,3.67,Regis Hall,1,CAS,45,,,0.0
+1279,202209F,M,BS,DSB Undeclared,2.75,Loyola Hall,0,DSB,12,,,0.0
+1280,202209F,M,BS,DSB Undeclared,2.76,Jogues Hall,1,DSB,42,,,68.0
+1281,202209F,F,BS,Nursing,4.0,Jogues Hall,0,EGAN,45,,,0.0
+1282,202209F,F,BS,Nursing,3.44,Loyola Hall,1,EGAN,49,,,0.0
+1283,202209F,F,BS,Nursing,3.28,Regis Hall,1,EGAN,52,,,0.0
+1284,202209F,F,BS,Nursing,3.56,Regis Hall,1,EGAN,48,,,84.0
+1285,202209F,F,BA,Undeclared,2.93,Loyola Hall,1,CAS,42,,,0.0
+1286,202209F,F,BS,Nursing,3.43,Campion Hall,1,EGAN,48,,,67.0
+1287,202209F,F,BA,Communication,3.42,Campion Hall,1,CAS,45,1210.0,,18.0
+1288,202209F,F,BA,Politics,3.18,Gonzaga Hall,1,CAS,45,,,61.0
+1289,202209F,F,BS,DSB Undeclared,3.02,Loyola Hall,1,DSB,45,,,36.0
+1290,202209F,F,BS,Finance,3.82,Gonzaga Hall,1,DSB,55,1320.0,,2.0
+1291,202209F,F,BS,Nursing,3.43,Gonzaga Hall,1,EGAN,44,,,0.0
+1292,202209F,F,BS,Accounting,3.69,Gonzaga Hall,1,DSB,45,,,58.0
+1293,202209F,F,BS,Nursing,3.96,Loyola Hall,1,EGAN,59,,,20.0
+1294,202209F,F,BS,Nursing,3.98,Jogues Hall,1,EGAN,50,,,0.0
+1295,202209F,F,BS,Social Work,3.69,Regis Hall,0,EGAN,20,1360.0,,0.0
+1296,202209F,M,BS,DSB Undeclared,3.69,Loyola Hall,1,DSB,45,,,3.0
+1297,202209F,F,BS,Finance,3.82,Campion Hall,1,DSB,45,,,58.0
+1298,202209F,F,BS,Nursing,3.61,Gonzaga Hall,1,EGAN,49,,,0.0
+1299,202209F,M,BS,Public Health,2.86,Loyola Hall,1,EGAN,42,980.0,,15.0
+1300,202209F,F,BS,Psychology,3.29,Regis Hall,1,CAS,45,,,164.0
+1301,202209F,F,BS,DSB Undeclared,3.27,Regis Hall,0,DSB,15,,,25.0
+1302,202209F,F,BS,Psychology,3.88,Loyola Hall,1,CAS,58,,,86.0
+1303,202209F,F,BS,DSB Undeclared,3.81,Loyola Hall,1,DSB,63,,,73.0
+1304,202209F,M,BS,Biology,3.32,Loyola Hall,1,CAS,46,,,19.0
+1305,202209F,M,BA,Visual & Performing Arts,1.84,Regis Hall,1,CAS,31,,,128.0
+1306,202209F,F,BS,Marketing,3.84,Gonzaga Hall,1,DSB,45,,,4.0
+1307,202209F,F,BS,Nursing,4.0,Campion Hall,1,EGAN,59,1310.0,,20.0
+1308,202209F,F,BA,International Studies,3.77,Jogues Hall,0,CAS,30,,,0.0
+1309,202209F,M,BS,DSB Undeclared,3.2,Loyola Hall,1,DSB,45,1200.0,,13.0
+1310,202209F,F,BS,DSB Undeclared,4.0,Jogues Hall,1,DSB,45,,,70.0
+1311,202209F,F,BS,Electrical and Computer Engineering,3.22,Regis Hall,1,SEC,52,,,159.0
+1312,202209F,M,BA,Undeclared,3.37,Loyola Hall,0,CAS,30,1170.0,,0.0
+1313,202209F,F,BA,Politics,3.96,Regis Hall,1,CAS,45,,,39.0
+1314,202209F,M,BS,Finance,3.64,Regis Hall,1,DSB,45,1190.0,,13.0
+1315,202209F,M,BS,International Business,3.35,Jogues Hall,1,DSB,45,1370.0,,109.0
+1316,202209F,F,BS,Management,3.64,Loyola Hall,1,DSB,45,,,53.0
+1317,202209F,F,BA,Psychology,2.84,Loyola Hall,1,CAS,46,,,86.0
+1318,202209F,F,BS,Biology,3.35,Campion Hall,1,CAS,49,,,0.0
+1319,202209F,F,BS,DSB Undeclared,3.6,Jogues Hall,1,DSB,45,,,89.0
+1320,202209F,F,BS,Nursing,2.97,Gonzaga Hall,1,EGAN,57,,,0.0
+1321,202209F,F,BS,International Business,3.93,Jogues Hall,1,DSB,49,,,73.0
+1322,202209F,F,BA,Communication,3.18,Regis Hall,1,CAS,45,,,18.0
+1323,202209F,F,BS,Finance,3.81,Jogues Hall,1,DSB,61,1500.0,,63.0
+1324,202209F,M,BS,DSB Undeclared,3.8,Jogues Hall,1,DSB,48,,,0.0
+1325,202209F,M,BS,International Business,3.53,Loyola Hall,1,DSB,48,,,109.0
+1326,202209F,F,BS,Computer Science,3.66,Gonzaga Hall,1,SEC,51,1260.0,,0.0
+1327,202209F,F,BS,Nursing,3.46,Regis Hall,1,EGAN,52,,,0.0
+1328,202209F,F,BA,Undeclared,3.6,Loyola Hall,1,CAS,48,,,4.0
+1329,202209F,M,BS,Mechanical Engineering,1.24,Campion Hall,0,SEC,10,,,0.0
+1330,202209F,M,BA,English,3.36,Regis Hall,1,CAS,46,1190.0,,109.0
+1331,202209F,F,BS,Biology,3.29,Campion Hall,1,CAS,58,1360.0,,60.0
+1332,202209F,M,BS,Finance,3.64,Loyola Hall,1,DSB,42,1110.0,,0.0
+1333,202209F,F,BS,Marketing,3.79,Gonzaga Hall,1,DSB,48,,,0.0
+1334,202209F,M,BS,DSB Undeclared,3.44,Jogues Hall,1,DSB,45,1350.0,,4.0
+1335,202209F,M,BS,Finance,3.45,Gonzaga Hall,1,DSB,46,,,89.0
+1336,202209F,M,BS,Finance,3.65,Gonzaga Hall,1,DSB,54,1220.0,,62.0
+1337,202209F,M,BS,DSB Undeclared,3.49,Regis Hall,1,DSB,45,,,73.0
+1338,202209F,F,BA,Digital Journalism,3.53,Regis Hall,0,CAS,30,,,0.0
+1339,202209F,M,BS,DSB Undeclared,2.92,Jogues Hall,1,DSB,48,,,69.0
+1340,202209F,M,BS,Mechanical Engineering,3.85,Jogues Hall,1,SEC,63,,,90.0
+1341,202209F,M,BS,Nursing,3.92,Campion Hall,1,EGAN,49,,,0.0
+1342,202209F,F,BS,Nursing,3.77,Regis Hall,1,EGAN,49,,,51.0
+1343,202209F,F,BS,International Business,3.85,Jogues Hall,1,DSB,51,,,0.0
+1344,202209F,F,BS,DSB Undeclared,3.78,Jogues Hall,1,DSB,60,1420.0,,0.0
+1345,202209F,M,BS,Management,3.31,Jogues Hall,1,DSB,49,,,74.0
+1346,202209F,F,BS,Mechanical Engineering,3.1,Campion Hall,1,SEC,52,,,14.0
+1347,202209F,M,BS,Accounting,3.86,Jogues Hall,1,DSB,66,1270.0,,0.0
+1348,202209F,M,BS,Accounting,3.71,Regis Hall,1,DSB,48,,,122.0
+1349,202209F,F,BA,Communication,1.29,Regis Hall,0,CAS,12,,,34.0
+1350,202209F,F,BS,Nursing,3.36,Loyola Hall,1,EGAN,49,,,97.0
+1351,202209F,M,BS,Finance,2.67,Jogues Hall,1,DSB,45,1360.0,,66.0
+1352,202209F,M,BS,Computer Science,3.12,Campion Hall,1,SEC,48,1310.0,,0.0
+1353,202209F,F,BS,Psychology,3.62,Campion Hall,1,CAS,56,,,87.0
+1354,202209F,F,BS,Psychology,3.37,Gonzaga Hall,1,CAS,47,,,152.0
+1355,202209F,F,BS,DSB Undeclared,3.47,Gonzaga Hall,1,DSB,45,,,0.0
+1356,202209F,M,BA,Undeclared,3.13,Gonzaga Hall,1,CAS,45,1150.0,,163.0
+1357,202209F,F,BA,Visual & Performing Arts,2.98,Loyola Hall,1,CAS,48,,,56.0
+1358,202209F,M,BS,Finance,3.76,Loyola Hall,1,DSB,49,,,54.0
+1359,202209F,F,BA,Undeclared,3.89,Loyola Hall,1,CAS,48,,,39.0
+1360,202209F,F,BS,Finance,3.9,Jogues Hall,0,DSB,30,,,53.0
+1361,202209F,M,BS,Finance,3.47,Loyola Hall,1,DSB,46,,,89.0
+1362,202209F,F,BS,DSB Undeclared,3.49,Loyola Hall,1,DSB,45,,,63.0
+1363,202209F,F,BS,DSB Undeclared,3.73,Regis Hall,1,DSB,48,,,16.0
+1364,202209F,F,BA,Sociology and Anthropology,3.26,Campion Hall,1,CAS,45,,,95.0
+1365,202209F,F,BS,Nursing,2.99,Regis Hall,1,EGAN,45,,,121.0
+1366,202209F,F,BS,Nursing,3.76,Regis Hall,1,EGAN,48,,,84.0
+1367,202209F,F,BS,Finance,3.09,Loyola Hall,1,DSB,48,,,73.0
+1368,202209F,M,BS,SOE Undeclared,3.68,Jogues Hall,1,SEC,61,,,0.0
+1369,202209F,F,BS,Nursing,3.67,Loyola Hall,0,EGAN,33,,,0.0
+1370,202209F,F,BA,History,3.33,Campion Hall,1,CAS,45,,,32.0
+1371,202209F,F,BS,Nursing,3.73,Campion Hall,1,EGAN,52,,,97.0
+1372,202209F,F,BS,Management,3.57,Gonzaga Hall,0,DSB,30,,,0.0
+1373,202209F,M,BS,Finance,3.16,Campion Hall,1,DSB,57,,,73.0
+1374,202209F,F,BS,Marketing,3.4,Regis Hall,1,DSB,45,,,0.0
+1375,202209F,F,BS,Psychology,2.89,Regis Hall,1,CAS,46,,,86.0
+1376,202209F,M,BS,Management,2.71,Jogues Hall,1,DSB,45,1300.0,,6.0
+1377,202209F,M,BA,Undeclared,,Regis Hall,0,CAS,0,,,
+1378,202209F,M,BS,DSB Undeclared,3.05,Loyola Hall,1,DSB,45,1250.0,,0.0
+1379,202209F,F,BS,Biology,3.37,Campion Hall,1,CAS,66,1310.0,,81.0
+1380,202209F,F,BA,Undeclared,2.78,Gonzaga Hall,1,CAS,45,,,49.0
+1381,202209F,F,BS,Nursing,2.75,Loyola Hall,0,EGAN,19,,,0.0
+1382,202209F,F,BA,Undeclared,3.26,Gonzaga Hall,1,CAS,42,,,59.0
+1383,202209F,F,BS,Public Health,3.3,Regis Hall,1,EGAN,46,,,131.0
+1384,202209F,M,BS,DSB Undeclared,3.55,Regis Hall,0,DSB,33,,,5.0
+1385,202209F,F,BS,Marketing,3.74,Loyola Hall,1,DSB,43,,,138.0
+1386,202209F,F,BA,Undeclared,2.9,Campion Hall,1,CAS,59,,,0.0
+1387,202209F,F,BS,Management,2.96,Jogues Hall,1,DSB,45,,,0.0
+1388,202209F,M,BS,Nursing,2.91,Campion Hall,1,EGAN,59,,,156.0
+1389,202209F,F,BS,Biology,3.25,Commuter,1,CAS,64,,,112.0
+1390,202209F,F,BA,English,3.16,Jogues Hall,1,CAS,54,,,119.0
+1391,202209F,M,BS,Finance,3.87,Jogues Hall,1,DSB,49,,,53.0
+1392,202209F,F,BS,Psychology,3.81,Loyola Hall,1,CAS,60,1340.0,,87.0
+1393,202209F,M,BS,Finance,3.8,Loyola Hall,1,DSB,45,,,66.0
+1394,202209F,F,BA,Communication,4.0,Jogues Hall,1,CAS,57,1360.0,,49.0
+1395,202209F,F,BS,Finance,4.0,Gonzaga Hall,1,DSB,51,,,66.0
+1396,202209F,M,BS,Finance,3.83,Campion Hall,1,DSB,48,1210.0,,66.0
+1397,202209F,F,BS,Nursing,3.22,Campion Hall,1,EGAN,45,,,51.0
+1398,202209F,M,BS,DSB Undeclared,3.82,Loyola Hall,1,DSB,55,1290.0,,80.0
+1399,202209F,M,BS,Finance,3.17,Jogues Hall,0,DSB,30,,,66.0
+1400,202209F,M,BS,Mechanical Engineering,3.05,Gonzaga Hall,1,SEC,59,,,120.0
+1401,202209F,F,BA,Visual & Performing Arts,3.53,Loyola Hall,1,CAS,45,,,37.0
+1402,202209F,F,BA,Visual & Performing Arts,3.69,Gonzaga Hall,1,CAS,51,,,128.0
+1403,202209F,M,BS,Accounting,2.31,Jogues Hall,1,DSB,45,,,0.0
+1404,202209F,F,BA,Communication,3.0,Regis Hall,1,CAS,45,,,34.0
+1405,202209F,M,BS,Finance,3.31,Jogues Hall,1,DSB,45,,,13.0
+1406,202209F,M,BS,Business Analytics,3.75,Jogues Hall,1,DSB,57,1400.0,,80.0
+1407,202209F,M,BS,Biology,2.76,Regis Hall,0,CAS,21,1340.0,,0.0
+1408,202209F,M,BS,Accounting,3.96,Jogues Hall,1,DSB,46,1270.0,,0.0
+1409,202209F,M,BS,Finance,3.43,Jogues Hall,1,DSB,45,,,89.0
+1410,202209F,F,BS,Nursing,3.69,Regis Hall,1,EGAN,56,1350.0,,51.0
+1411,202209F,M,BS,DSB Undeclared,3.22,Jogues Hall,1,DSB,45,,,73.0
+1412,202209F,M,BS,DSB Undeclared,3.49,Regis Hall,1,DSB,45,,,70.0
+1413,202209F,M,BS,Finance,3.76,Regis Hall,1,DSB,45,,,116.0
+1414,202209F,F,BS,Marketing,3.71,Campion Hall,1,DSB,45,1250.0,,98.0
+1415,202209F,F,BA,Communication,3.48,Regis Hall,1,CAS,46,,,18.0
+1416,202209F,F,BS,Nursing,3.19,Gonzaga Hall,1,EGAN,50,,,0.0
+1417,202209F,M,BS,Finance,3.15,Jogues Hall,1,DSB,48,,,89.0
+1418,202209F,M,BS,Biomedical Engineering,2.49,Campion Hall,1,SEC,46,,,60.0
+1419,202209F,M,BA,Sports Media,2.82,Jogues Hall,1,CAS,45,,,18.0
+1420,202209F,M,BS,Psychology,3.29,Jogues Hall,1,CAS,44,1280.0,,73.0
+1421,202209F,M,BS,DSB Undeclared,3.41,Jogues Hall,1,DSB,46,,,0.0
+1422,202209F,M,BS,Mechanical Engineering,3.27,Campion Hall,1,SEC,52,1140.0,,0.0
+1423,202209F,M,BS,Finance,3.53,Regis Hall,1,DSB,30,,,66.0
+1424,202209F,M,BS,Accounting,3.13,Jogues Hall,1,DSB,45,,,38.0
+1425,202209F,F,BS,Nursing,3.77,Jogues Hall,1,EGAN,61,1340.0,,0.0
+1426,202209F,F,BS,Psychology,3.92,Campion Hall,1,CAS,54,,,86.0
+1427,202209F,F,BS,Nursing,3.9,Regis Hall,1,EGAN,49,,,0.0
+1428,202209F,M,BA,Undeclared,2.46,Regis Hall,1,CAS,36,,,0.0
+1429,202209F,F,BS,Nursing,3.74,Gonzaga Hall,1,EGAN,49,,,0.0
+1430,202209F,M,BS,Management,2.98,Gonzaga Hall,1,DSB,45,,,41.0
+1431,202209F,F,BS,Psychology,3.98,Jogues Hall,1,CAS,50,1300.0,,87.0
+1432,202209F,F,BS,International Business,4.0,Regis Hall,1,DSB,63,,,125.0
+1433,202209F,F,BS,Psychology,3.24,Jogues Hall,1,CAS,45,,,0.0
+1434,202209F,M,BS,Electrical and Computer Engineering,3.06,Campion Hall,1,SEC,52,,,139.0
+1435,202209F,M,BS,Finance,3.95,Jogues Hall,1,DSB,60,,Accounting,59.0
+1436,202209F,F,BS,Mechanical Engineering,3.34,Gonzaga Hall,1,SEC,52,,,120.0
+1437,202209F,F,BS,Nursing,3.52,Campion Hall,1,EGAN,48,,,67.0
+1438,202209F,F,BA,Communication,3.76,Loyola Hall,1,CAS,45,,,18.0
+1439,202209F,F,BS,Business Analytics,3.29,Loyola Hall,1,DSB,45,,,44.0
+1440,202209F,F,BS,Nursing,3.81,Jogues Hall,1,EGAN,66,1370.0,,0.0
+1441,202209F,F,BS,Psychology,3.6,Loyola Hall,1,CAS,45,,,86.0
+1442,202209F,F,BS,Psychology,0.0,Loyola Hall,0,CAS,0,,,
+1443,202209F,F,BS,Nursing,3.4,Jogues Hall,1,EGAN,50,1260.0,,124.0
+1444,202209F,F,BS,Marketing,3.72,Regis Hall,1,DSB,57,,,4.0
+1445,202209F,M,BS,DSB Undeclared,3.85,Jogues Hall,1,DSB,48,,,41.0
+1446,202209F,F,BS,Nursing,3.11,Regis Hall,1,EGAN,44,1030.0,,23.0
+1447,202209F,M,BS,Finance,3.67,Gonzaga Hall,0,DSB,36,,,66.0
+1448,202209F,F,BS,Marketing,2.93,Gonzaga Hall,0,DSB,27,,,15.0
+1449,202209F,F,BS,Nursing,3.06,Gonzaga Hall,1,EGAN,51,,,97.0
+1450,202209F,F,BA,Undeclared,3.07,Loyola Hall,1,CAS,44,,,131.0
+1451,202209F,F,BA,Undeclared,3.33,Gonzaga Hall,0,CAS,33,,,65.0
+1452,202209F,F,BA,Undeclared,3.31,Regis Hall,1,CAS,45,,,15.0
+1453,202209F,M,BS,DSB Undeclared,3.81,Jogues Hall,1,DSB,48,1390.0,,53.0
+1454,202209F,F,BA,Communication,3.92,Jogues Hall,1,CAS,52,,,0.0
+1455,202209F,F,BA,Undeclared,3.27,Campion Hall,1,CAS,48,,,138.0
+1456,202209F,M,BS,Finance,3.29,Gonzaga Hall,1,DSB,42,1320.0,,66.0
+1457,202209F,F,BS,Accounting,3.83,Jogues Hall,1,DSB,68,1340.0,,0.0
+1458,202209F,F,BS,Biology,3.74,Campion Hall,1,CAS,57,1280.0,,96.0
+1459,202209F,F,BS,Nursing,3.79,Campion Hall,1,EGAN,49,,,0.0
+1460,202209F,F,BA,Undeclared,3.62,Regis Hall,1,CAS,45,,,85.0
+1461,202209F,M,BS,DSB Undeclared,3.56,Jogues Hall,1,DSB,48,1380.0,,122.0
+1462,202209F,F,BA,Visual & Performing Arts,0.75,Campion Hall,0,CAS,6,,,12.0
+1463,202209F,M,BS,Marketing,3.09,Jogues Hall,1,DSB,46,,,138.0
+1464,202209F,M,BS,Finance,3.27,Loyola Hall,1,DSB,45,,,89.0
+1465,202209F,F,BS,Marketing,4.0,Jogues Hall,1,DSB,62,,,105.0
+1466,202209F,M,BS,Accounting,3.62,Jogues Hall,1,DSB,45,1370.0,,114.0
+1467,202209F,F,BS,Nursing,2.84,Campion Hall,1,EGAN,48,,,67.0
+1468,202209F,F,BS,Biology,2.85,Campion Hall,0,CAS,13,,,156.0
+1469,202209F,F,BS,DSB Undeclared,3.61,Jogues Hall,1,DSB,46,,,73.0
+1470,202209F,F,BA,Sociology and Anthropology,3.57,Gonzaga Hall,1,CAS,42,,,152.0
+1471,202209F,M,BS,DSB Undeclared,2.78,Loyola Hall,1,DSB,45,,,40.0
+1472,202209F,M,BS,Finance,3.51,Regis Hall,1,DSB,42,,,53.0
+1473,202209F,M,BS,DSB Undeclared,3.6,Regis Hall,1,DSB,42,,,0.0
+1474,202209F,F,BS,Nursing,3.01,Loyola Hall,1,EGAN,48,,,0.0
+1475,202209F,F,BS,Psychology,3.44,Loyola Hall,1,CAS,45,,,0.0
+1476,202209F,M,BS,Accounting,3.75,Jogues Hall,1,DSB,66,1380.0,,0.0
+1477,202209F,F,BS,DSB Undeclared,2.93,Loyola Hall,0,DSB,15,,,61.0
+1478,202209F,F,BS,DSB Undeclared,3.86,Gonzaga Hall,1,DSB,49,,,113.0
+1479,202209F,F,BA,Undeclared,3.48,Regis Hall,0,CAS,31,,,133.0
+1480,202209F,F,BS,Nursing,3.75,Jogues Hall,1,EGAN,52,,,124.0
+1481,202209F,F,BS,Psychology,3.79,Jogues Hall,1,CAS,54,1400.0,,12.0
+1482,202209F,F,BS,DSB Undeclared,3.48,Jogues Hall,1,DSB,63,,,2.0
+1483,202209F,M,BS,SOE Undeclared,2.97,Campion Hall,1,SEC,52,1260.0,,0.0
+1484,202209F,F,BS,Nursing,3.49,Loyola Hall,1,EGAN,45,,,4.0
+1485,202209F,F,BS,Management,3.94,Loyola Hall,1,DSB,52,,,0.0
+1486,202209F,F,BS,Nursing,3.73,Regis Hall,1,EGAN,51,,,0.0
+1487,202209F,F,BS,DSB Undeclared,3.31,Regis Hall,1,DSB,45,,,4.0
+1488,202209F,F,BS,DSB Undeclared,3.67,Campion Hall,1,DSB,39,,,8.0
+1489,202209F,F,BS,DSB Undeclared,3.43,Gonzaga Hall,1,DSB,56,,,3.0
+1490,202209F,M,BS,Finance,3.18,Gonzaga Hall,1,DSB,45,1370.0,,66.0
+1491,202209F,F,BS,Nursing,3.59,Loyola Hall,1,EGAN,55,1300.0,,0.0
+1492,202209F,F,BA,Communication,3.8,Regis Hall,1,CAS,45,,,18.0
+1493,202209F,F,BA,Communication,3.87,Gonzaga Hall,1,CAS,51,,,41.0
+1494,202209F,F,BA,Undeclared,3.08,Loyola Hall,0,CAS,12,,,0.0
+1495,202209F,F,BS,Nursing,3.98,Campion Hall,1,EGAN,50,,,0.0
+1496,202209F,F,BS,Finance,3.22,Regis Hall,1,DSB,46,,,62.0
+1497,202209F,F,BS,DSB Undeclared,3.58,Jogues Hall,1,DSB,51,,,73.0
+1498,202209F,F,BS,Nursing,3.98,Jogues Hall,1,EGAN,59,1380.0,,124.0
+1499,202209F,F,BS,Nursing,3.76,Regis Hall,1,EGAN,67,,,97.0
+1500,202209F,M,BA,History,3.01,Loyola Hall,1,CAS,46,1300.0,,127.0
+1501,202209F,F,BA,Politics,3.79,Jogues Hall,1,CAS,60,1360.0,,53.0
+1502,202209F,F,BS,Nursing,3.53,Regis Hall,1,EGAN,52,,,0.0
+1503,202209F,M,BS,Marketing,3.0,Campion Hall,0,DSB,43,,,98.0
+1504,202209F,M,BS,Nursing,3.96,Regis Hall,1,EGAN,49,,,0.0
+1505,202209F,M,BS,DSB Undeclared,3.85,Regis Hall,1,DSB,45,,,114.0
+1506,202209F,F,BS,Biology,3.52,Campion Hall,1,CAS,51,1280.0,,81.0
+1507,202209F,F,BS,Nursing,3.64,Loyola Hall,1,EGAN,60,1410.0,,0.0
+1508,202209F,F,BS,Nursing,3.29,Gonzaga Hall,1,EGAN,52,,,0.0
+1509,202209F,M,BS,Marketing,3.91,Gonzaga Hall,1,DSB,52,1350.0,,4.0
+1510,202209F,F,BS,Nursing,3.98,Loyola Hall,1,EGAN,58,,,124.0
+1511,202209F,M,BS,DSB Undeclared,3.44,Commuter,1,DSB,54,,,54.0
+1512,202209F,M,BS,DSB Undeclared,2.82,Gonzaga Hall,1,DSB,51,,,3.0
+1513,202209F,F,BA,Undeclared,3.78,Gonzaga Hall,1,CAS,51,1280.0,,106.0
+1514,202209F,F,BA,Communication,3.89,Jogues Hall,1,CAS,45,,,34.0
+1515,202209F,M,BS,Finance,3.44,Campion Hall,1,DSB,48,,,53.0
+1516,202209F,F,BA,Undeclared,3.73,Regis Hall,1,CAS,45,1320.0,,138.0
+1517,202209F,M,BS,Management,3.45,Campion Hall,1,DSB,45,1230.0,,113.0
+1518,202209F,M,BS,Accounting,3.46,Regis Hall,1,DSB,58,,,0.0
+1519,202209F,F,BS,DSB Undeclared,3.27,Campion Hall,1,DSB,45,,,73.0
+1520,202209F,F,BS,Nursing,3.06,Gonzaga Hall,1,EGAN,55,,,0.0
+1521,202209F,M,BA,Undeclared,2.56,Gonzaga Hall,1,CAS,45,1330.0,,88.0
+1522,202209F,F,BS,Nursing,2.8,Campion Hall,1,EGAN,49,,,0.0
+1523,202209F,F,BS,Psychology,2.37,Campion Hall,1,CAS,39,,,133.0
+1524,202209F,F,BS,Marketing,3.78,Jogues Hall,1,DSB,51,1350.0,,98.0
+1525,202209F,F,BA,Undeclared,3.32,Jogues Hall,1,CAS,46,1240.0,,0.0
+1526,202209F,F,BS,Biology,3.42,Campion Hall,1,CAS,48,1320.0,,74.0
+1527,202209F,F,BA,Undeclared,4.0,Gonzaga Hall,1,CAS,64,1410.0,,0.0
+1528,202209F,F,BA,History,4.0,Jogues Hall,1,CAS,63,1330.0,,64.0
+1529,202209F,F,BS,Finance,3.98,Loyola Hall,1,DSB,46,1370.0,,66.0
+1530,202209F,M,BS,Undeclared,3.83,Campion Hall,1,CAS,55,,,112.0
+1531,202209F,F,BS,Nursing,3.59,Gonzaga Hall,1,EGAN,49,,,0.0
+1532,202209F,F,BS,Finance,3.57,Commuter,1,DSB,52,,Accounting,66.0
+1533,202209F,F,BA,Undeclared,3.69,Jogues Hall,1,CAS,45,,,138.0
+1534,202209F,F,BS,Public Health,3.83,Campion Hall,1,EGAN,52,,,131.0
+1535,202209F,F,BS,Nursing,4.0,Gonzaga Hall,1,EGAN,55,1440.0,,0.0
+1536,202209F,F,BS,Biomedical Engineering,3.85,Campion Hall,1,SEC,50,,,60.0
+1537,202209F,M,BS,DSB Undeclared,3.48,Regis Hall,1,DSB,53,1350.0,,16.0
+1538,202209F,M,BS,Mechanical Engineering,3.68,Jogues Hall,1,SEC,52,1290.0,,14.0
+1539,202209F,M,BS,DSB Undeclared,1.7,Gonzaga Hall,0,DSB,27,,,72.0
+1540,202209F,M,BS,Finance,1.26,Loyola Hall,0,DSB,22,1310.0,,70.0
+1541,202209F,M,BA,History,3.86,Regis Hall,1,CAS,42,,,0.0
+1542,202209F,F,BS,Psychology,3.38,Loyola Hall,1,CAS,47,,,152.0
+1543,202209F,F,BS,Nursing,3.78,Campion Hall,1,EGAN,55,1340.0,,0.0
+1544,202209F,F,BS,Nursing,3.34,Gonzaga Hall,1,EGAN,46,,,0.0
+1545,202209F,F,BA,Undeclared,3.89,Regis Hall,1,CAS,45,,,0.0
+1546,202209F,M,BS,Economics,3.5,Loyola Hall,1,DSB,43,1420.0,,89.0
+1547,202209F,F,BA,Undeclared,3.58,Regis Hall,1,CAS,51,,,121.0
+1548,202209F,F,BS,Biology,3.45,Campion Hall,1,CAS,71,,,81.0
+1549,202209F,F,BS,Biology,3.65,Campion Hall,1,CAS,49,,,131.0
+1550,202209F,F,BS,Nursing,3.73,Regis Hall,1,EGAN,49,1270.0,,51.0
+1551,202209F,F,BS,Nursing,3.6,Regis Hall,1,EGAN,48,,,67.0
+1552,202209F,M,BS,DSB Undeclared,2.24,Regis Hall,1,DSB,45,,,156.0
+1553,202209F,F,BS,Marketing,3.73,Regis Hall,1,DSB,45,1390.0,,4.0
+1554,202209F,F,BS,Nursing,3.54,Loyola Hall,1,EGAN,48,,,84.0
+1555,202209F,M,BS,Management,3.22,Jogues Hall,1,DSB,45,,,0.0
+1556,202209F,M,BS,Economics,3.42,Loyola Hall,1,DSB,51,,,0.0
+1557,202209F,F,BS,Nursing,2.53,Loyola Hall,0,EGAN,30,,,0.0
+1558,202209F,F,BS,Computer Science,3.73,Campion Hall,1,SEC,59,1160.0,,1.0
+1559,202209F,M,BS,DSB Undeclared,3.4,Loyola Hall,1,DSB,45,1170.0,,69.0
+1560,202209F,F,BS,Finance,3.4,Loyola Hall,0,DSB,30,,,66.0
+1561,202209F,F,BS,DSB Undeclared,3.92,Regis Hall,1,DSB,48,,,4.0
+1562,202209F,F,BS,DSB Undeclared,3.87,Regis Hall,1,DSB,45,1300.0,,0.0
+1563,202209F,F,BS,Social Work,3.98,Jogues Hall,1,EGAN,67,1420.0,,137.0
+1564,202209F,M,BS,DSB Undeclared,3.71,Regis Hall,1,DSB,52,1340.0,,89.0
+1565,202209F,F,BS,Nursing,3.79,Jogues Hall,1,EGAN,51,,,0.0
+1566,202209F,F,BA,Communication,3.38,Jogues Hall,1,CAS,48,,,134.0
+1567,202209F,F,BS,Nursing,3.72,Loyola Hall,1,EGAN,51,1280.0,,50.0
+1568,202209F,F,BS,Psychology,3.13,Loyola Hall,1,CAS,45,,,4.0
+1569,202209F,F,BA,International Studies,3.71,Jogues Hall,1,CAS,51,,,109.0
+1570,202209F,F,BS,Nursing,3.79,Gonzaga Hall,1,EGAN,48,,,51.0
+1571,202209F,M,BS,Nursing,3.63,Jogues Hall,1,EGAN,48,,,0.0
+1572,202209F,M,BA,Undeclared,3.11,Loyola Hall,1,CAS,45,,,71.0
+1573,202209F,F,BS,Nursing,3.77,Loyola Hall,1,EGAN,56,1330.0,,124.0
+1574,202209F,F,BS,Nursing,3.35,Gonzaga Hall,1,EGAN,48,1240.0,,0.0
+1575,202209F,F,BS,Nursing,3.5,Gonzaga Hall,1,EGAN,49,,,51.0
+1576,202209F,F,BS,Accounting,3.56,Regis Hall,1,DSB,45,1300.0,,2.0
+1577,202209F,F,BS,Nursing,3.49,Gonzaga Hall,1,EGAN,48,,,67.0
+1578,202209F,M,BS,DSB Undeclared,2.86,Campion Hall,1,DSB,42,,,73.0
+1579,202209F,F,BA,Politics,3.25,Jogues Hall,1,CAS,48,,,4.0
+1580,202209F,F,BS,Psychology,2.82,Regis Hall,1,CAS,45,,,87.0
+1581,202209F,M,BS,DSB Undeclared,3.27,Campion Hall,1,DSB,30,1210.0,,0.0
+1582,202209F,M,BS,Management,3.78,Jogues Hall,1,DSB,51,,,0.0
+1583,202209F,F,BA,Undeclared,3.3,Gonzaga Hall,1,CAS,51,,,15.0
+1584,202209F,F,BS,Marketing,2.96,Gonzaga Hall,1,DSB,45,,,138.0
+1585,202209F,M,BA,Religious Studies,3.57,Campion Hall,1,CAS,42,,,0.0
+1586,202209F,F,BS,Social Work,3.41,Regis Hall,1,EGAN,44,,,0.0
+1587,202209F,M,BA,Sports Media,1.79,Regis Hall,1,CAS,36,,,18.0
+1588,202209F,M,BS,Finance,3.63,Regis Hall,1,DSB,48,,,66.0
+1589,202209F,F,BA,English,3.76,Regis Hall,1,CAS,51,1270.0,,0.0
+1590,202209F,F,BS,Nursing,3.58,Campion Hall,1,EGAN,48,,,97.0
+1591,202209F,M,BS,DSB Undeclared,3.51,Regis Hall,1,DSB,45,,,0.0
+1592,202209F,F,BS,DSB Undeclared,3.36,Gonzaga Hall,1,DSB,45,,,125.0
+1593,202209F,F,BS,Psychology,3.45,Regis Hall,0,CAS,27,,,86.0
+1594,202209F,F,BS,Nursing,3.59,Regis Hall,1,EGAN,49,1250.0,,0.0
+1595,202209F,M,BS,Finance,3.78,Regis Hall,1,DSB,45,1260.0,,62.0
+1596,202209F,M,BS,DSB Undeclared,2.98,Jogues Hall,1,DSB,45,,,138.0
+1597,202209F,F,BS,DSB Undeclared,2.85,Jogues Hall,1,DSB,45,,,155.0
+1598,202209F,F,BS,Nursing,3.76,Campion Hall,1,EGAN,60,1380.0,,0.0
+1599,202209F,M,BA,Communication,3.64,Regis Hall,1,CAS,45,,,15.0
+1600,202209F,F,BS,Psychology,2.93,Regis Hall,1,CAS,42,,,86.0
+1601,202209F,F,BS,Biology,2.96,Campion Hall,0,CAS,31,,,33.0
+1602,202209F,M,BS,Management,3.69,Loyola Hall,1,DSB,48,,,0.0
+1603,202209F,M,BS,DSB Undeclared,3.76,Regis Hall,1,DSB,45,1260.0,,66.0
+1604,202209F,M,BS,Marketing,3.17,Jogues Hall,0,DSB,12,,,138.0
+1605,202209F,F,BS,Nursing,3.0,Campion Hall,1,EGAN,48,,,0.0
+1606,202209F,F,BA,Undeclared,3.8,Jogues Hall,0,CAS,38,1340.0,,43.0
+1607,202209F,F,BS,Economics,2.7,Regis Hall,1,DSB,46,,,0.0
+1608,202209F,M,BS,DSB Undeclared,2.69,Loyola Hall,1,DSB,48,,,0.0
+1609,202209F,F,BA,Politics,2.93,Gonzaga Hall,1,CAS,42,,,83.0
+1610,202209F,F,BS,DSB Undeclared,4.0,Jogues Hall,1,DSB,66,1450.0,,66.0
+1611,202209F,F,BS,Nursing,3.39,Gonzaga Hall,1,EGAN,53,1310.0,,0.0
+1612,202209F,F,BS,Nursing,3.79,Regis Hall,1,EGAN,48,,,0.0
+1613,202209F,F,BS,Nursing,3.1,Loyola Hall,1,EGAN,49,,,26.0
+1614,202209F,F,BA,Communication,3.29,Loyola Hall,1,CAS,42,,,7.0
+1615,202209F,F,BS,Public Health,2.96,Regis Hall,1,EGAN,50,1240.0,,131.0
+1616,202209F,F,BS,Nursing,2.69,Regis Hall,1,EGAN,50,,,84.0
+1617,202209F,F,BS,Biology,3.88,Campion Hall,1,CAS,61,,,0.0
+1618,202209F,F,BA,Undeclared,3.05,Loyola Hall,1,CAS,42,,,0.0
+1619,202209F,F,BS,Psychology,3.48,Campion Hall,1,CAS,55,,,4.0
+1620,202209F,M,BS,Physics,3.75,Campion Hall,1,CAS,49,1290.0,,0.0
+1621,202209F,F,BS,Psychology,3.67,Loyola Hall,1,CAS,46,,,12.0
+1622,202209F,F,BS,Psychology,3.86,Regis Hall,1,CAS,63,,,87.0
+1623,202209F,F,BS,Economics,3.58,Campion Hall,1,DSB,45,,,0.0
+1624,202209F,F,BA,Sociology and Anthropology,3.38,Jogues Hall,1,CAS,42,,,0.0
+1625,202209F,F,BS,Marketing,3.02,Gonzaga Hall,1,DSB,48,,,0.0
+1626,202209F,F,BS,Biology,3.52,Commuter,1,CAS,64,,,112.0
+1627,202209F,F,BA,International Studies,3.89,Jogues Hall,1,CAS,46,,,154.0
+1628,202209F,M,BS,DSB Undeclared,3.67,Gonzaga Hall,0,DSB,27,1310.0,,61.0
+1629,202209F,M,BS,Business Analytics,3.89,Regis Hall,1,DSB,59,,,68.0
+1630,202209F,F,BS,Finance,3.69,Gonzaga Hall,1,DSB,45,,,62.0
+1631,202209F,M,BS,Accounting,3.64,Loyola Hall,1,DSB,45,1100.0,,0.0
+1632,202209F,M,BS,Finance,3.42,Campion Hall,1,DSB,60,1140.0,,62.0
+1633,202209F,F,BS,Psychology,3.47,Jogues Hall,0,CAS,30,,,12.0
+1634,202209F,M,BS,Management,3.87,Campion Hall,1,DSB,50,,,69.0
+1635,202209F,F,BA,Undeclared,0.75,Jogues Hall,1,CAS,18,,,0.0
+1636,202209F,F,BS,DSB Undeclared,3.67,Campion Hall,1,DSB,45,,,25.0
+1637,202209F,M,BS,Finance,3.49,Jogues Hall,1,DSB,45,,,66.0
+1638,202209F,F,BS,Management,3.93,Gonzaga Hall,1,DSB,51,1270.0,,0.0
+1639,202209F,F,BS,Nursing,3.56,Regis Hall,1,EGAN,52,,,0.0
+1640,202209F,M,BS,Finance,3.96,Gonzaga Hall,1,DSB,45,,,54.0
+1641,202209F,F,BS,Nursing,3.53,Campion Hall,0,EGAN,37,,,0.0
+1642,202209F,F,BS,Nursing,3.81,Regis Hall,1,EGAN,49,,,0.0
+1643,202209F,F,BS,Nursing,3.69,Gonzaga Hall,1,EGAN,48,,,0.0
+1644,202209F,F,BS,Mechanical Engineering,3.87,Campion Hall,1,SEC,49,,,14.0
+1645,202209F,F,BA,Undeclared,3.91,Jogues Hall,1,CAS,47,1280.0,,0.0
+1646,202209F,F,BS,Management,3.61,Campion Hall,1,DSB,51,,,58.0
+1647,202209F,M,BS,Mechanical Engineering,3.73,Campion Hall,1,SEC,52,,,90.0
+1648,202209F,F,BS,Marketing,3.46,Loyola Hall,1,DSB,46,,,36.0
+1649,202209F,F,BA,Politics,3.52,Jogues Hall,1,CAS,42,,,110.0
+1650,202209F,F,BS,Nursing,3.67,Regis Hall,0,EGAN,12,,,0.0
+1651,202209F,F,BS,Marketing,3.16,Campion Hall,1,DSB,45,,,138.0
+1652,202209F,F,BA,International Studies,3.41,Jogues Hall,1,CAS,45,1170.0,,52.0
+1653,202209F,F,BS,Marketing,3.8,Regis Hall,1,DSB,61,,,0.0
+1654,202209F,M,BA,Politics,3.8,Loyola Hall,0,CAS,36,,,39.0
+1655,202209F,F,BS,Nursing,3.83,Campion Hall,1,EGAN,70,,,84.0
+1656,202209F,F,BS,Nursing,3.17,Regis Hall,1,EGAN,51,,,131.0
+1657,202209F,F,BS,DSB Undeclared,3.13,Loyola Hall,1,DSB,30,,,76.0
+1658,202209F,F,BA,Undeclared,3.64,Jogues Hall,0,CAS,33,1280.0,,145.0
+1659,202209F,F,BS,DSB Undeclared,2.67,Jogues Hall,1,DSB,42,1260.0,,0.0
+1660,202209F,F,BS,DSB Undeclared,3.6,Jogues Hall,1,DSB,45,,,41.0
+1661,202209F,F,BA,Undeclared,3.87,Regis Hall,1,CAS,45,1230.0,,87.0
+1662,202209F,F,BS,DSB Undeclared,4.0,Loyola Hall,1,DSB,45,,,59.0
+1663,202209F,F,BS,Marketing,3.73,Regis Hall,1,DSB,48,,,4.0
+1664,202209F,F,BS,Psychology,3.77,Regis Hall,1,CAS,50,1260.0,,0.0
+1665,202209F,M,BS,DSB Undeclared,3.56,Jogues Hall,1,DSB,48,,,16.0
+1666,202209F,M,BS,SOE Undeclared,3.92,Campion Hall,1,SEC,58,,,120.0
+1667,202209F,F,BS,Public Health,3.85,Regis Hall,1,EGAN,48,,,0.0
+1668,202209F,F,BS,Marketing,2.4,Campion Hall,0,DSB,15,,,98.0
+1669,202209F,F,BA,Communication,3.89,Gonzaga Hall,1,CAS,48,,,34.0
+1670,202209F,F,BS,Marketing,3.44,Jogues Hall,1,DSB,45,,,0.0
+1671,202209F,M,BS,Finance,3.62,Jogues Hall,1,DSB,45,,,73.0
+1672,202209F,F,BS,Nursing,3.78,Campion Hall,1,EGAN,52,,,20.0
+1673,202209F,F,BA,Undeclared,3.92,Gonzaga Hall,1,CAS,53,1370.0,,0.0
+1674,202209F,M,BS,DSB Undeclared,3.31,Gonzaga Hall,1,DSB,45,,,0.0
+1675,202209F,M,BS,Finance,3.59,Campion Hall,1,DSB,54,1280.0,,66.0
+1676,202209F,M,BS,DSB Undeclared,3.47,Regis Hall,1,DSB,57,1320.0,,88.0
+1677,202209F,M,BS,Finance,3.67,Gonzaga Hall,1,DSB,45,1270.0,,6.0
+1678,202209F,F,BA,Politics,3.89,Regis Hall,1,CAS,45,,,0.0
+1679,202209F,F,BA,Undeclared,3.8,Regis Hall,1,CAS,45,,,121.0
+1680,202209F,F,BA,Undeclared,3.17,Jogues Hall,1,CAS,42,1230.0,,4.0
+1681,202209F,M,BS,Management,3.36,Loyola Hall,1,DSB,45,,,53.0
+1682,202209F,M,BS,DSB Undeclared,3.69,Regis Hall,1,DSB,52,,,89.0
+1683,202209F,F,BS,Chemistry,3.78,Jogues Hall,1,CAS,61,1270.0,,0.0
+1684,202209F,F,BA,Undeclared,2.73,Loyola Hall,1,CAS,45,,,0.0
+1685,202209F,F,BS,Information Systems & Ops Mgmt,3.9,Commuter,1,DSB,48,1070.0,,8.0
+1686,202209F,M,BA,Undeclared,3.62,Regis Hall,1,CAS,47,,,152.0
+1687,202209F,F,BS,Nursing,3.8,Jogues Hall,1,EGAN,48,1360.0,,0.0
+1688,202209F,F,BS,Biology,3.52,Jogues Hall,1,CAS,54,,,0.0
+1689,202209F,M,BS,DSB Undeclared,3.38,Jogues Hall,1,DSB,48,1310.0,,53.0
+1690,202209F,F,BS,Nursing,3.54,Jogues Hall,0,EGAN,42,1320.0,,0.0
+1691,202209F,F,BS,Nursing,3.88,Loyola Hall,1,EGAN,57,,,51.0
+1692,202209F,F,BS,Nursing,3.25,Gonzaga Hall,1,EGAN,51,1150.0,,0.0
+1693,202209F,M,BS,DSB Undeclared,2.53,Regis Hall,1,DSB,45,,,99.0
+1694,202209F,M,BS,Chemistry,3.62,Commuter,1,CAS,66,1310.0,,161.0
+1695,202209F,F,BA,Undeclared,0.0,Regis Hall,0,CAS,0,,,0.0
+1696,202209F,F,BS,Biology,2.14,Campion Hall,0,CAS,24,,,0.0
+1697,202209F,F,BS,Accounting,3.42,Loyola Hall,1,DSB,45,,,2.0
+1698,202209F,F,BS,DSB Undeclared,3.89,Jogues Hall,1,DSB,60,1330.0,,62.0
+1699,202209F,M,BS,DSB Undeclared,3.71,Loyola Hall,1,DSB,46,,,89.0
+1700,202209F,M,BS,Marketing,3.38,Loyola Hall,1,DSB,45,,,105.0
+1701,202209F,M,BS,Finance,3.0,Campion Hall,1,DSB,42,,,13.0
+1702,202209F,F,BS,Nursing,3.2,Loyola Hall,1,EGAN,52,,,0.0
+1703,202209F,F,BS,Psychology,3.82,Loyola Hall,1,CAS,48,,,86.0
+1704,202209F,M,BA,Undeclared,2.94,Loyola Hall,1,CAS,37,,,73.0
+1705,202209F,F,BS,Finance,3.91,Loyola Hall,1,DSB,61,1340.0,,89.0
+1706,202209F,M,BS,DSB Undeclared,3.62,Gonzaga Hall,1,DSB,49,1300.0,,85.0
+1707,202209F,F,BA,Modern Languages,3.62,Loyola Hall,1,CAS,57,,,148.0
+1708,202209F,F,BS,Psychology,3.86,Regis Hall,1,CAS,58,1370.0,,4.0
+1709,202209F,M,BS,DSB Undeclared,3.4,Jogues Hall,1,DSB,45,,,8.0
+1710,202209F,M,BS,Management,3.36,Jogues Hall,1,DSB,45,,,0.0
+1711,202209F,F,BA,Program on the Environment,3.85,Loyola Hall,1,CAS,47,,,0.0
+1712,202209F,F,BS,Marketing,3.56,Gonzaga Hall,1,DSB,39,,,15.0
+1713,202209F,F,BS,Biology,2.68,Campion Hall,1,CAS,42,,,86.0
+1714,202209F,F,BA,Undeclared,2.98,Jogues Hall,1,CAS,48,,,15.0
+1715,202209F,M,BS,Mathematics,3.75,Campion Hall,1,CAS,58,1350.0,,0.0
+1716,202209F,F,BS,Psychology,3.5,Loyola Hall,1,CAS,46,,,86.0
+1717,202209F,F,BS,Nursing,3.92,Jogues Hall,1,EGAN,62,1420.0,,0.0
+1718,202209F,M,BS,Marketing,3.09,Regis Hall,1,DSB,45,,,0.0
+1719,202209F,F,BS,Nursing,3.65,Jogues Hall,1,EGAN,64,,,0.0
+1720,202209F,F,BS,Chemistry,3.25,Campion Hall,1,CAS,54,,,36.0
+1721,202209F,F,BS,Biology,3.26,Campion Hall,0,CAS,32,1290.0,,112.0
+1722,202209F,F,BS,Biology,3.23,Campion Hall,1,CAS,49,,,0.0
+1723,202209F,F,BS,Biology,3.36,Campion Hall,1,CAS,52,,,112.0
+1724,202209F,F,BA,Undeclared,3.91,Gonzaga Hall,1,CAS,48,,,163.0
+1725,202209F,M,BS,Accounting,3.65,Gonzaga Hall,1,DSB,46,1390.0,,0.0
+1726,202209F,M,BS,DSB Undeclared,3.67,Loyola Hall,1,DSB,49,1420.0,,16.0
+1727,202209F,F,BS,Psychology,3.61,Campion Hall,1,CAS,46,,,86.0
+1728,202209F,F,BS,Public Health,1.62,Regis Hall,1,EGAN,30,,,131.0
+1729,202209F,F,BS,DSB Undeclared,3.94,Jogues Hall,1,DSB,52,1400.0,,4.0
+1730,202209F,F,BA,Undeclared,3.49,Gonzaga Hall,1,CAS,45,,,138.0
+1731,202209F,F,BS,DSB Undeclared,3.65,Regis Hall,1,DSB,45,,,156.0
+1732,202209F,F,BS,DSB Undeclared,3.69,Jogues Hall,1,DSB,45,,,156.0
+1733,202209F,F,BS,Nursing,3.96,Campion Hall,1,EGAN,59,1320.0,,0.0
+1734,202209F,F,BS,Chemistry,3.96,Jogues Hall,1,CAS,56,1340.0,,87.0
+1735,202209F,F,BS,Nursing,2.84,Campion Hall,1,EGAN,49,,,0.0
+1736,202209F,F,BA,Undeclared,3.58,Gonzaga Hall,1,CAS,45,,,69.0
+1737,202209F,F,BS,Marketing,3.51,Loyola Hall,1,DSB,45,,,0.0
+1738,202209F,F,BS,Psychology,3.17,Regis Hall,1,CAS,42,,,0.0
+1739,202209F,F,BS,Marketing,3.8,Loyola Hall,1,DSB,48,,,0.0
+1740,202209F,F,BS,International Business,3.75,Gonzaga Hall,1,DSB,66,1310.0,,109.0
+1741,202209F,F,BS,Psychology,3.84,Jogues Hall,1,CAS,52,,,71.0
+1742,202209F,F,BA,International Studies,3.84,Gonzaga Hall,1,CAS,45,,,154.0
+1743,202209F,M,BS,Accounting,3.93,Loyola Hall,1,DSB,46,,,0.0
+1744,202209F,M,BS,Computer Science,3.56,Regis Hall,1,SEC,58,,,0.0
+1745,202209F,F,BS,Accounting,3.12,Commuter,1,DSB,42,,,38.0
+1746,202209F,M,BS,Finance,3.29,Jogues Hall,1,DSB,45,,,73.0
+1747,202209F,F,BS,Biology,2.82,Campion Hall,1,CAS,51,,,156.0
+1748,202209F,F,BS,Psychology,3.54,Gonzaga Hall,1,CAS,48,,,0.0
+1749,202209F,F,BS,Nursing,3.85,Campion Hall,1,EGAN,48,,,84.0
+1750,202209F,F,BS,Psychology,2.99,Loyola Hall,0,CAS,31,,,71.0
+1751,202209F,M,BA,Visual & Performing Arts,3.53,Campion Hall,1,CAS,66,,,79.0
+1752,202209F,F,BA,Undeclared,3.51,Gonzaga Hall,1,CAS,45,,,4.0
+1753,202209F,F,BS,Public Health,3.97,Campion Hall,0,EGAN,30,,,143.0
+1754,202209F,M,BS,Finance,3.77,Campion Hall,1,DSB,48,,,38.0
+1755,202209F,F,BS,DSB Undeclared,3.92,Gonzaga Hall,1,DSB,51,,,38.0
+1756,202209F,F,BS,Psychology,2.99,Jogues Hall,1,CAS,47,,,45.0
+1757,202209F,M,BS,Finance,3.29,Loyola Hall,1,DSB,45,,,53.0
+1758,202209F,F,BS,Finance,3.73,Regis Hall,0,DSB,30,1200.0,,13.0
+1759,202209F,F,BA,Politics,3.68,Regis Hall,1,CAS,59,,,83.0
+1760,202209F,F,BS,Nursing,3.68,Regis Hall,1,EGAN,49,,,84.0
+1761,202209F,M,BA,Politics,3.22,Regis Hall,1,CAS,42,,,0.0
+1762,202209F,M,BS,DSB Undeclared,3.69,Loyola Hall,1,DSB,45,,,62.0
+1763,202209F,M,BS,Finance,3.96,Regis Hall,1,DSB,59,1350.0,,66.0
+1764,202209F,F,BS,Social Work,3.72,Loyola Hall,1,EGAN,47,,,0.0
+1765,202209F,M,BS,Finance,3.67,Jogues Hall,1,DSB,45,,,73.0
+1766,202209F,M,BS,Marketing,3.07,Regis Hall,1,DSB,42,,,59.0
+1767,202209F,F,BS,DSB Undeclared,3.04,Regis Hall,1,DSB,54,,,41.0
+1768,202209F,M,BS,DSB Undeclared,3.17,Regis Hall,1,DSB,46,,,25.0
+1769,202209F,F,BA,Politics,3.16,Regis Hall,1,CAS,45,,,39.0
+1770,202209F,M,BS,Accounting,3.29,Jogues Hall,1,DSB,51,,,0.0
+1771,202209F,M,BS,Finance,3.47,Loyola Hall,1,DSB,45,1160.0,,89.0
+1772,202209F,F,BS,Psychology,3.85,Jogues Hall,1,CAS,49,,,87.0
+1773,202209F,M,BS,Biology,3.23,Campion Hall,1,CAS,43,,,122.0
+1774,202209F,F,BS,Biology,3.04,Campion Hall,1,CAS,48,1230.0,,33.0
+1775,202209F,F,BS,DSB Undeclared,3.33,Regis Hall,1,DSB,51,,,0.0
+1776,202209F,M,BS,Finance,2.35,Campion Hall,1,DSB,45,,,53.0
+1777,202209F,F,BS,Nursing,3.92,Jogues Hall,1,EGAN,49,,,0.0
+1778,202209F,F,BS,Psychology,3.87,Commuter,1,CAS,44,,,71.0
+1779,202209F,F,BA,Communication,3.58,Jogues Hall,1,CAS,45,,,18.0
+1780,202209F,F,BS,Accounting,3.27,Loyola Hall,1,DSB,48,,,0.0
+1781,202209F,F,BA,Undeclared,3.53,Regis Hall,1,CAS,45,1240.0,,0.0
+1782,202209F,F,BS,Biomedical Engineering,3.81,Jogues Hall,1,SEC,56,1270.0,,60.0
+1783,202209F,F,BS,Psychology,3.87,Gonzaga Hall,1,CAS,46,,,86.0
+1784,202209F,M,BS,DSB Undeclared,3.56,Loyola Hall,1,DSB,45,,,53.0
+1785,202209F,M,BS,Finance,4.0,Loyola Hall,1,DSB,45,1280.0,,53.0
+1786,202209F,F,BS,Finance,3.68,Loyola Hall,1,DSB,49,,,53.0
+1787,202209F,F,BA,Undeclared,3.6,Loyola Hall,1,CAS,45,,,85.0
+1788,202209F,M,BS,DSB Undeclared,4.0,Jogues Hall,1,DSB,46,,,54.0
+1789,202209F,F,BS,Biology,3.65,Campion Hall,1,CAS,43,,,22.0
+1790,202209F,F,BS,Finance,3.92,Jogues Hall,1,DSB,54,1340.0,,66.0
+1791,202209F,F,BS,Psychology,2.93,Loyola Hall,1,CAS,46,,,71.0
+1792,202209F,F,BS,Public Health,3.7,Loyola Hall,1,EGAN,53,,,131.0
+1793,202209F,F,BS,Biology,4.0,Campion Hall,1,CAS,66,,,33.0
+1794,202209F,F,BS,Marketing,3.96,Jogues Hall,1,DSB,51,,,4.0
+1795,202209F,F,BS,Computer Science,3.91,Claver Hall,0,SEC,26,,,0.0
+1796,202209F,F,BS,Accounting,3.69,Commuter,1,DSB,49,,,0.0
+1797,202209F,F,BA,English,3.02,Jogues Hall,1,CAS,45,,,26.0
+1798,202209F,M,BS,Accounting,3.78,Regis Hall,0,DSB,27,,,2.0
+1799,202209F,F,BS,Nursing,3.34,Campion Hall,1,EGAN,51,,,0.0
+1800,202209F,F,BS,Nursing,3.54,Gonzaga Hall,1,EGAN,49,1370.0,,0.0
+1801,202209F,M,BS,Information Systems & Ops Mgmt,3.73,Campion Hall,1,DSB,58,1300.0,,44.0
+1802,202209F,F,BS,Marketing,3.09,Loyola Hall,1,DSB,45,1270.0,,100.0
+1803,202209F,F,BS,Psychology,3.59,Gonzaga Hall,1,CAS,47,1260.0,,86.0
+1804,202209F,F,BS,Marketing,3.67,Loyola Hall,1,DSB,48,,,105.0
+1805,202209F,F,BS,Chemistry,3.58,Campion Hall,1,CAS,55,,,0.0
+1806,202209F,M,BS,Computer Science,3.82,Campion Hall,1,SEC,62,1250.0,,0.0
+1807,202209F,M,BS,SOE Undeclared,3.73,Jogues Hall,1,SEC,57,1350.0,,0.0
+1808,202209F,M,BS,Biology,3.15,Campion Hall,1,CAS,58,1210.0,,31.0
+1809,202209F,M,BS,Computer Science,2.65,Campion Hall,1,SEC,40,,,0.0
+1810,202209F,F,BA,Undeclared,3.8,Gonzaga Hall,1,CAS,54,,,95.0
+1811,202209F,F,BA,Undeclared,3.74,Campion Hall,1,CAS,46,,,0.0
+1812,202209F,F,BS,Marketing,3.5,Regis Hall,0,DSB,33,,,41.0
+1813,202209F,F,BS,SOE Undeclared,3.77,Jogues Hall,1,SEC,53,,,63.0
+1814,202209F,F,BS,Nursing,2.89,Campion Hall,1,EGAN,51,,,0.0
+1815,202209F,F,BA,Undeclared,3.22,Loyola Hall,1,CAS,46,,,0.0
+1816,202209F,F,BS,Biology,3.43,Loyola Hall,1,CAS,47,,,147.0
+1817,202209F,F,BS,DSB Undeclared,3.62,Gonzaga Hall,1,DSB,45,,,0.0
+1818,202209F,F,BS,DSB Undeclared,3.47,Regis Hall,1,DSB,46,,,0.0
+1819,202209F,M,BA,Sports Media,3.82,Regis Hall,1,CAS,52,1380.0,,18.0
+1820,202209F,M,BS,Psychology,3.97,Loyola Hall,0,CAS,29,,,0.0
+1821,202209F,F,BS,International Business,3.93,Regis Hall,1,DSB,53,,,109.0
+1822,202209F,M,BS,DSB Undeclared,3.49,Jogues Hall,1,DSB,55,1500.0,,4.0
+1823,202209F,F,BS,Marketing,3.06,Jogues Hall,1,DSB,51,,,105.0
+1824,202209F,F,BS,Mechanical Engineering,3.51,Campion Hall,1,SEC,56,1330.0,,0.0
+1825,202209F,F,BS,Psychology,2.81,Campion Hall,1,CAS,46,,,87.0
+1826,202209F,F,BS,Biology,3.04,Campion Hall,1,CAS,58,,,0.0
+1827,202209F,F,BS,Accounting,3.47,Gonzaga Hall,0,DSB,21,,,114.0
+1828,202209F,F,BA,Undeclared,3.85,Loyola Hall,1,CAS,55,,,12.0
+1829,202209F,M,BS,Mechanical Engineering,2.13,Campion Hall,1,SEC,51,,,45.0
+1830,202209F,M,BS,DSB Undeclared,3.52,Jogues Hall,1,DSB,46,,,66.0
+1831,202209F,M,BS,Psychology,3.71,Jogues Hall,1,CAS,62,1420.0,,71.0
+1832,202209F,F,BS,Nursing,3.31,Gonzaga Hall,1,EGAN,49,,,0.0
+1833,202209F,F,BA,Communication,3.91,Jogues Hall,1,CAS,45,,,56.0
+1834,202209F,M,BS,Finance,3.67,Jogues Hall,1,DSB,45,,,66.0
+1835,202209F,F,BA,Communication,3.89,Regis Hall,1,CAS,45,1240.0,,56.0
+1836,202209F,F,BA,Digital Journalism,4.0,Jogues Hall,1,CAS,54,,,42.0
+1837,202209F,M,BA,Sports Media,3.89,Campion Hall,1,CAS,54,,,18.0
+1838,202209F,M,BS,DSB Undeclared,2.2,Jogues Hall,0,DSB,27,,,129.0
+1839,202209F,F,BS,Nursing,2.71,Campion Hall,1,EGAN,40,,,118.0
+1840,202209F,M,BS,DSB Undeclared,3.64,Loyola Hall,1,DSB,51,,,0.0
+1841,202209F,F,BS,Nursing,3.2,Loyola Hall,1,EGAN,51,,,84.0
+1842,202209F,M,BS,Accounting,3.94,Jogues Hall,1,DSB,64,1460.0,,16.0
+1843,202209F,M,BA,Digital Journalism,3.92,Campion Hall,1,CAS,51,,,0.0
+1844,202209F,F,BS,Marketing,3.29,Regis Hall,1,DSB,51,,,13.0
+1845,202209F,M,BS,Finance,4.0,Regis Hall,1,DSB,45,,,73.0
+1846,202209F,F,BS,DSB Undeclared,3.82,Loyola Hall,1,DSB,52,,,36.0
+1847,202209F,M,BS,Psychology,3.64,Regis Hall,1,CAS,48,,,71.0
+1848,202209F,M,BS,Accounting,4.0,Regis Hall,1,DSB,54,1320.0,,0.0
+1849,202209F,F,BS,Chemistry,4.0,Campion Hall,1,CAS,63,1440.0,,0.0
+1850,202209F,M,BS,Finance,3.83,Jogues Hall,0,DSB,30,,,62.0
+1851,202209F,M,BS,Biology,3.36,Campion Hall,1,CAS,51,,,33.0
+1852,202209F,F,BS,International Business,3.07,Gonzaga Hall,0,DSB,27,,,133.0
+1853,202209F,M,BS,Marketing,1.67,Jogues Hall,1,DSB,42,,,121.0
+1854,202209F,F,BA,Undeclared,2.88,Gonzaga Hall,1,CAS,38,,,0.0
+1855,202209F,M,BS,Finance,3.58,Jogues Hall,1,DSB,60,,,66.0
+1856,202209F,F,BS,DSB Undeclared,3.2,Regis Hall,1,DSB,45,,,4.0
+1857,202209F,F,BS,Marketing,3.6,Loyola Hall,1,DSB,45,,,36.0
+1858,202209F,M,BS,DSB Undeclared,2.73,Regis Hall,1,DSB,30,1200.0,,0.0
+1859,202209F,F,BS,DSB Undeclared,3.65,Loyola Hall,1,DSB,45,,,138.0
+1860,202209F,M,BA,History,3.22,Regis Hall,1,CAS,45,1100.0,,25.0
+1861,202209F,F,BS,Nursing,3.39,Regis Hall,1,EGAN,52,,,0.0
+1862,202209F,M,BS,DSB Undeclared,3.91,Regis Hall,1,DSB,57,1460.0,,91.0
+1863,202209F,M,BS,Management,3.6,Campion Hall,1,DSB,48,,,104.0
+1864,202209F,F,BS,Nursing,3.81,Campion Hall,1,EGAN,49,,,51.0
+1865,202209F,M,BS,DSB Undeclared,3.2,Regis Hall,1,DSB,45,,,166.0
+1866,202209F,M,BS,DSB Undeclared,3.52,Regis Hall,0,DSB,27,,,86.0
+1867,202209F,F,BS,Psychology,2.75,Regis Hall,1,CAS,48,,,0.0
+1868,202209F,M,BS,DSB Undeclared,2.83,Loyola Hall,1,DSB,39,1280.0,,101.0
+1869,202209F,F,BS,Nursing,3.12,Loyola Hall,1,EGAN,48,,,0.0
+1870,202209F,F,BS,Psychology,3.29,Campion Hall,1,CAS,45,,,163.0
+1871,202209F,M,BA,Undeclared,2.74,Gonzaga Hall,1,CAS,42,,,0.0
+1872,202209F,F,BS,Biology,3.94,Campion Hall,1,CAS,52,,,0.0
+1873,202209F,F,BS,Psychology,3.68,Regis Hall,1,CAS,46,,,131.0
+1874,202209F,F,BA,Sports Media,3.85,Gonzaga Hall,1,CAS,51,,,18.0
+1875,202209F,F,BS,Accounting,3.33,Loyola Hall,1,DSB,42,,,122.0
+1876,202209F,M,BA,Sports Media,3.83,Regis Hall,1,CAS,46,,,18.0
+1877,202209F,M,BS,DSB Undeclared,2.25,Regis Hall,1,DSB,42,,,40.0
+1878,202209F,F,BS,Biology,2.87,Campion Hall,1,CAS,53,,,0.0
+1879,202209F,F,BS,Mathematics,3.05,Campion Hall,1,CAS,49,,,78.0
+1880,202209F,F,BS,Nursing,3.58,Regis Hall,1,EGAN,54,,,84.0
+1881,202209F,M,BA,Undeclared,3.29,Regis Hall,1,CAS,60,1370.0,,57.0
+1882,202209F,M,BS,DSB Undeclared,3.11,Loyola Hall,1,DSB,45,,,73.0
+1883,202209F,F,BS,Finance,3.96,Gonzaga Hall,1,DSB,54,,,0.0
+1884,202209F,F,BA,English,3.63,Regis Hall,0,CAS,33,,,42.0
+1885,202209F,F,BS,Psychology,2.88,Campion Hall,1,CAS,42,,,87.0
+1886,202209F,F,BS,DSB Undeclared,3.31,Regis Hall,1,DSB,45,,,0.0
+1887,202209F,M,BS,Psychology,2.17,Regis Hall,0,CAS,12,,,86.0
+1888,202209F,F,BA,Undeclared,3.47,Regis Hall,1,CAS,45,,,4.0
+1889,202209F,F,BA,Visual & Performing Arts,4.0,Jogues Hall,1,CAS,66,1400.0,,79.0
+1890,202209F,F,BS,Nursing,3.28,Gonzaga Hall,1,EGAN,46,,,20.0
+1891,202209F,M,BS,Finance,3.52,Regis Hall,1,DSB,45,1200.0,,53.0
+1892,202209F,M,BS,Biomedical Engineering,3.39,Campion Hall,1,SEC,54,1530.0,,135.0
+1893,202209F,F,BS,DSB Undeclared,3.53,Loyola Hall,0,DSB,30,,,0.0
+1894,202209F,M,BS,Marketing,1.67,Loyola Hall,0,DSB,18,,,105.0
+1895,202209F,M,BS,Nursing,3.55,Jogues Hall,1,EGAN,55,,,0.0
+1896,202209F,M,BS,Mechanical Engineering,3.2,Campion Hall,1,SEC,52,1410.0,,0.0
+1897,202209F,F,BS,Nursing,2.79,Loyola Hall,1,EGAN,42,,,0.0
+1898,202209F,M,BS,Finance,1.47,Jogues Hall,0,DSB,9,1330.0,,66.0
+1899,202209F,F,BA,Undeclared,3.2,Jogues Hall,1,CAS,45,,,0.0
+1900,202209F,F,BS,Psychology,3.96,Regis Hall,1,CAS,46,,,71.0
+1901,202209F,F,BS,Psychology,3.87,Loyola Hall,1,CAS,46,,,86.0
+1902,202209F,F,BS,Marketing,3.53,Loyola Hall,1,DSB,45,,,0.0
+1903,202209F,F,BS,DSB Undeclared,3.69,Gonzaga Hall,1,DSB,49,1280.0,,0.0
+1904,202209F,F,BS,Marketing,3.33,Gonzaga Hall,1,DSB,45,,,4.0
+1905,202209F,F,BA,Program on the Environment,2.93,Gonzaga Hall,1,CAS,48,1250.0,,3.0
+1906,202209F,F,BS,Psychology,3.25,Loyola Hall,1,CAS,46,,,71.0
+1907,202209F,F,BS,Nursing,4.0,Gonzaga Hall,1,EGAN,52,1330.0,,0.0
+1908,202209F,F,BS,Business Analytics,3.36,Loyola Hall,1,DSB,45,,,28.0
+1909,202209F,M,BS,Management,2.71,Regis Hall,1,DSB,45,,,0.0
+1910,202209F,F,BA,Undeclared,3.62,Gonzaga Hall,1,CAS,45,,,149.0
+1911,202209F,F,BS,Management,3.22,Jogues Hall,1,DSB,45,1220.0,,0.0
+1912,202209F,F,BS,Accounting,3.63,Campion Hall,1,DSB,48,,,38.0
+1913,202209F,F,BS,Nursing,3.29,Regis Hall,1,EGAN,48,,,20.0
+1914,202209F,M,BS,Psychology,3.6,Gonzaga Hall,1,CAS,45,1320.0,,71.0
+1915,202209F,M,BS,Finance,3.86,Gonzaga Hall,1,DSB,49,,,102.0
+1916,202209F,F,BS,Psychology,3.52,Gonzaga Hall,1,CAS,50,,,86.0
+1917,202209F,F,BA,English,3.89,Regis Hall,1,CAS,54,1330.0,,0.0
+1918,202209F,M,BS,DSB Undeclared,3.13,Jogues Hall,1,DSB,45,,,4.0
+1919,202209F,F,BS,Computer Science,3.3,Jogues Hall,1,SEC,49,,,1.0
+1920,202209F,F,BS,Management,3.46,Regis Hall,1,DSB,48,,,21.0
+1921,202209F,F,BS,Nursing,3.47,Gonzaga Hall,1,EGAN,49,1290.0,,0.0
+1922,202209F,M,BS,DSB Undeclared,3.51,Regis Hall,1,DSB,45,,,53.0
+1923,202209F,M,BS,DSB Undeclared,2.98,Jogues Hall,1,DSB,45,1160.0,,3.0
+1924,202209F,F,BA,Communication,3.96,Gonzaga Hall,1,CAS,52,,,15.0
+1925,202209F,F,BS,Nursing,3.42,Loyola Hall,1,EGAN,48,,,0.0
+1926,202209F,F,BS,DSB Undeclared,3.69,Loyola Hall,1,DSB,54,1270.0,,0.0
+1927,202209F,F,BA,Undeclared,3.4,Loyola Hall,1,CAS,45,,,7.0
+1928,202209F,M,BS,DSB Undeclared,3.36,Jogues Hall,1,DSB,49,,,41.0
+1929,202209F,F,BS,Nursing,3.77,Gonzaga Hall,1,EGAN,58,1320.0,,0.0
+1930,202209F,F,BS,Nursing,3.71,Regis Hall,1,EGAN,51,,,0.0
+1931,202209F,M,BA,Undeclared,3.91,Jogues Hall,1,CAS,60,1420.0,,133.0
+1932,202209F,M,BS,DSB Undeclared,3.02,Regis Hall,1,DSB,45,,,73.0
+1933,202209F,M,BS,DSB Undeclared,3.2,Loyola Hall,1,DSB,45,,,70.0
+1934,202209F,F,BS,Biology,3.53,Campion Hall,1,CAS,47,,,0.0
+1935,202209F,M,BS,Finance,3.39,Regis Hall,1,DSB,39,1220.0,,13.0
+1936,202209F,M,BS,Computer Science,3.69,Campion Hall,1,SEC,50,,,1.0
+1937,202209F,F,BS,DSB Undeclared,3.56,Regis Hall,1,DSB,52,,,69.0
+1938,202209F,F,BS,Marketing,2.67,Campion Hall,1,DSB,45,,,138.0
+1939,202209F,F,BS,Nursing,3.29,Loyola Hall,1,EGAN,48,,,0.0
+1940,202209F,F,BS,Psychology,3.02,Campion Hall,1,CAS,48,,,152.0
+1941,202209F,F,BA,Communication,3.57,Loyola Hall,1,CAS,42,,,18.0
+1942,202209F,F,BS,Nursing,2.61,Loyola Hall,1,EGAN,47,,,0.0
+1943,202209F,F,BS,Marketing,3.47,Jogues Hall,1,DSB,51,,,0.0
+1944,202209F,M,BS,DSB Undeclared,3.49,Campion Hall,1,DSB,45,1320.0,,54.0
+1945,202209F,F,BS,DSB Undeclared,3.69,Jogues Hall,1,DSB,48,,,104.0
+1946,202209F,M,BS,DSB Undeclared,3.24,Jogues Hall,1,DSB,42,,,76.0
+1947,202209F,F,BS,Mathematics,3.55,Campion Hall,1,CAS,49,1200.0,,132.0
+1948,202209F,M,BS,DSB Undeclared,2.64,Jogues Hall,1,DSB,45,,,166.0
+1949,202209F,F,BA,Economics,3.33,Regis Hall,1,CAS,51,1270.0,,4.0
+1950,202209F,F,BS,Nursing,3.1,Campion Hall,1,EGAN,49,,,0.0
+1951,202209F,F,BS,DSB Undeclared,3.8,Jogues Hall,1,DSB,45,,,63.0
+1952,202209F,M,BS,Finance,3.93,Loyola Hall,1,DSB,45,,,62.0
+1953,202209F,F,BS,Nursing,3.38,Regis Hall,1,EGAN,48,,,67.0
+1954,202209F,F,BS,Finance,3.21,Jogues Hall,1,DSB,45,,,70.0
+1955,202209F,M,BS,SOE Undeclared,3.24,Campion Hall,1,SEC,45,,,62.0
+1956,202209F,M,BA,Undeclared,3.1,Jogues Hall,1,CAS,42,,,153.0
+1957,202209F,F,BS,Finance,3.82,Campion Hall,1,DSB,52,,,53.0
+1958,202209F,M,BS,Accounting,3.11,Jogues Hall,1,DSB,45,1240.0,,114.0
+1959,202209F,M,BS,DSB Undeclared,3.11,Gonzaga Hall,1,DSB,45,,,48.0
+1960,202209F,M,BS,Economics,3.63,Regis Hall,1,DSB,48,,,122.0
+1961,202209F,M,BS,Marketing,3.45,Jogues Hall,1,DSB,48,,,156.0
+1962,202209F,F,BS,Biology,0.86,Loyola Hall,0,CAS,13,,,31.0
+1963,202209F,F,BS,DSB Undeclared,3.63,Loyola Hall,1,DSB,46,,,0.0
+1964,202209F,M,BS,DSB Undeclared,3.4,Loyola Hall,1,DSB,45,,,53.0
+1965,202209F,M,BS,DSB Undeclared,3.0,Regis Hall,1,DSB,42,,,138.0
+1966,202209F,M,BS,Finance,3.56,Loyola Hall,1,DSB,45,,,102.0
+1967,202209F,F,BS,DSB Undeclared,3.89,Loyola Hall,1,DSB,48,,,74.0
+1968,202209F,F,BA,Politics,3.18,Campion Hall,1,CAS,39,,,0.0
+1969,202209F,M,BS,Management,3.4,Loyola Hall,1,DSB,43,1260.0,,69.0
+1970,202209F,M,BA,Undeclared,3.93,Loyola Hall,1,CAS,57,,,31.0
+1971,202209F,F,BS,Computer Science,3.35,Campion Hall,1,SEC,50,,,0.0
+1972,202209F,F,BA,Undeclared,3.19,Gonzaga Hall,1,CAS,46,,,0.0
+1973,202209F,F,BS,Psychology,3.02,Gonzaga Hall,1,CAS,45,,,76.0
+1974,202209F,F,BS,Psychology,3.51,Gonzaga Hall,1,CAS,48,,,12.0
+1975,202209F,M,BS,Finance,1.83,Regis Hall,1,DSB,36,,,73.0
+1976,202209F,M,BA,Undeclared,3.22,Jogues Hall,1,CAS,51,1240.0,,0.0
+1977,202209F,M,BA,Undeclared,3.22,Regis Hall,1,CAS,45,1150.0,,0.0
+1978,202209F,M,BS,DSB Undeclared,3.79,Campion Hall,1,DSB,51,1190.0,,8.0
+1979,202209F,F,BA,International Studies,3.64,Jogues Hall,0,CAS,49,1440.0,,115.0
+1980,202209F,M,BS,Finance,3.84,Regis Hall,1,DSB,45,,,54.0
+1981,202209F,F,BS,Nursing,3.31,Loyola Hall,1,EGAN,46,,,0.0
+1982,202209F,F,BA,International Studies,3.45,Regis Hall,1,CAS,42,,,15.0
+1983,202209F,M,BS,DSB Undeclared,3.69,Loyola Hall,1,DSB,48,1300.0,,45.0
+1984,202209F,M,BS,DSB Undeclared,2.8,Regis Hall,1,DSB,45,1140.0,,74.0
+1985,202209F,F,BS,DSB Undeclared,3.51,Regis Hall,1,DSB,55,,,27.0
+1986,202209F,F,BS,Nursing,3.48,Regis Hall,1,EGAN,57,1220.0,,84.0
+1987,202209F,M,BS,Finance,3.67,Jogues Hall,1,DSB,45,1380.0,,70.0
+1988,202209F,F,BS,Biology,1.63,Campion Hall,0,CAS,9,,,0.0
+1989,202209F,F,BS,Nursing,3.46,Campion Hall,1,EGAN,55,1300.0,,0.0
+1990,202209F,M,BS,DSB Undeclared,3.83,Regis Hall,1,DSB,42,1320.0,,66.0
+1991,202209F,M,BS,Biology,2.79,Campion Hall,1,CAS,47,,,0.0
+1992,202209F,M,BS,Mechanical Engineering,3.12,Regis Hall,1,SEC,49,,,90.0
+1993,202209F,F,BA,Program on the Environment,3.63,Commuter,1,CAS,48,,,149.0
+1994,202209F,M,BS,DSB Undeclared,3.4,Jogues Hall,1,DSB,45,,,73.0
+1995,202209F,F,BS,Finance,3.44,Gonzaga Hall,1,DSB,49,,,66.0
+1996,202209F,F,BA,Undeclared,3.56,Regis Hall,1,CAS,45,,,7.0
+1997,202209F,M,BS,International Business,3.64,Jogues Hall,0,DSB,30,,,109.0
+1998,202209F,F,BS,Psychology,2.84,Loyola Hall,0,CAS,31,,,87.0
+1999,202209F,F,BS,Nursing,3.85,Campion Hall,1,EGAN,48,1400.0,,0.0
+2000,202209F,F,BS,Nursing,3.56,Gonzaga Hall,1,EGAN,51,1320.0,,97.0
+2001,202209F,F,BS,Nursing,3.77,Loyola Hall,1,EGAN,51,,,51.0
+2002,202209F,M,BS,DSB Undeclared,3.73,Jogues Hall,1,DSB,51,,,155.0
+2003,202209F,F,BS,Biomedical Engineering,2.33,Campion Hall,1,SEC,48,,,60.0
+2004,202209F,M,BS,DSB Undeclared,3.33,Gonzaga Hall,1,DSB,46,1290.0,,113.0
+2005,202209F,F,BS,Management,2.98,Gonzaga Hall,1,DSB,42,,,138.0
+2006,202209F,M,BS,Finance,3.38,Jogues Hall,1,DSB,42,,,53.0
+2007,202209F,M,BS,DSB Undeclared,3.75,Jogues Hall,1,DSB,49,,,0.0
+2008,202209F,F,BS,Nursing,3.7,Jogues Hall,1,EGAN,55,,,97.0
+2009,202209F,F,BS,Marketing,2.71,Gonzaga Hall,1,DSB,42,,,138.0
+2010,202209F,F,BA,Undeclared,3.84,Loyola Hall,1,CAS,45,,,163.0
+2011,202209F,F,BS,Finance,0.96,Regis Hall,0,DSB,18,,,89.0
+2012,202209F,F,BS,Mechanical Engineering,3.58,Jogues Hall,1,SEC,62,,,14.0
+2013,202209F,F,BA,History,2.52,Regis Hall,0,CAS,24,,,95.0
+2014,202209F,M,BS,Marketing,3.8,Regis Hall,1,DSB,45,1340.0,,138.0
+2015,202209F,F,BS,Psychology,3.62,Gonzaga Hall,1,CAS,56,,,87.0
+2016,202209F,F,BS,Nursing,3.65,Jogues Hall,1,EGAN,55,,,0.0
+2017,202209F,M,BS,DSB Undeclared,3.33,Loyola Hall,1,DSB,45,,,0.0
+2018,202209F,F,BS,DSB Undeclared,3.8,Regis Hall,1,DSB,48,1270.0,,16.0
+2019,202209F,M,BS,Finance,3.92,Campion Hall,1,DSB,59,1450.0,,53.0
+2020,202209F,F,BA,Sociology and Anthropology,3.96,Jogues Hall,1,CAS,56,,,64.0
+2021,202209F,M,BS,Finance,3.62,Campion Hall,1,DSB,45,1200.0,,66.0
+2022,202209F,M,BS,Finance,2.23,Campion Hall,1,DSB,36,,,13.0
+2023,202209F,F,BS,Finance,3.96,Jogues Hall,1,DSB,54,,,62.0
+2024,202209F,F,BS,Nursing,3.08,Loyola Hall,1,EGAN,48,,,0.0
+2025,202209F,M,BS,DSB Undeclared,3.53,Loyola Hall,1,DSB,45,1330.0,,113.0
+2026,202209F,F,BS,Nursing,2.93,Gonzaga Hall,1,EGAN,49,,,0.0
+2027,202209F,F,BS,Nursing,3.66,Gonzaga Hall,1,EGAN,49,,,0.0
+2028,202209F,M,BS,Biology,3.92,Jogues Hall,1,CAS,69,1330.0,,31.0
+2029,202209F,M,BS,Finance,3.81,Regis Hall,1,DSB,49,,,69.0
+2030,202209F,F,BS,DSB Undeclared,3.73,Campion Hall,1,DSB,54,,,41.0
+2031,202209F,F,BA,Communication,3.69,Gonzaga Hall,1,CAS,45,,,18.0
+2032,202209F,M,BS,Computer Science,3.42,Jogues Hall,1,SEC,58,1350.0,,0.0
+2033,202209F,F,BS,Marketing,3.42,Jogues Hall,1,DSB,45,,,0.0
+2034,202209F,M,BS,DSB Undeclared,2.48,Regis Hall,1,DSB,45,1410.0,,156.0
+2035,202209F,M,BS,DSB Undeclared,3.73,Jogues Hall,1,DSB,54,1370.0,,0.0
+2036,202209F,F,BA,Undeclared,3.73,Gonzaga Hall,1,CAS,45,,,86.0
+2037,202209F,M,BA,Undeclared,3.18,Regis Hall,1,CAS,48,,,0.0
+2038,202209F,M,BS,DSB Undeclared,3.53,Regis Hall,1,DSB,45,,,73.0
+2039,202209F,F,BS,Nursing,3.69,Gonzaga Hall,1,EGAN,55,1290.0,,97.0
+2040,202209F,F,BS,Psychology,2.98,Loyola Hall,1,CAS,42,,,86.0
+2041,202209F,F,BA,Undeclared,3.8,Gonzaga Hall,1,CAS,45,,,0.0
+2042,202209F,F,BS,Psychology,4.0,Jogues Hall,1,CAS,67,1510.0,,87.0
+2043,202209F,M,BS,Management,3.83,Jogues Hall,1,DSB,49,1460.0,,62.0
+2044,202209F,M,BS,Electrical and Computer Engineering,3.36,Campion Hall,1,SEC,55,,,0.0
+2045,202209F,M,BA,English,3.37,Loyola Hall,0,CAS,36,1220.0,,23.0
+2046,202209F,F,BS,Biology,3.37,Campion Hall,1,CAS,51,,,0.0
+2047,202209F,M,BS,DSB Undeclared,1.27,Loyola Hall,0,DSB,9,1400.0,,3.0
+2048,202209F,F,BS,Nursing,3.88,Campion Hall,1,EGAN,49,,,0.0
+2049,202209F,F,BS,Psychology,2.93,Gonzaga Hall,0,CAS,15,,,87.0
+2050,202209F,M,BS,Business Analytics,3.87,Jogues Hall,0,DSB,39,,,68.0
+2051,202209F,M,BA,Communication,3.02,Regis Hall,1,CAS,42,,,18.0
+2052,202209F,M,BS,Marketing,4.0,Regis Hall,1,DSB,57,1300.0,,105.0
+2053,202209F,M,BS,International Business,3.05,Loyola Hall,1,DSB,45,1190.0,,125.0
+2054,202209F,F,BS,Psychology,3.64,Jogues Hall,0,CAS,40,,,133.0
+2055,202209F,F,BS,DSB Undeclared,3.8,Loyola Hall,1,DSB,45,,,44.0
+2056,202209F,M,BS,Accounting,3.58,Loyola Hall,1,DSB,45,,,38.0
+2057,202209F,F,BS,Psychology,3.98,Loyola Hall,1,CAS,58,1340.0,,71.0
+2058,202209F,M,BS,DSB Undeclared,3.76,Campion Hall,1,DSB,46,,,114.0
+2059,202209F,M,BS,DSB Undeclared,2.96,Gonzaga Hall,1,DSB,48,,,0.0
+2060,202209F,M,BS,SOE Undeclared,3.16,Campion Hall,1,SEC,55,,,135.0
+2061,202209F,M,BS,Finance,3.89,Jogues Hall,1,DSB,62,1480.0,,54.0
+2062,202209F,F,BS,Marketing,3.48,Jogues Hall,1,DSB,48,,,138.0
+2063,202209F,F,BA,Undeclared,3.53,Gonzaga Hall,1,CAS,48,,,118.0
+2064,202209F,F,BS,DSB Undeclared,2.98,Jogues Hall,1,DSB,42,,,101.0
+2065,202209F,F,BS,Marketing,3.27,Jogues Hall,1,DSB,54,,,105.0
+2066,202209F,F,BA,Communication,2.98,Campion Hall,1,CAS,45,,,56.0
+2067,202209F,F,BS,Marketing,2.7,Loyola Hall,0,DSB,27,,,130.0
+2068,202209F,F,BS,Marketing,2.87,Campion Hall,1,DSB,45,,,105.0
+2069,202209F,M,BS,Marketing,2.82,Regis Hall,1,DSB,45,,,58.0
+2070,202209F,M,BS,DSB Undeclared,3.71,Gonzaga Hall,1,DSB,45,,,25.0
+2071,202209F,F,BS,Psychology,3.12,Regis Hall,1,CAS,42,,,0.0
+2072,202209F,F,BS,DSB Undeclared,0.0,Regis Hall,0,DSB,0,,,94.0
+2073,202209F,M,BS,Finance,2.97,Loyola Hall,1,DSB,42,,,53.0
+2074,202209F,F,BA,Undeclared,3.69,Commuter,1,CAS,45,,,23.0
+2075,202209F,M,BS,Biology,3.42,Campion Hall,1,CAS,46,1260.0,,134.0
+2076,202209F,F,BA,Undeclared,3.58,Gonzaga Hall,1,CAS,45,,,0.0
+2077,202209F,F,BS,Psychology,3.51,Campion Hall,1,CAS,49,1160.0,,133.0
+2078,202209F,M,BA,Sports Media,2.93,Loyola Hall,1,CAS,42,,,18.0
+2079,202209F,F,BS,Psychology,3.79,Loyola Hall,1,CAS,53,,,65.0
+2080,202209F,F,BA,Politics,4.0,Jogues Hall,1,CAS,69,,,39.0
+2081,202209F,M,BS,Computer Science,3.46,Regis Hall,1,SEC,51,1210.0,,0.0
+2082,202209F,F,BS,Accounting,3.46,Commuter,1,DSB,49,,,101.0
+2083,202209F,M,BS,Finance,3.93,Regis Hall,1,DSB,46,1330.0,,53.0
+2084,202209F,F,BS,Psychology,3.1,Commuter,1,CAS,39,,,87.0
+2085,202209F,F,BS,Nursing,3.69,Campion Hall,1,EGAN,58,,,0.0
+2086,202209F,M,BS,DSB Undeclared,3.96,Loyola Hall,1,DSB,52,1360.0,,94.0
+2087,202209F,M,BS,Mechanical Engineering,3.16,Campion Hall,0,SEC,31,,,165.0
+2088,202209F,M,BS,DSB Undeclared,1.12,Campion Hall,1,DSB,24,,,76.0
+2089,202209F,M,BA,History,3.47,Gonzaga Hall,0,CAS,30,,,146.0
+2090,202209F,M,BS,DSB Undeclared,3.33,Loyola Hall,1,DSB,42,,,73.0
+2091,202209F,F,BA,History,3.83,Loyola Hall,1,CAS,61,,,0.0
+2092,202209F,F,BS,Psychology,3.65,Regis Hall,1,CAS,54,,,147.0
+2093,202209F,F,BS,Biology,2.86,Campion Hall,1,CAS,54,,,33.0
+2094,202209F,F,BS,Psychology,2.77,Regis Hall,1,CAS,51,,,86.0
+2095,202209F,F,BS,Biology,2.92,Campion Hall,1,CAS,53,,,33.0
+2096,202209F,F,BS,Marketing,3.72,Commuter,1,DSB,54,,,0.0
+2097,202209F,M,BS,Biology,3.59,Regis Hall,1,CAS,51,1290.0,,96.0
+2098,202209F,F,BS,DSB Undeclared,2.6,Regis Hall,1,DSB,45,,,109.0
+2099,202209F,M,BS,Finance,3.02,Gonzaga Hall,1,DSB,42,,,62.0
+2100,202209F,M,BS,DSB Undeclared,3.6,Jogues Hall,1,DSB,42,1210.0,,91.0
+2101,202209F,M,BS,Accounting,2.87,Campion Hall,1,DSB,40,,,63.0
+2102,202209F,F,BA,English,3.94,Gonzaga Hall,1,CAS,49,1300.0,,0.0
+2103,202209F,F,BS,Biology,3.33,Regis Hall,1,CAS,36,,,163.0
+2104,202209F,M,BS,Biology,3.2,Campion Hall,1,CAS,58,1330.0,,33.0
+2105,202209F,F,BS,Psychology,2.86,Gonzaga Hall,1,CAS,45,,,26.0
+2106,202209F,M,BS,Finance,3.18,Jogues Hall,1,DSB,45,,,89.0
+2107,202209F,F,BS,DSB Undeclared,3.23,Gonzaga Hall,1,DSB,43,,,163.0
+2108,202209F,F,BA,Communication,3.1,Loyola Hall,1,CAS,42,,,133.0
+2109,202209F,M,BS,DSB Undeclared,3.29,Jogues Hall,1,DSB,45,,,53.0
+2110,202209F,M,BS,DSB Undeclared,3.48,Regis Hall,1,DSB,46,,,44.0
+2111,202209F,M,BS,International Business,3.31,Jogues Hall,1,DSB,45,1270.0,,70.0
+2112,202209F,F,BS,DSB Undeclared,3.4,Loyola Hall,0,DSB,30,,,5.0
+2113,202209F,F,BS,Nursing,3.66,Campion Hall,1,EGAN,52,,,0.0
+2114,202209F,M,BS,Accounting,2.67,Commuter,1,DSB,39,,,0.0
+2115,202209F,M,BS,DSB Undeclared,3.91,Jogues Hall,1,DSB,46,,,113.0
+2116,202209F,M,BA,Undeclared,3.74,Loyola Hall,1,CAS,42,,,88.0
+2117,202209F,F,BA,Undeclared,3.73,Jogues Hall,1,CAS,68,,,98.0
+2118,202209F,M,BS,Chemistry,2.83,Campion Hall,1,CAS,54,1330.0,,0.0
+2119,202209F,M,BS,Computer Science,3.72,Campion Hall,1,SEC,65,1410.0,,0.0
+2120,202209F,M,BS,Computer Science,2.91,Campion Hall,1,SEC,54,1370.0,,0.0
+2121,202209F,M,BS,Business Analytics,3.56,Campion Hall,1,DSB,45,1380.0,,68.0
+2122,202209F,F,BS,International Business,3.9,Campion Hall,1,DSB,51,,,0.0
+2123,202209F,M,BS,Biology,2.65,Regis Hall,1,CAS,50,,,163.0
+2124,202209F,F,BS,Finance,3.91,Regis Hall,1,DSB,52,,,66.0
+2125,202209F,F,BA,Visual & Performing Arts,3.1,Commuter,1,CAS,48,,,128.0
+2126,202209F,F,BS,DSB Undeclared,2.6,Loyola Hall,1,DSB,45,,,36.0
+2127,202209F,M,BA,Sociology and Anthropology,2.69,Gonzaga Hall,1,CAS,42,,,0.0
+2128,202209F,M,BA,Undeclared,3.53,Loyola Hall,1,CAS,45,,,128.0
+2129,202209F,M,BS,Finance,3.22,Jogues Hall,1,DSB,45,,,102.0
+2130,202209F,F,BS,Nursing,3.47,Regis Hall,1,EGAN,49,,,84.0
+2131,202209F,F,BS,Psychology,0.67,Regis Hall,0,CAS,6,1160.0,,86.0
+2132,202209F,F,BS,Nursing,4.0,Loyola Hall,1,EGAN,69,1350.0,,67.0
+2133,202209F,M,BS,DSB Undeclared,2.48,Campion Hall,1,DSB,27,,,104.0
+2134,202209F,M,BA,Undeclared,2.72,Loyola Hall,1,CAS,52,,,0.0
+2135,202209F,M,BA,Visual & Performing Arts,3.62,Gonzaga Hall,1,CAS,53,,,128.0
+2136,202209F,M,BS,Finance,3.33,Jogues Hall,1,DSB,45,,,53.0
+2137,202209F,F,BS,Marketing,4.0,Jogues Hall,1,DSB,52,1280.0,,138.0
+2138,202209F,M,BS,Finance,3.92,Regis Hall,1,DSB,48,,,66.0
+2139,202209F,M,BS,Finance,3.73,Loyola Hall,1,DSB,45,1180.0,,66.0
+2140,202209F,F,BS,Finance,3.88,Jogues Hall,1,DSB,49,,,0.0
+2141,202209F,F,BS,Finance,3.89,Campion Hall,1,DSB,48,,,62.0
+2142,202209F,M,BA,Sports Media,2.98,Regis Hall,1,CAS,45,,,18.0
+2143,202209F,F,BS,Nursing,3.61,Loyola Hall,1,EGAN,46,,,4.0
+2144,202209F,F,BS,Psychology,1.97,Campion Hall,1,CAS,27,,,39.0
+2145,202209F,F,BS,Nursing,2.83,Commuter,1,EGAN,45,,,20.0
+2146,202209F,F,BS,Public Health,3.71,Campion Hall,1,EGAN,45,,,131.0
+2147,202209F,M,BS,SOE Undeclared,3.04,Campion Hall,1,SEC,57,,,139.0
+2148,202209F,M,BS,Biomedical Engineering,3.62,Jogues Hall,1,SEC,75,,,60.0
+2149,202209F,M,BS,DSB Undeclared,3.4,Loyola Hall,1,DSB,45,1370.0,,41.0
+2150,202209F,F,BS,Nursing,1.62,Loyola Hall,0,EGAN,21,,,64.0
+2151,202209F,M,BS,DSB Undeclared,3.18,Loyola Hall,1,DSB,45,,,94.0
+2152,202209F,F,BS,DSB Undeclared,3.69,Jogues Hall,1,DSB,61,,,45.0
+2153,202209F,M,BS,DSB Undeclared,2.58,Loyola Hall,1,DSB,36,,,27.0
+2154,202209F,M,BS,Finance,3.31,Regis Hall,1,DSB,48,1300.0,,63.0
+2155,202209F,M,BA,English,3.37,Loyola Hall,1,CAS,56,,,0.0
+2156,202209F,M,BA,History,3.67,Loyola Hall,1,CAS,45,,,80.0
+2157,202209F,M,BS,Accounting,3.67,Jogues Hall,1,DSB,48,1310.0,,16.0
+2158,202209F,F,BS,DSB Undeclared,3.22,Campion Hall,1,DSB,46,,,0.0
+2159,202209F,M,BS,DSB Undeclared,3.33,Regis Hall,0,DSB,30,1230.0,,3.0
+2160,202209F,F,BS,Marketing,3.36,Jogues Hall,1,DSB,45,,,0.0
+2161,202209F,M,BS,Mechanical Engineering,2.95,Campion Hall,1,SEC,55,,,120.0
+2162,202209F,F,BS,Psychology,3.91,Loyola Hall,1,CAS,63,1340.0,,71.0
+2163,202209F,M,BS,Finance,3.71,Loyola Hall,1,DSB,46,,,13.0
+2164,202209F,M,BS,DSB Undeclared,3.38,Regis Hall,1,DSB,45,1220.0,,70.0
+2165,202209F,M,BA,Sociology and Anthropology,3.57,Jogues Hall,0,CAS,30,1360.0,,0.0
+2166,202209F,F,BS,Biology,3.84,Jogues Hall,1,CAS,59,,,33.0
+2167,202209F,F,BS,Finance,3.86,Regis Hall,1,DSB,51,,,54.0
+2168,202209F,M,BS,Electrical and Computer Engineering,3.69,Regis Hall,1,SEC,54,1250.0,,0.0
+2169,202209F,F,BS,Psychology,3.41,Jogues Hall,1,CAS,49,,,159.0
+2170,202209F,M,BA,Sociology and Anthropology,3.53,Campion Hall,1,CAS,45,,,54.0
+2171,202209F,F,BS,Psychology,3.49,Gonzaga Hall,1,CAS,48,,,87.0
+2172,202209F,F,BS,Management,3.64,Jogues Hall,1,DSB,45,,,4.0
+2173,202209F,M,BS,DSB Undeclared,3.87,Jogues Hall,1,DSB,45,,,0.0
+2174,202209F,F,BA,Undeclared,3.67,Regis Hall,1,CAS,48,,,109.0
+2175,202209F,F,BA,Undeclared,3.61,Jogues Hall,1,CAS,46,,,163.0
+2176,202209F,F,BA,Undeclared,3.33,Regis Hall,1,CAS,45,,,26.0
+2177,202209F,F,BS,International Business,3.53,Loyola Hall,0,DSB,30,,,109.0
+2178,202209F,M,BS,Information Systems & Ops Mgmt,3.42,Regis Hall,1,DSB,45,,,4.0
+2179,202209F,M,BS,Psychology,3.7,Campion Hall,1,CAS,52,,,98.0
+2180,202209F,M,BS,Biology,2.35,Campion Hall,1,CAS,40,1270.0,,27.0
+2181,202209F,M,BA,Undeclared,3.33,Regis Hall,0,CAS,30,,,0.0
+2182,202209F,F,BS,Marketing,3.64,Regis Hall,1,DSB,45,,,34.0
+2183,202209F,F,BS,Economics,3.93,Loyola Hall,1,CAS,49,1330.0,,22.0
+2184,202209F,F,BS,Finance,3.62,Commuter,1,DSB,45,,,13.0
+2185,202209F,M,BS,Finance,3.12,Loyola Hall,1,DSB,39,1260.0,,70.0
+2186,202209F,M,BS,International Business,3.62,Gonzaga Hall,1,DSB,57,1410.0,,0.0
+2187,202209F,M,BS,Finance,3.25,Campion Hall,1,DSB,46,,,102.0
+2188,202209F,F,BA,Undeclared,3.18,Jogues Hall,1,CAS,45,,,4.0
+2189,202209F,M,BS,DSB Undeclared,3.53,Jogues Hall,1,DSB,48,,,73.0
+2190,202209F,M,BA,Undeclared,3.93,Jogues Hall,1,CAS,57,1340.0,,39.0
+2191,202209F,M,BS,Mechanical Engineering,2.21,Campion Hall,1,SEC,52,,,120.0
+2192,202209F,M,BA,History,3.48,Loyola Hall,1,CAS,48,1340.0,,146.0
+2193,202209F,F,BS,Biology,3.97,Campion Hall,1,CAS,64,1400.0,,31.0
+2194,202209F,F,BA,Undeclared,4.0,Jogues Hall,0,CAS,38,1380.0,,81.0
+2195,202209F,F,BS,Biology,3.8,Jogues Hall,1,CAS,55,,,81.0
+2196,202209F,F,BS,Nursing,3.98,Gonzaga Hall,1,EGAN,65,,,84.0
+2197,202209F,F,BS,DSB Undeclared,3.38,Loyola Hall,1,DSB,48,,,0.0
+2198,202209F,F,BS,Biology,3.91,Regis Hall,1,CAS,52,,,0.0
+2199,202209F,M,BS,DSB Undeclared,2.71,Jogues Hall,1,DSB,45,,,73.0
+2200,202209F,F,BS,Nursing,4.0,Jogues Hall,1,EGAN,60,1320.0,,0.0
+2201,202209F,M,BS,Management,3.87,Loyola Hall,1,DSB,48,,,66.0
+2202,202209F,F,BS,Nursing,3.98,Jogues Hall,1,EGAN,65,1420.0,,0.0
+2203,202209F,F,BS,Psychology,4.0,Jogues Hall,1,CAS,62,1450.0,,87.0
+2204,202209F,F,BS,Nursing,2.96,Campion Hall,1,EGAN,49,,,0.0
+2205,202209F,F,BS,Nursing,2.38,Campion Hall,1,EGAN,41,,,0.0
+2206,202209F,F,BS,Psychology,3.69,Regis Hall,1,CAS,48,1340.0,,12.0
+2207,202209F,F,BS,Biology,3.9,Jogues Hall,1,CAS,55,,,31.0
+2208,202209F,F,BS,Undeclared,2.27,Campion Hall,0,CAS,15,,,18.0
+2209,202209F,F,BS,Biology,3.34,Campion Hall,1,CAS,47,,,12.0
+2210,202209F,M,BS,DSB Undeclared,3.02,Regis Hall,1,DSB,42,,,166.0
+2211,202209F,M,BS,Finance,3.77,Loyola Hall,0,DSB,39,,,66.0
+2212,202209F,M,BS,Accounting,3.98,Jogues Hall,1,DSB,56,1490.0,,16.0
+2213,202209F,F,BS,Marketing,4.0,Loyola Hall,0,DSB,21,1380.0,,36.0
+2214,202209F,M,BS,Finance,3.14,Gonzaga Hall,1,DSB,42,,,66.0
+2215,202209F,M,BA,Communication,3.76,Jogues Hall,1,CAS,45,,,138.0
+2216,202209F,M,BS,DSB Undeclared,3.11,Jogues Hall,1,DSB,39,,,156.0
+2217,202209F,F,BS,Biology,3.8,Campion Hall,1,CAS,63,,,0.0
+2218,202209F,M,BS,Nursing,3.74,Regis Hall,1,EGAN,49,,,0.0
+2219,202209F,F,BA,Communication,2.76,Gonzaga Hall,1,CAS,45,,,15.0
+2220,202209F,F,BS,Nursing,3.46,Loyola Hall,1,EGAN,49,,,0.0
+2221,202209F,F,BS,Psychology,3.96,Campion Hall,1,CAS,60,1270.0,,87.0
+2222,202209F,F,BA,Visual & Performing Arts,3.04,Gonzaga Hall,1,CAS,42,,,34.0
+2223,202209F,M,BA,Undeclared,3.92,Jogues Hall,1,CAS,55,,,19.0
+2224,202209F,F,BS,Marketing,3.04,Loyola Hall,1,DSB,48,,,98.0
+2225,202209F,F,BA,Undeclared,3.62,Regis Hall,1,CAS,51,,,152.0
+2226,202209F,F,BS,Finance,3.79,Regis Hall,1,DSB,48,1300.0,,53.0
+2227,202209F,M,BS,DSB Undeclared,2.93,Jogues Hall,1,DSB,45,1280.0,,5.0
+2228,202209F,F,BS,Marketing,3.0,Campion Hall,1,DSB,42,,,98.0
+2229,202209F,M,BS,Accounting,3.44,Gonzaga Hall,1,DSB,43,,,122.0
+2230,202209F,F,BS,Nursing,3.6,Campion Hall,1,EGAN,54,1310.0,,0.0
+2231,202209F,F,BS,Business Analytics,4.0,Campion Hall,1,DSB,51,1330.0,,80.0
+2232,202209F,F,BS,Nursing,3.36,Jogues Hall,1,EGAN,58,,,124.0
+2233,202209F,F,BA,Psychology,3.75,Jogues Hall,1,CAS,48,,,152.0
+2234,202209F,M,BA,Politics,3.52,Jogues Hall,0,CAS,31,,,0.0
+2235,202209F,M,BS,Finance,3.22,Gonzaga Hall,1,DSB,49,,,66.0
+2236,202209F,M,BA,Undeclared,3.25,Regis Hall,1,CAS,46,,,73.0
+2237,202209F,F,BS,Psychology,3.8,Jogues Hall,0,CAS,33,,,87.0
+2238,202209F,F,BS,DSB Undeclared,3.58,Campion Hall,1,DSB,45,,,148.0
+2239,202209F,M,BS,Physics,2.53,Regis Hall,1,CAS,46,1240.0,,0.0
+2240,202209F,F,BS,Marketing,3.93,Loyola Hall,0,DSB,39,,,0.0
+2241,202209F,F,BS,DSB Undeclared,3.73,Regis Hall,1,DSB,48,,,104.0
+2242,202209F,F,BS,Psychology,3.19,Campion Hall,1,CAS,45,,,0.0
+2243,202209F,M,BS,DSB Undeclared,3.45,Commuter,1,DSB,51,,,72.0
+2244,202209F,M,BS,Finance,3.98,Commuter,1,DSB,46,1340.0,,53.0
+2245,202209F,M,BS,DSB Undeclared,3.64,Regis Hall,1,DSB,46,1210.0,,13.0
+2246,202209F,F,BS,Nursing,3.98,Jogues Hall,1,EGAN,62,1380.0,,0.0
+2247,202209F,F,BS,Marketing,3.91,Gonzaga Hall,1,DSB,45,,,0.0
+2248,202209F,F,BS,Business Analytics,3.96,Gonzaga Hall,1,DSB,45,,,44.0
+2249,202209F,F,BS,DSB Undeclared,3.11,Claver Hall,1,DSB,45,,,4.0
+2250,202209F,M,BS,DSB Undeclared,3.91,Loyola Hall,1,DSB,45,,,68.0
+2251,202209F,F,BS,Nursing,3.63,Jogues Hall,1,EGAN,49,1330.0,,124.0
+2252,202209F,F,BS,Marketing,2.42,Campion Hall,1,DSB,42,,,0.0
+2253,202209F,M,BS,Nursing,3.64,Campion Hall,1,EGAN,48,,,0.0
+2254,202209F,F,BS,Marketing,3.69,Loyola Hall,1,DSB,48,1200.0,,36.0
+2255,202209F,M,BS,Psychology,3.83,Jogues Hall,1,CAS,51,1440.0,,0.0
+2256,202209F,F,BS,Nursing,4.0,Campion Hall,1,EGAN,55,,,0.0
+2257,202209F,F,BS,Biology,3.89,Jogues Hall,1,CAS,61,1410.0,,0.0
+2258,202209F,F,BS,Business Analytics,3.58,Jogues Hall,1,DSB,52,,,44.0
+2259,202209F,F,BS,Nursing,3.23,Campion Hall,1,EGAN,58,1230.0,,0.0
+2260,202209F,M,BS,Accounting,3.18,Regis Hall,1,DSB,45,1360.0,,101.0
+2261,202209F,F,BS,DSB Undeclared,2.22,Jogues Hall,1,DSB,33,,,155.0
+2262,202209F,M,BS,Marketing,3.47,Jogues Hall,1,DSB,45,1260.0,,98.0
+2263,202209F,M,BS,Undeclared,3.17,Loyola Hall,0,CAS,16,,,0.0
+2264,202209F,F,BS,Nursing,3.77,Jogues Hall,1,EGAN,46,,,97.0
+2265,202209F,M,BS,Biology,3.29,Jogues Hall,1,CAS,54,1330.0,,0.0
+2266,202209F,M,BS,Finance,3.62,Regis Hall,1,DSB,48,1290.0,,63.0
+2267,202209F,M,BS,DSB Undeclared,3.91,Regis Hall,1,DSB,45,1370.0,,27.0
+2268,202209F,F,BS,Nursing,3.8,Loyola Hall,1,EGAN,48,,,0.0
+2269,202209F,F,BS,Biology,3.59,Jogues Hall,1,CAS,54,,,57.0
+2270,202209F,M,BS,DSB Undeclared,3.94,Jogues Hall,1,DSB,48,,,0.0
+2271,202209F,F,BS,DSB Undeclared,3.78,Regis Hall,1,DSB,51,,,166.0
+2272,202209F,F,BA,Undeclared,3.56,Regis Hall,1,CAS,45,,,87.0
+2273,202209F,M,BS,DSB Undeclared,2.86,Jogues Hall,1,DSB,42,,,21.0
+2274,202209F,F,BS,Psychology,3.65,Jogues Hall,1,CAS,46,,,87.0
+2275,202209F,F,BS,Nursing,3.78,Regis Hall,1,EGAN,49,,,67.0
+2276,202209F,F,BS,Psychology,3.87,Loyola Hall,1,CAS,50,,,87.0
+2277,202209F,F,BS,DSB Undeclared,3.22,Regis Hall,1,DSB,45,,,27.0
+2278,202209F,F,BS,Nursing,3.25,Loyola Hall,1,EGAN,49,,,0.0
+2279,202209F,F,BS,Nursing,3.66,Jogues Hall,1,EGAN,58,,,51.0
+2280,202209F,F,BS,Accounting,3.87,Gonzaga Hall,1,DSB,45,1200.0,,101.0
+2281,202209F,M,BA,Undeclared,3.73,Regis Hall,1,CAS,50,,,56.0
+2282,202209F,F,BS,Business Analytics,3.51,Regis Hall,1,DSB,51,1190.0,,44.0
+2283,202209F,M,BS,DSB Undeclared,3.67,Gonzaga Hall,1,DSB,45,,,70.0
+2284,202209F,F,BA,Undeclared,3.53,Loyola Hall,1,CAS,48,,,0.0
+2285,202209F,M,BS,DSB Undeclared,3.6,Jogues Hall,0,DSB,15,1240.0,,113.0
+2286,202209F,F,BS,Psychology,2.34,Campion Hall,0,CAS,12,,,152.0
+2287,202209F,F,BS,Management,3.98,Regis Hall,1,DSB,51,1260.0,,0.0
+2288,202209F,M,BS,Biomedical Engineering,3.99,Campion Hall,1,SEC,54,1340.0,,135.0
+2289,202209F,F,BS,Nursing,3.86,Gonzaga Hall,1,EGAN,52,,,97.0
+2290,202209F,F,BS,Biology,3.58,Loyola Hall,1,CAS,54,1300.0,,0.0
+2291,202209F,F,BA,Undeclared,3.14,Regis Hall,1,CAS,42,,,98.0
+2292,202209F,M,BS,DSB Undeclared,3.2,Jogues Hall,1,DSB,45,,,5.0
+2293,202209F,M,BS,Computer Science,2.98,Campion Hall,1,SEC,47,,,0.0
+2294,202209F,M,BS,DSB Undeclared,3.0,Loyola Hall,1,DSB,45,,,89.0
+2295,202209F,F,BS,Nursing,3.47,Regis Hall,1,EGAN,48,,,0.0
+2296,202209F,F,BS,Nursing,3.91,Jogues Hall,1,EGAN,54,,,0.0
+2297,202209F,F,BA,Program on the Environment,3.31,Jogues Hall,1,CAS,45,,,165.0
+2298,202209F,F,BS,Marketing,3.11,Loyola Hall,1,DSB,45,,,0.0
+2299,202209F,M,BA,Undeclared,3.29,Regis Hall,1,CAS,45,,,0.0
+2300,202209F,M,BS,Management,3.27,Loyola Hall,1,DSB,45,,,8.0
+2301,202209F,M,BS,Accounting,1.0,Loyola Hall,0,DSB,6,,,38.0
+2302,202209F,F,BS,Psychology,3.4,Campion Hall,1,CAS,45,,,4.0
+2303,202209F,F,BA,Undeclared,2.78,Jogues Hall,1,CAS,43,,,99.0
+2304,202209F,M,BS,Finance,4.0,Campion Hall,0,DSB,41,1300.0,,102.0
+2305,202209F,M,BS,Finance,2.71,Jogues Hall,1,DSB,48,,,102.0
+2306,202209F,F,BA,Undeclared,3.04,Regis Hall,1,CAS,45,,,85.0
+2307,202209F,F,BS,DSB Undeclared,3.36,Regis Hall,1,DSB,42,1210.0,,138.0
+2308,202209F,F,BS,Nursing,3.46,Campion Hall,1,EGAN,49,,,0.0
+2309,202209F,F,BS,Psychology,3.72,Campion Hall,1,CAS,51,,,86.0
+2310,202209F,F,BA,Undeclared,3.69,Loyola Hall,1,CAS,45,,,0.0
+2311,202209F,M,BS,DSB Undeclared,3.42,Gonzaga Hall,1,DSB,45,1250.0,,125.0
+2312,202209F,M,BA,Undeclared,2.62,Regis Hall,1,CAS,46,,,34.0
+2313,202209F,F,BA,English,3.71,Campion Hall,1,CAS,54,,,145.0
+2314,202209F,M,BS,Finance,3.54,Jogues Hall,1,DSB,46,,,89.0
+2315,202209F,M,BS,Finance,3.38,Gonzaga Hall,1,DSB,45,,,66.0
+2316,202209F,F,BS,Nursing,3.56,Gonzaga Hall,1,EGAN,51,,,0.0
+2317,202209F,F,BA,Communication,3.33,Jogues Hall,1,CAS,39,,,22.0
+2318,202209F,M,BA,Economics,2.56,Regis Hall,1,CAS,45,,,156.0
+2319,202209F,F,BS,Marketing,3.56,Regis Hall,1,DSB,48,,,138.0
+2320,202209F,F,BS,Nursing,3.9,Loyola Hall,1,EGAN,64,1460.0,,67.0
+2321,202209F,M,BS,Biology,3.25,Campion Hall,1,CAS,53,1280.0,,96.0
+2322,202209F,F,BS,Marketing,3.6,Regis Hall,0,DSB,30,,,41.0
+2323,202209F,M,BA,Undeclared,3.18,Loyola Hall,1,CAS,49,,,25.0
+2324,202209F,M,BS,SOE Undeclared,3.37,Regis Hall,1,SEC,48,,,0.0
+2325,202209F,M,BS,International Business,3.64,Loyola Hall,1,DSB,51,1400.0,,109.0
+2326,202209F,M,BS,Mathematics,3.85,Jogues Hall,1,CAS,59,1440.0,,0.0
+2327,202209F,M,BS,DSB Undeclared,3.56,Regis Hall,1,DSB,46,1320.0,,122.0
+2328,202209F,F,BS,SOE Undeclared,3.81,Campion Hall,1,SEC,52,,,60.0
+2329,202209F,F,BS,DSB Undeclared,3.67,Regis Hall,1,DSB,48,,,38.0
+2330,202209F,M,BA,Politics,3.64,Gonzaga Hall,1,CAS,45,,,110.0
+2331,202209F,F,BS,DSB Undeclared,3.96,Jogues Hall,1,DSB,45,,,0.0
+2332,202209F,M,BS,Finance,3.65,Jogues Hall,1,DSB,46,,,102.0
+2333,202209F,M,BS,DSB Undeclared,3.46,Loyola Hall,1,DSB,43,,,0.0
+2334,202209F,M,BS,Management,3.91,Regis Hall,1,DSB,48,1220.0,,69.0
+2335,202209F,F,BA,Undeclared,3.5,Campion Hall,1,CAS,46,,,131.0
+2336,202209F,F,BS,Mechanical Engineering,3.96,Jogues Hall,1,SEC,65,1370.0,,90.0
+2337,202209F,M,BS,DSB Undeclared,3.33,Loyola Hall,1,DSB,45,1240.0,,68.0
+2338,202209F,F,BS,Business Analytics,3.78,Gonzaga Hall,1,DSB,48,,,61.0
+2339,202209F,F,BS,DSB Undeclared,3.07,Regis Hall,1,DSB,39,,,80.0
+2340,202209F,F,BS,Nursing,2.17,Jogues Hall,0,EGAN,30,,,20.0
+2341,202209F,F,BS,Nursing,3.96,Jogues Hall,1,EGAN,54,,,0.0
+2342,202209F,M,BS,Finance,2.96,Regis Hall,1,DSB,46,,,63.0
+2343,202209F,M,BS,Finance,3.22,Regis Hall,1,DSB,49,,,69.0
+2344,202209F,F,BA,Undeclared,3.29,Loyola Hall,1,CAS,45,,,15.0
+2345,202209F,F,BS,Management,3.27,Jogues Hall,0,DSB,30,,,129.0
+2346,202209F,F,BA,Undeclared,3.22,Campion Hall,1,CAS,45,,,0.0
+2347,202209F,M,BS,DSB Undeclared,3.92,Regis Hall,1,DSB,61,1320.0,,91.0
+2348,202209F,M,BA,International Studies,2.79,Gonzaga Hall,1,CAS,36,,,52.0
+2349,202209F,M,BS,Biology,2.58,Campion Hall,1,CAS,58,,,96.0
+2350,202209F,F,BS,Social Work,3.47,Regis Hall,1,EGAN,47,,,0.0
+2351,202209F,F,BS,DSB Undeclared,3.65,Jogues Hall,1,DSB,55,,,13.0
+2352,202209F,F,BS,Biology,3.63,Campion Hall,1,CAS,51,,,81.0
+2353,202209F,F,BS,Management,3.78,Campion Hall,1,DSB,46,,,104.0
+2354,202209F,F,BA,Undeclared,3.0,Gonzaga Hall,1,CAS,45,,,0.0
+2355,202209F,M,BS,Computer Science,3.45,Commuter,1,SEC,49,,,4.0
+2356,202209F,F,BS,Psychology,3.24,Regis Hall,1,CAS,46,,,87.0
+2357,202209F,M,BS,Accounting,3.93,Regis Hall,0,DSB,30,1330.0,,16.0
+2358,202209F,M,BS,Finance,3.31,Loyola Hall,1,DSB,45,,,13.0
+2359,202209F,F,BA,Communication,3.73,Regis Hall,1,CAS,48,,,34.0
+2360,202209F,F,BS,Nursing,3.46,Loyola Hall,1,EGAN,49,,,124.0
+2361,202209F,F,BS,Nursing,3.73,Regis Hall,1,EGAN,54,,,0.0
+2362,202209F,F,BA,Politics,3.91,Loyola Hall,0,CAS,21,,,83.0
+2363,202209F,M,BA,Undeclared,3.67,Regis Hall,1,CAS,45,,,148.0
+2364,202209F,F,BS,DSB Undeclared,3.25,Gonzaga Hall,1,DSB,51,,,0.0
+2365,202209F,M,BS,Management,3.05,Gonzaga Hall,1,DSB,45,,,0.0
+2366,202209F,F,BS,Nursing,3.37,Loyola Hall,1,EGAN,48,,,0.0
+2367,202209F,F,BS,Biology,3.82,Campion Hall,1,CAS,66,1330.0,,152.0
+2368,202209F,M,BS,DSB Undeclared,3.91,Commuter,1,DSB,69,1420.0,,98.0
+2369,202209F,F,BS,Marketing,3.44,Gonzaga Hall,1,DSB,46,,,0.0
+2370,202209F,M,BS,DSB Undeclared,2.85,Gonzaga Hall,1,DSB,39,,,4.0
+2371,202209F,M,BS,Finance,2.98,Jogues Hall,1,DSB,45,,,63.0
+2372,202209F,M,BA,History,2.31,Regis Hall,1,CAS,42,,,146.0
+2373,202209F,F,BS,Accounting,3.31,Jogues Hall,1,DSB,48,,,114.0
+2374,202209F,M,BS,DSB Undeclared,3.56,Jogues Hall,1,DSB,45,,,66.0
+2375,202209F,M,BS,DSB Undeclared,3.09,Jogues Hall,1,DSB,54,,,146.0
+2376,202209F,F,BS,Marketing,3.64,Campion Hall,1,DSB,60,,,0.0
+2377,202209F,M,BS,DSB Undeclared,3.78,Jogues Hall,1,DSB,46,1150.0,,63.0
+2378,202209F,M,BS,Finance,3.7,Regis Hall,1,DSB,46,,,69.0
+2379,202209F,F,BA,Politics,2.82,Jogues Hall,1,CAS,57,,,110.0
+2380,202209F,M,BS,DSB Undeclared,2.36,Jogues Hall,1,DSB,42,,,44.0
+2381,202209F,F,BA,Politics,3.34,Loyola Hall,0,CAS,15,,,83.0
+2382,202209F,M,BS,DSB Undeclared,3.0,Jogues Hall,1,DSB,45,,,66.0
+2383,202209F,M,BS,Finance,2.93,Jogues Hall,0,DSB,15,1350.0,,73.0
+2384,202209F,F,BS,DSB Undeclared,3.6,Campion Hall,1,DSB,45,,,41.0
+2385,202209F,F,BS,Accounting,3.33,Regis Hall,1,DSB,49,,,0.0
+2386,202209F,M,BA,Sports Media,3.2,Jogues Hall,1,CAS,45,,,18.0
+2387,202209F,M,BS,Finance,2.88,Gonzaga Hall,1,DSB,46,,,54.0
+2388,202209F,M,BS,DSB Undeclared,3.42,Loyola Hall,1,DSB,45,,,0.0
+2389,202209F,M,BS,DSB Undeclared,2.16,Regis Hall,1,DSB,42,,,76.0
+2390,202209F,M,BS,DSB Undeclared,3.44,Loyola Hall,1,DSB,45,,,27.0
+2391,202209F,F,BS,Psychology,2.79,Regis Hall,0,CAS,33,,,152.0
+2392,202209F,M,BS,Computer Science,2.35,Commuter,1,SEC,46,,,1.0
+2393,202209F,F,BS,Chemistry,3.12,Campion Hall,1,CAS,53,,,0.0
+2394,202209F,F,BS,Psychology,2.85,Regis Hall,1,CAS,42,,,12.0
+2395,202209F,M,BS,Management,2.59,Jogues Hall,1,DSB,39,,,0.0
+2396,202209F,M,BS,Finance,2.52,Gonzaga Hall,1,DSB,43,,,53.0
+2397,202209F,F,BS,Marketing,1.71,Gonzaga Hall,1,DSB,39,,,138.0
+2398,202209F,M,BS,Undeclared,3.19,Jogues Hall,1,CAS,42,,,80.0
+2399,202209F,F,BA,Undeclared,3.87,Gonzaga Hall,1,CAS,51,,,131.0
+2400,202209F,M,BS,Biology,3.77,Campion Hall,1,CAS,50,1420.0,,0.0
+2401,202209F,M,BSW,Social Work,1.59,Jogues Hall,1,EGAN,34,,,137.0
+2402,202209F,F,BA,Program on the Environment,3.43,Regis Hall,1,CAS,42,,,0.0
+2403,202209F,F,BS,Computer Science,3.45,Regis Hall,1,SEC,54,1240.0,,0.0
+2404,202209F,M,BS,Finance,3.59,Jogues Hall,1,DSB,52,1280.0,Management,58.0
+2405,202209F,F,BA,Undeclared,2.2,Gonzaga Hall,1,CAS,39,,,77.0
+2406,202209F,F,BS,Chemistry,3.04,Campion Hall,1,CAS,43,,,57.0
+2407,202209F,M,BS,Management,2.56,Gonzaga Hall,1,DSB,27,,,0.0
+2408,202209F,F,BA,Visual & Performing Arts,3.74,Loyola Hall,1,CAS,46,,,128.0
+2409,202209F,F,BA,Undeclared,3.2,Gonzaga Hall,1,CAS,30,,,133.0
+2410,202209F,F,BS,Public Health,3.91,Campion Hall,1,EGAN,60,,,131.0
+2411,202209F,M,BS,Electrical and Computer Engineering,3.17,Commuter,1,SEC,48,,,139.0
+2412,202209F,F,BS,Chemistry,2.65,Campion Hall,1,CAS,54,,,0.0
+2413,202209F,F,BS,Chemistry,3.86,Campion Hall,1,CAS,57,1360.0,,57.0
+2414,202209F,F,BS,DSB Undeclared,3.5,Loyola Hall,1,DSB,48,,,114.0
+2415,202209F,M,BS,DSB Undeclared,2.48,Campion Hall,0,DSB,27,,,76.0
+2416,202209F,F,BS,Finance,3.67,Loyola Hall,1,DSB,51,,,53.0
+2417,202209F,M,BS,Finance,3.89,Regis Hall,1,DSB,45,,,89.0
+2418,202209F,M,BS,Finance,3.38,Gonzaga Hall,1,DSB,45,1290.0,,69.0
+2419,202209F,M,BS,SOE Undeclared,3.23,Jogues Hall,1,SEC,49,1340.0,,125.0
+2420,202209F,F,BS,Psychology,3.38,Jogues Hall,1,CAS,45,,,86.0
+2421,202209F,M,BA,Undeclared,3.58,Jogues Hall,1,CAS,51,1330.0,,147.0
+2422,202209F,F,BA,Digital Journalism,3.43,Jogues Hall,1,CAS,42,,,0.0
+2423,202209F,M,BA,Sports Media,3.14,Campion Hall,1,CAS,42,,,5.0
+2424,202209F,F,BA,Undeclared,3.63,Campion Hall,1,CAS,57,,,0.0
+2425,202209F,F,BA,English,3.63,Jogues Hall,1,CAS,52,,,42.0
+2426,202209F,M,BS,DSB Undeclared,2.69,Regis Hall,1,DSB,42,,,40.0
+2427,202209F,F,BS,Biology,2.85,Campion Hall,1,CAS,45,,,131.0
+2428,202209F,M,BS,Psychology,3.9,Campion Hall,1,CAS,58,1270.0,,133.0
+2429,202209F,F,BS,Biology,2.29,Campion Hall,1,CAS,42,,,0.0
+2430,202209F,M,BS,Finance,2.8,Commuter,0,DSB,15,,,62.0
+2431,202209F,F,BS,Marketing,3.56,Regis Hall,1,DSB,48,,,0.0
+2432,202209F,M,BS,Marketing,3.77,Jogues Hall,1,DSB,54,,,70.0
+2433,202209F,M,BS,Economics,3.86,Jogues Hall,1,DSB,48,1380.0,,45.0
+2434,202209F,M,BS,Psychology,2.42,Campion Hall,1,CAS,42,,,0.0
+2435,202209F,M,BS,Mechanical Engineering,3.36,Campion Hall,1,SEC,61,,,14.0
+2436,202209F,F,BS,Psychology,3.73,Loyola Hall,1,CAS,45,,,86.0
+2437,202209F,F,BA,Politics,2.92,Loyola Hall,1,CAS,50,,,110.0
+2438,202209F,M,BS,Psychology,3.23,Loyola Hall,0,CAS,30,,,12.0
+2439,202209F,F,BS,Psychology,3.75,Campion Hall,1,CAS,47,,,71.0
+2440,202209F,F,BS,Marketing,3.02,Regis Hall,1,DSB,46,,,105.0
+2441,202209F,M,BS,Management,3.79,Jogues Hall,0,DSB,33,,,155.0
+2442,202209F,F,BS,Physics,2.55,Campion Hall,1,CAS,41,,,145.0
+2443,202209F,M,BS,Management,1.89,Loyola Hall,0,DSB,21,,,5.0
+2444,202209F,M,BS,DSB Undeclared,3.82,Regis Hall,1,DSB,45,1260.0,,0.0
+2445,202209F,F,BA,Undeclared,3.71,Jogues Hall,1,CAS,46,,,156.0
+2446,202209F,F,BS,DSB Undeclared,2.23,Loyola Hall,0,DSB,25,,,52.0
+2447,202209F,F,BS,Finance,3.9,Jogues Hall,1,DSB,48,,,102.0
+2448,202209F,M,BS,Marketing,2.9,Campion Hall,1,DSB,51,,,36.0
+2449,202209F,F,BS,Nursing,3.53,Gonzaga Hall,1,EGAN,49,,,0.0
+2450,202209F,F,BA,Undeclared,3.74,Gonzaga Hall,0,CAS,31,,,0.0
+2451,202209F,M,BS,DSB Undeclared,2.82,Loyola Hall,1,DSB,45,,,116.0
+2452,202209F,M,BS,Finance,3.64,Regis Hall,1,DSB,45,,,66.0
+2453,202209F,F,BSW,Social Work,2.97,Commuter,1,EGAN,38,,,0.0
+2454,202209F,F,BS,Chemistry,4.0,Jogues Hall,1,CAS,67,,,0.0
+2455,202209F,F,BA,English,3.12,Gonzaga Hall,1,CAS,48,,,0.0
+2456,202209F,F,BS,DSB Undeclared,3.65,Regis Hall,1,DSB,46,,,4.0
+2457,202209F,F,BS,Nursing,3.82,Jogues Hall,1,EGAN,58,,,0.0
+2458,202209F,M,BS,Mechanical Engineering,2.62,Commuter,1,SEC,52,,,14.0
+2459,202209F,M,BS,Psychology,3.64,Regis Hall,1,CAS,39,1370.0,,86.0
+2460,202209F,M,BS,Marketing,,Regis Hall,0,DSB,0,,,
+2461,202209F,F,BA,Politics,3.63,Gonzaga Hall,0,CAS,27,,,0.0
+2462,202209F,F,BS,DSB Undeclared,3.33,Jogues Hall,1,DSB,45,,,166.0
+2463,202209F,M,BS,Business Analytics,3.52,Campion Hall,1,DSB,42,,,76.0
+2464,202209F,M,BS,Biology,3.86,Jogues Hall,1,CAS,60,,,114.0
+2465,202209F,M,BS,Mechanical Engineering,3.1,Campion Hall,1,SEC,52,1290.0,,14.0
+2466,202209F,F,BS,Psychology,3.7,Gonzaga Hall,1,CAS,46,,,12.0
+2467,202209F,M,BS,Management,2.27,Jogues Hall,1,DSB,45,,,155.0
+2468,202209F,M,BS,Electrical and Computer Engineering,2.61,Commuter,0,SEC,31,1300.0,,0.0
+2469,202209F,F,BS,Accounting,2.81,Campion Hall,1,DSB,42,1370.0,,16.0
+2470,202209F,M,BS,Finance,3.82,Gonzaga Hall,1,DSB,45,,,62.0
+2471,202209F,M,BS,SOE Undeclared,3.46,Campion Hall,1,SEC,58,,,139.0
+2472,202209F,M,BA,Undeclared,3.45,Regis Hall,1,CAS,53,,,79.0
+2473,202209F,M,BA,Politics,3.49,Jogues Hall,1,CAS,45,,,166.0
+2474,202209F,M,BS,Finance,3.67,Jogues Hall,1,DSB,46,,,102.0
+2475,202209F,F,BS,Nursing,3.26,Regis Hall,1,EGAN,49,,,0.0
+2476,202209F,F,BA,International Studies,4.0,Jogues Hall,0,CAS,30,,,101.0
+2477,202209F,F,BS,Biology,3.91,Regis Hall,1,CAS,48,,,63.0
+2478,202209F,F,BS,Biology,3.45,Jogues Hall,1,CAS,46,1390.0,,0.0
+2479,202209F,F,BS,Psychology,2.94,Jogues Hall,1,CAS,49,,,12.0
+2480,202209F,M,BS,Chemistry,3.5,Regis Hall,1,CAS,59,1290.0,,161.0
+2481,202209F,F,BS,Biology,3.39,Campion Hall,1,CAS,51,1310.0,,152.0
+2482,202209F,F,BA,Communication,3.43,Jogues Hall,1,CAS,45,1210.0,,34.0
+2483,202209F,M,BS,SOE Undeclared,3.3,Campion Hall,1,SEC,49,1410.0,,0.0
+2484,202209F,F,BS,Psychology,3.62,Campion Hall,1,CAS,39,1270.0,,86.0
+2485,202209F,F,BS,DSB Undeclared,3.09,Gonzaga Hall,1,DSB,45,,,4.0
+2486,202209F,F,BA,Communication,3.9,Gonzaga Hall,0,CAS,30,1340.0,,134.0
+2487,202209F,M,BS,Marketing,3.64,Loyola Hall,1,DSB,45,,,44.0
+2488,202209F,F,BA,Visual & Performing Arts,3.68,Regis Hall,0,CAS,31,,,0.0
+2489,202209F,F,BA,Undeclared,3.37,Jogues Hall,0,CAS,30,,,0.0
+2490,202209F,F,BS,Finance,3.64,Regis Hall,1,DSB,49,,,62.0
+2491,202209F,M,BS,Management,3.84,Jogues Hall,1,DSB,60,,,5.0
+2492,202209F,F,BS,Psychology,3.62,Jogues Hall,1,CAS,53,,,87.0
+2493,202209F,F,BS,Mechanical Engineering,3.52,Jogues Hall,1,SEC,55,,,0.0
+2494,202209F,F,BS,Nursing,2.68,Commuter,1,EGAN,48,,,12.0
+2495,202209F,M,BS,Business Analytics,3.92,Jogues Hall,1,DSB,48,,,68.0
+2496,202209F,M,BS,Economics,3.48,Commuter,1,DSB,55,,,139.0
+2497,202209F,F,BS,Biology,3.81,Campion Hall,1,CAS,51,,,0.0
+2498,202209F,M,BS,DSB Undeclared,3.81,Regis Hall,1,DSB,48,,,91.0
+2499,202209F,F,BS,Nursing,3.88,Regis Hall,1,EGAN,51,,,0.0
+2500,202209F,M,BS,Psychology,3.62,Jogues Hall,1,CAS,45,1280.0,,87.0
+2501,202209F,F,BS,Psychology,2.53,Regis Hall,0,CAS,12,1290.0,,152.0
+2502,202209F,M,BS,DSB Undeclared,3.42,Jogues Hall,1,DSB,43,,,104.0
+2503,202209F,F,BS,Marketing,3.51,Loyola Hall,1,DSB,45,,,0.0
+2504,202209F,F,BS,DSB Undeclared,2.92,Loyola Hall,1,DSB,36,,,0.0
+2505,202209F,M,BS,DSB Undeclared,3.07,Gonzaga Hall,1,DSB,48,,,54.0
+2506,202209F,F,BA,Undeclared,3.5,Jogues Hall,1,CAS,56,,,23.0
+2507,202209F,F,BS,Computer Science,3.77,Jogues Hall,1,SEC,63,,,1.0
+2508,202209F,M,BS,Business Analytics,3.98,Jogues Hall,1,DSB,63,1300.0,,68.0
+2509,202209F,M,BA,Economics,3.98,Jogues Hall,1,CAS,63,1480.0,,99.0
+2510,202209F,M,BA,English,2.5,Gonzaga Hall,1,CAS,30,,,42.0
+2511,202209F,F,BS,Marketing,1.6,Loyola Hall,0,DSB,15,1400.0,,4.0
+2512,202209F,M,BS,Finance,2.72,Gonzaga Hall,1,DSB,42,1190.0,,66.0
+2513,202209F,M,BS,Mechanical Engineering,0.54,Campion Hall,0,SEC,13,,,0.0
+2514,202209F,F,BS,Psychology,3.86,Jogues Hall,1,CAS,55,,,12.0
+2515,202209F,F,BS,Biology,3.94,Jogues Hall,1,CAS,62,,,0.0
+2516,202209F,F,BA,Undeclared,3.94,Loyola Hall,1,CAS,52,1410.0,,0.0
+2517,202209F,M,BS,Finance,3.82,Jogues Hall,1,DSB,48,1300.0,,62.0
+2518,202209F,F,BS,DSB Undeclared,3.04,Loyola Hall,1,DSB,45,,,113.0
+2519,202209F,F,BS,Management,2.93,Regis Hall,1,DSB,39,,,15.0
+2520,202209F,F,BS,Biology,2.68,Commuter,1,CAS,39,,,110.0
+2521,202209F,M,BS,Finance,4.0,Jogues Hall,1,DSB,46,,,89.0
+2522,202209F,M,BS,Mechanical Engineering,2.94,Commuter,1,SEC,40,1140.0,,14.0
+2523,202209F,M,BS,DSB Undeclared,2.77,Jogues Hall,1,DSB,63,,,59.0
+2524,202209F,M,BS,Finance,3.11,Commuter,1,DSB,45,1310.0,,70.0
+2525,202209F,F,BA,Communication,3.87,Loyola Hall,1,CAS,54,1290.0,,34.0
+2526,202209F,M,BS,DSB Undeclared,3.56,Loyola Hall,1,DSB,45,1400.0,,94.0
+2527,202209F,F,BS,DSB Undeclared,3.87,Loyola Hall,0,DSB,31,,,0.0
+2528,202209F,F,BA,Undeclared,2.18,Regis Hall,1,CAS,34,,,0.0
+2529,202209F,F,BS,Nursing,2.69,Regis Hall,0,EGAN,16,,,0.0
+2530,202209F,M,BS,Management,3.13,Loyola Hall,0,DSB,15,1350.0,,0.0
+2531,202209F,M,BS,Finance,4.0,Jogues Hall,0,DSB,30,1260.0,,102.0
+2532,202209F,M,BS,SOE Undeclared,3.95,Campion Hall,1,SEC,58,,,159.0
+2533,202209F,M,BS,DSB Undeclared,2.0,Jogues Hall,0,DSB,27,,,116.0
+2534,202209F,M,BA,Undeclared,3.35,Regis Hall,1,CAS,51,,,53.0
+2535,202209F,M,BS,DSB Undeclared,3.14,Jogues Hall,1,DSB,42,1310.0,,0.0
+2536,202209F,F,BA,Sociology and Anthropology,2.73,Jogues Hall,1,CAS,46,,,24.0
+2537,202209F,M,BS,DSB Undeclared,3.18,Jogues Hall,1,DSB,45,,,53.0
+2538,202209F,F,BS,Computer Science,3.88,Jogues Hall,1,SEC,48,,,0.0
+2539,202209F,M,BS,Finance,4.0,Jogues Hall,1,DSB,58,1350.0,,66.0
+2540,202209F,M,BS,Marketing,2.48,Regis Hall,1,DSB,39,,,4.0
+2541,202209F,M,BS,Accounting,3.33,Campion Hall,1,DSB,52,,,48.0
+2542,202209F,M,BS,Marketing,3.09,Regis Hall,1,DSB,45,1260.0,,0.0
+2543,202209F,M,BS,DSB Undeclared,3.69,1036 North Benson Road,1,DSB,36,,,40.0
+2544,202209F,F,BA,Undeclared,2.13,Loyola Hall,1,CAS,36,,,49.0
+2545,202209F,M,BA,Economics,3.19,Campion Hall,1,CAS,42,1320.0,,16.0
+2546,202209F,M,BA,History,3.44,Loyola Hall,1,CAS,48,,,88.0
+2547,202209F,M,BS,Mechanical Engineering,1.6,Campion Hall,0,SEC,9,,,0.0
+2548,202209F,M,BS,Finance,3.59,Jogues Hall,1,DSB,46,,,66.0
+2549,202209F,M,BS,DSB Undeclared,3.84,Loyola Hall,1,DSB,46,,,89.0
+2550,202209F,F,BS,Psychology,3.8,Campion Hall,1,CAS,49,,,86.0
+2551,202209F,M,BS,Marketing,3.16,Regis Hall,1,DSB,45,,,36.0
+2552,202209F,M,BS,DSB Undeclared,2.0,Loyola Hall,0,DSB,15,,,99.0
+2553,202209F,F,BS,Computer Science,2.73,Loyola Hall,1,SEC,46,,,0.0
+2554,202209F,M,BS,Psychology,2.79,Loyola Hall,1,CAS,42,,,12.0
+2555,202209F,F,BS,Biology,2.93,Commuter,1,CAS,37,,,0.0
+2556,202209F,F,BA,Program on the Environment,,Commuter,0,CAS,0,,,
+2557,202209F,F,BA,Undeclared,3.87,Regis Hall,1,CAS,39,,,131.0
+2558,202209F,M,BS,DSB Undeclared,3.17,Loyola Hall,1,DSB,45,,,59.0
+2559,202209F,M,BS,Electrical and Computer Engineering,1.41,Campion Hall,0,SEC,5,,,139.0
+2560,202209F,M,BA,Undeclared,3.67,Regis Hall,1,CAS,49,1430.0,,133.0
+2561,202209F,M,BS,Finance,4.0,Loyola Hall,1,DSB,49,1130.0,,102.0
+2562,202209F,M,BS,Biology,3.89,Campion Hall,1,CAS,51,,,112.0
+2563,202209F,M,BS,Marketing,3.14,Regis Hall,1,DSB,42,,,66.0
+2564,202209F,M,BS,Accounting,3.78,Loyola Hall,1,DSB,52,1300.0,,38.0
+2565,202209F,M,BS,DSB Undeclared,2.59,Jogues Hall,1,DSB,46,,,66.0
+2566,202209F,F,BS,Biology,3.75,Jogues Hall,1,CAS,68,,,25.0
+2567,202209F,F,BS,Psychology,2.96,Gonzaga Hall,1,CAS,47,,,71.0
+2568,202209F,M,BS,DSB Undeclared,2.0,Gonzaga Hall,1,DSB,33,,,72.0
+2569,202209F,F,BS,Psychology,2.3,Gonzaga Hall,0,CAS,27,,,87.0
+2570,202209F,M,BA,Communication,3.91,Campion Hall,1,CAS,42,,,149.0
+2571,202209F,M,BS,DSB Undeclared,3.57,Campion Hall,1,DSB,42,,,4.0
+2572,202209F,M,BS,Finance,3.52,Campion Hall,1,DSB,42,,,70.0
+2573,202209F,F,BA,Communication,3.84,Loyola Hall,1,CAS,45,,,49.0
+2574,202209F,M,BS,Electrical and Computer Engineering,3.9,Gonzaga Hall,1,SEC,51,,,139.0
+2575,202209F,F,BS,Biology,3.0,Commuter,1,CAS,45,,,12.0
+2576,202209F,M,BA,Undeclared,2.79,Jogues Hall,1,CAS,48,,,0.0
+2577,202209F,M,BA,Undeclared,3.73,Campion Hall,1,CAS,45,,,163.0
+2578,202209F,M,BS,Finance,2.97,Jogues Hall,0,DSB,30,1240.0,,89.0
+2579,202209F,M,BS,Economics,2.42,Regis Hall,0,DSB,12,1440.0,,99.0
+2580,202209F,M,BS,DSB Undeclared,3.45,Jogues Hall,1,DSB,45,,,66.0
+2581,202209F,M,BS,Management,2.8,Regis Hall,1,DSB,42,,,5.0
+2582,202209F,M,BS,DSB Undeclared,2.84,Jogues Hall,1,DSB,42,,,3.0
+2583,202209F,F,BS,Marketing,3.64,Jogues Hall,1,DSB,45,,,3.0
+2584,202209F,M,BS,DSB Undeclared,2.29,Jogues Hall,1,DSB,48,,Undeclared,25.0
